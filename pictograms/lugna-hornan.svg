@@ -1,57 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Lugna hörnan (Calm Corner) - Child sitting on cushion with sensory items -->
-  
-  <!-- Floor -->
-  <rect x="40" y="380" width="420" height="80" rx="5" fill="#E8DCC8" stroke="#000" stroke-width="3"/>
-  
-  <!-- Wall corner -->
-  <line x1="250" y1="40" x2="250" y2="380" stroke="#D4D4D4" stroke-width="2"/>
-  <rect x="40" y="40" width="210" height="340" fill="#F0EDE8" stroke="#000" stroke-width="3"/>
-  <rect x="250" y="40" width="210" height="340" fill="#E8E5E0" stroke="#000" stroke-width="3"/>
-  
-  <!-- Calming poster on wall -->
-  <rect x="80" y="80" width="100" height="80" rx="5" fill="#E8F4F8" stroke="#000" stroke-width="2"/>
-  <!-- Heart on poster -->
-  <path d="M130 100 Q115 85 105 100 Q105 115 130 135 Q155 115 155 100 Q145 85 130 100 Z" fill="#FF9999" stroke="#000" stroke-width="1.5"/>
-  
-  <!-- Large cushion/beanbag -->
-  <ellipse cx="250" cy="370" rx="100" ry="35" fill="#7BC8E6" stroke="#000" stroke-width="3.5"/>
-  <path d="M150 370 Q150 310 200 290 Q250 280 300 290 Q350 310 350 370" fill="#7BC8E6" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Child sitting on cushion -->
-  <!-- Body -->
-  <path d="M220 280 L210 350 Q210 360 250 360 Q290 360 290 350 L280 280 Z" fill="#4A90D9" stroke="#000" stroke-width="3"/>
-  <!-- Head -->
-  <circle cx="250" cy="245" r="40" fill="#F5DEB3" stroke="#000" stroke-width="3.5"/>
-  <!-- Hair -->
-  <path d="M210 240 Q210 210 250 205 Q290 210 290 240" fill="#8B5E3C" stroke="#000" stroke-width="2.5"/>
-  <!-- Eyes (closed, calm) -->
-  <path d="M232 248 Q237 252 242 248" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M258 248 Q263 252 268 248" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
-  <!-- Calm smile -->
-  <path d="M240 262 Q250 268 260 262" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
-  
-  <!-- Arms hugging a plush toy -->
-  <path d="M220 290 Q200 310 210 340" fill="none" stroke="#F5DEB3" stroke-width="12" stroke-linecap="round"/>
-  <path d="M280 290 Q300 310 290 340" fill="none" stroke="#F5DEB3" stroke-width="12" stroke-linecap="round"/>
-  <path d="M220 290 Q200 310 210 340" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
-  <path d="M280 290 Q300 310 290 340" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
-  
-  <!-- Small teddy bear -->
-  <circle cx="250" cy="325" r="20" fill="#D2B48C" stroke="#000" stroke-width="2.5"/>
-  <circle cx="250" cy="308" r="14" fill="#D2B48C" stroke="#000" stroke-width="2.5"/>
-  <!-- Teddy ears -->
-  <circle cx="240" cy="298" r="6" fill="#D2B48C" stroke="#000" stroke-width="2"/>
-  <circle cx="260" cy="298" r="6" fill="#D2B48C" stroke="#000" stroke-width="2"/>
-  <!-- Teddy face -->
-  <circle cx="246" cy="306" r="2" fill="#000"/>
-  <circle cx="254" cy="306" r="2" fill="#000"/>
-  <ellipse cx="250" cy="312" rx="4" ry="3" fill="#8B5E3C"/>
-  
-  <!-- Ear defenders on shelf -->
-  <rect x="310" y="120" width="120" height="10" rx="3" fill="#C68642" stroke="#000" stroke-width="2"/>
-  <!-- Ear defenders -->
-  <path d="M340 120 Q340 95 370 95 Q400 95 400 120" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
-  <rect x="332" y="110" width="16" height="20" rx="5" fill="#E00000" stroke="#000" stroke-width="2"/>
-  <rect x="392" y="110" width="16" height="20" rx="5" fill="#E00000" stroke="#000" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 1342.99 370.723 L 1776.08 370.711 C 1816.76 368.068 1807.92 425.657 1807.88 450.786 L 1807.83 1562.8 C 1807.83 1588.68 1807.69 1614.57 1808.17 1640.42 C 1808.33 1689.87 1734.39 1689.47 1731.33 1638.78 C 1730.45 1624.16 1730.91 1608.37 1730.92 1593.6 L 1730.96 446.046 L 832.019 446.049 C 795.627 446.051 757.389 446.738 721.213 446.046 C 718.344 447.597 715.315 449.564 712.513 451.3 C 628.415 509.21 546.022 571.438 462.336 629.518 L 363.194 697.825 C 353.728 704.378 324.279 723.932 317.047 731.449 L 316.962 1615.77 C 316.959 1624.34 317.78 1634.94 317.103 1643.22 C 313.951 1681.8 239.158 1704.75 238.965 1623.52 L 239.05 440.066 C 239.08 373.911 235.042 370.619 302.754 370.671 L 1342.99 370.723 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 1026.06 1425.27 C 1058.82 1368.8 1118.12 1383.67 1172.75 1385.38 L 1367.74 1392.75 C 1404.9 1394.21 1444.19 1392.92 1481.11 1396.29 C 1524.33 1400.23 1527.69 1429.49 1527.82 1462.64 C 1527.4 1508.7 1528.29 1554.9 1527.75 1600.94 L 1143.25 1600.94 L 582.916 1600.93 C 565.563 1600.92 534.451 1599.75 518.57 1600.94 L 518.528 1491.02 C 518.486 1420.25 508.099 1399.27 592.023 1396.9 L 846.943 1387.55 C 877.523 1386.25 916.13 1386.16 945.816 1383 C 981.838 1381.24 1006.42 1395.98 1026.06 1425.27 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 1018.15 1075 C 1040.58 1070.79 1050.88 1096.82 1062.8 1111.96 C 1099.78 1158.97 1139.65 1198.88 1177.77 1243.34 C 1209.25 1280.07 1083.97 1321.63 1061.37 1329.14 C 1061.71 1334.24 1061.45 1340.14 1061.37 1345.31 C 1053 1354.82 1042.6 1357.87 1031.09 1362.68 C 1005.71 1362.15 989.462 1355.29 987.938 1329.14 C 961.068 1322.65 843.337 1274.06 864.898 1248.53 C 883.739 1226.21 1005.77 1079.39 1018.15 1075 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 659.719 1075 C 681.578 1074.01 702.668 1114.77 717.438 1131.62 C 750.103 1168.86 782.89 1206.03 817.486 1241.49 C 854.414 1279.36 722.255 1324.43 699.592 1329.14 C 699.142 1334.95 699.509 1343.75 699.592 1349.82 C 691.674 1357.28 683.837 1360.19 673.571 1362.68 L 670.96 1362.89 C 642.292 1365.33 628.339 1358.17 627.934 1329.14 C 597.822 1317.16 515.631 1284.52 506.644 1260.63 C 500.122 1243.3 542.193 1207.36 552.84 1195.27 C 567.104 1179.06 646.652 1079.36 659.719 1075 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 1378.02 1070.25 C 1391.07 1069.52 1395.31 1075.55 1402.18 1085.65 C 1442.77 1145.43 1496.08 1194.88 1541.33 1250.71 C 1562.17 1276.43 1433.68 1323.29 1418.36 1329.14 C 1421.4 1354.56 1410.33 1359.84 1387.96 1364.68 C 1359.2 1368.39 1347.7 1355.48 1348 1329.14 C 1320.14 1318.18 1195.08 1279.1 1231.84 1241.49 C 1248 1224.96 1374.79 1071.75 1378.02 1070.25 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 443.788 1243.22 C 504.942 1224.72 510.6 1299.56 510.646 1337.79 L 510.613 1628.32 C 494.905 1628.63 478.48 1628.36 462.717 1628.32 C 439.386 1628.28 416.406 1628.76 393.012 1628.32 C 392.04 1610.38 392.985 1581.56 392.988 1562.95 L 392.966 1345.96 C 392.809 1305.57 387.591 1247.38 443.788 1243.22 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<path d="M 1586.83 1243.22 C 1651.72 1237.42 1655.49 1289.61 1655.51 1338.84 L 1655.49 1628.32 C 1640.94 1628.98 1621.66 1628.36 1606.75 1628.32 C 1584.23 1628.39 1560.32 1627.61 1537.99 1628.32 L 1537.95 1336.72 C 1537.95 1292.64 1534.41 1256.82 1586.83 1243.22 z" fill="rgb(1,1,1)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "+ZI0zt+42cAJtIBsVioLOMjlQG+9lsiT/zhbGSLVf20DN9ywmA6fSlD++Hy5SDu49qw67eRm4G2ghNGJ9BENCA==", "signing_algo": "Ed25519", "generation_timestamp": 1772988385, "identifier": "0cf04276-bbca-432c-af9b-d6a5759581f7"}</recraft-signature></metadata></svg>

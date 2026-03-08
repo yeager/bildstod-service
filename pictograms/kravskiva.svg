@@ -1,79 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Kräftskiva — ARASAAC style v3: single large crayfish on plate, clean and centered -->
-  
-  <!-- Plate -->
-  <ellipse cx="250" cy="395" rx="180" ry="38" fill="#FFF" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Crayfish body (large, centered) -->
-  <!-- Tail -->
-  <path d="M210 340 Q200 365 210 385 Q230 400 250 400 Q270 400 290 385 Q300 365 290 340"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <!-- Tail segments -->
-  <line x1="220" y1="355" x2="280" y2="355" stroke="#B71C1C" stroke-width="2.5"/>
-  <line x1="215" y1="370" x2="285" y2="370" stroke="#B71C1C" stroke-width="2.5"/>
-  <line x1="218" y1="385" x2="282" y2="385" stroke="#B71C1C" stroke-width="2.5"/>
-  
-  <!-- Abdomen -->
-  <path d="M215 220 Q215 195 250 185 Q285 195 285 220 L290 340 L210 340 Z"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <!-- Segments -->
-  <line x1="218" y1="250" x2="282" y2="250" stroke="#B71C1C" stroke-width="2.5"/>
-  <line x1="215" y1="275" x2="285" y2="275" stroke="#B71C1C" stroke-width="2.5"/>
-  <line x1="213" y1="300" x2="287" y2="300" stroke="#B71C1C" stroke-width="2.5"/>
-  <line x1="212" y1="325" x2="288" y2="325" stroke="#B71C1C" stroke-width="2.5"/>
-  
-  <!-- Head/carapace -->
-  <path d="M225 195 Q250 155 275 195" fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  
-  <!-- Eyes on stalks -->
-  <line x1="238" y1="185" x2="228" y2="160" stroke="#000" stroke-width="3"/>
-  <circle cx="228" cy="157" r="7" fill="#000"/>
-  <circle cx="226" cy="155" r="2.5" fill="#FFF"/>
-  <line x1="262" y1="185" x2="272" y2="160" stroke="#000" stroke-width="3"/>
-  <circle cx="272" cy="157" r="7" fill="#000"/>
-  <circle cx="270" cy="155" r="2.5" fill="#FFF"/>
-  
-  <!-- Antennae -->
-  <path d="M240 180 Q215 140 190 115" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
-  <path d="M260 180 Q285 140 310 115" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
-  
-  <!-- Claws (large, defining feature) -->
-  <!-- Left claw -->
-  <path d="M215 235 L160 205 L140 175" fill="none" stroke="#E00000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M215 235 L160 205 L140 175" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Left pincer -->
-  <path d="M140 175 L115 155 Q108 150 112 160 L125 170"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <path d="M140 175 L125 195 Q120 202 128 198 L140 185"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <!-- Right claw -->
-  <path d="M285 235 L340 205 L360 175" fill="none" stroke="#E00000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M285 235 L340 205 L360 175" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Right pincer -->
-  <path d="M360 175 L385 155 Q392 150 388 160 L375 170"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <path d="M360 175 L375 195 Q380 202 372 198 L360 185"
-        fill="#E00000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  
-  <!-- Walking legs (3 pairs) -->
-  <path d="M218 255 L185 268" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  <path d="M218 280 L182 295" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  <path d="M218 305 L188 320" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  <path d="M282 255 L315 268" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  <path d="M282 280 L318 295" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  <path d="M282 305 L312 320" fill="none" stroke="#E00000" stroke-width="4" stroke-linecap="round"/>
-  
-  <!-- Dill sprigs -->
-  <path d="M130 345 Q118 320 122 295" fill="none" stroke="#2E7D32" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M122 315 L112 305" fill="none" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M122 308 L132 298" fill="none" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M370 345 Q382 320 378 295" fill="none" stroke="#2E7D32" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M378 315 L388 305" fill="none" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M378 308 L368 298" fill="none" stroke="#2E7D32" stroke-width="2.5" stroke-linecap="round"/>
-  
-  <!-- Paper lantern (top corner, small) -->
-  <ellipse cx="420" cy="60" rx="35" ry="28" fill="#FFD700" stroke="#000" stroke-width="3"/>
-  <circle cx="410" cy="56" r="3" fill="#000"/>
-  <circle cx="430" cy="56" r="3" fill="#000"/>
-  <path d="M412 68 Q420 74 428 68" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 285.903 1099.5 C 293.755 1098.53 329.734 1099.5 339.997 1099.52 L 657.363 1099.52 C 679.173 1099.52 707.263 1100.52 728.63 1099.32 C 814.432 1094.51 800.382 1146.55 800.299 1209.8 L 800.595 1635.31 C 800.707 1658.25 786.462 1671.19 765.622 1677.19 L 340.41 1677.26 C 236.22 1677.33 248.183 1670.83 248.186 1577.13 L 248.371 1143.44 C 248.582 1118.25 261.924 1105.24 285.903 1099.5 z M 298.021 1628 L 600.698 1628.02 C 648.433 1628.02 703.756 1629.41 751.036 1628 C 751.837 1624.08 751.063 1594.94 751.053 1588.49 L 751.027 1254.89 C 751.059 1223.63 754.006 1180.2 751.036 1149.86 L 298.021 1149.86 L 298.021 1628 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1291.38 1099.5 C 1328.2 1100.12 1366.92 1099.53 1403.9 1099.53 L 1710.46 1099.44 C 1747.98 1099.43 1798.86 1091.76 1799.03 1145.42 L 1799.08 1581.78 C 1799.08 1620.86 1809.94 1676.55 1753.25 1677.19 L 1340.33 1677.22 C 1240.24 1677.52 1246.86 1669.82 1246.93 1583.07 L 1246.9 1178.47 C 1246.6 1139.3 1241.12 1107.57 1291.38 1099.5 z M 1295.54 1628 L 1750.21 1628 L 1750.21 1149.86 L 1295.54 1149.86 L 1295.54 1628 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1291.38 365.06 L 1706.76 365.01 C 1772.32 364.957 1799.35 355.304 1799.13 429.957 L 1799.04 822.565 C 1799.07 860.857 1813.59 938.671 1760.25 942.011 L 1344.42 942.063 C 1239.29 942.168 1246.92 933.745 1246.92 840.641 L 1246.91 446.326 C 1246.89 407.171 1240.87 372.512 1291.38 365.06 z M 1295.54 416.624 L 1295.54 893.002 L 1624.5 893.002 L 1750.21 893.002 C 1750.96 840.68 1750.21 786.258 1750.21 733.771 L 1750.21 416.624 C 1716.81 415.43 1676.31 416.632 1642.14 416.636 L 1423.49 416.624 L 1295.54 416.624 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 294.502 365.06 L 708.079 365.031 C 738.188 364.992 794.447 356.179 798.481 399.837 C 801.092 428.087 800.311 457.694 800.294 486.033 L 800.283 805.982 C 800.287 849.244 817.141 947.193 751.036 942.011 L 337.5 942.044 C 232.168 942.497 248.158 928.766 248.176 831.56 L 248.203 493.597 C 248.159 443.665 229.564 370.608 294.502 365.06 z M 298.021 416.624 L 298.089 846.665 C 298.041 860.772 298.701 879.589 298.021 893.002 L 650.5 893.002 L 751.036 893.002 L 751.036 416.624 L 396.998 416.624 L 298.021 416.624 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1062.9 1272.08 C 1069.26 1271.84 1075.41 1272.28 1080.48 1276.75 C 1093.36 1288.12 1188.92 1371.76 1183.9 1385.99 C 1179.48 1398.5 1095.55 1480.73 1073.03 1492.95 C 1040.76 1494.3 1034.95 1468.51 1053.04 1444.01 L 937.191 1444.03 C 922.285 1444.06 895.758 1445.32 882.287 1444.02 C 852.644 1441.15 851.065 1397.52 890.75 1396.8 L 1102.39 1396.8 C 1105.07 1390.65 1107.32 1385.9 1110.43 1379.95 C 1108.03 1375.77 1105.2 1372.02 1102.39 1368.11 L 951.755 1368.11 C 928.653 1368.12 904.49 1368.96 881.535 1367.91 C 855.979 1366.75 853.438 1324.43 880.605 1321.95 C 900.28 1320.14 920.69 1320.96 940.493 1320.96 L 1056.21 1321.02 C 1040.02 1302.64 1034.85 1280.74 1062.9 1272.08 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1059.22 545.124 C 1064.08 544.641 1068.17 544.937 1073.03 545.124 C 1090.34 554.476 1152.1 624.72 1169.84 643.484 C 1190.94 665.815 1164.93 681.66 1150.04 696.832 L 1106.63 740.908 C 1097.91 749.78 1079.12 773.264 1066.12 773.207 C 1037.87 773.083 1039.11 744.349 1053.04 724.971 C 1001.46 726.147 949.026 724.124 897.368 725.013 C 860.551 725.647 842.979 671.796 907.699 675.906 L 1102.39 675.906 C 1107.04 668.49 1109.19 666.264 1115.25 660.027 C 1111.23 654.539 1107.33 651.147 1102.39 646.5 L 914.436 646.563 C 837.089 647.441 869.082 600.346 885.477 598.913 C 904.842 597.221 925.421 597.939 944.88 597.957 L 1059.22 598.003 C 1043.84 579.698 1029.43 559.64 1059.22 545.124 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "vP1zUUTtRdTEc3NJmqTfauDG0yd6oQtxpe1amtRLznWaRcLqZ2fLopRQ4md5byswNGOj2Fa5AezUlvxvKcjpCA==", "signing_algo": "Ed25519", "generation_timestamp": 1772988280, "identifier": "7a4c642e-9ac2-4603-b69a-0a8eb9b76d15"}</recraft-signature></metadata></svg>

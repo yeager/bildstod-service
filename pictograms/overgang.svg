@@ -1,58 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Övergång/Transition — ARASAAC style: child walking from one activity to another -->
-  
-  <!-- Left area (reading — done) -->
-  <rect x="30" y="120" width="150" height="180" rx="8" fill="#E8F5E9" stroke="#000" stroke-width="3"/>
-  <!-- Book -->
-  <rect x="70" y="170" width="70" height="55" rx="3" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
-  <line x1="105" y1="170" x2="105" y2="225" stroke="#FFF" stroke-width="2"/>
-  <rect x="78" y="180" width="20" height="4" rx="2" fill="#FFF"/>
-  <rect x="78" y="190" width="18" height="4" rx="2" fill="#FFF"/>
-  <rect x="78" y="200" width="20" height="4" rx="2" fill="#FFF"/>
-  <!-- Green checkmark -->
-  <circle cx="105" cy="265" r="18" fill="#4CAF50" stroke="#000" stroke-width="3"/>
-  <path d="M95 265 L102 274 L115 256" fill="none" stroke="#FFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  
-  <!-- Right area (play — next) -->
-  <rect x="320" y="120" width="150" height="180" rx="8" fill="#FFF3E0" stroke="#000" stroke-width="3"/>
-  <!-- Ball -->
-  <circle cx="395" cy="200" r="30" fill="#E00000" stroke="#000" stroke-width="3.5"/>
-  <path d="M375 188 Q395 200 415 188" fill="none" stroke="#FFF" stroke-width="2.5"/>
-  <line x1="395" y1="170" x2="395" y2="230" stroke="#FFF" stroke-width="2"/>
-  <!-- Star (fun/reward) -->
-  <polygon points="395,265 401,280 418,280 405,290 410,305 395,296 380,305 385,290 372,280 389,280" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
-  
-  <!-- Big green arrow (center) -->
-  <path d="M200 230 L290 230" fill="none" stroke="#4CAF50" stroke-width="8" stroke-linecap="round"/>
-  <path d="M275 215 L295 230 L275 245" fill="#4CAF50" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
-  
-  <!-- Child walking (center, on the arrow) -->
-  <!-- Head -->
-  <circle cx="250" cy="340" r="28" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  <!-- Hair -->
-  <path d="M225 325 Q230 305 250 300 Q270 305 275 325" fill="#8B5E2A" stroke="#000" stroke-width="2.5"/>
-  <!-- Eyes -->
-  <circle cx="242" cy="338" r="3" fill="#000"/>
-  <circle cx="258" cy="338" r="3" fill="#000"/>
-  <!-- Smile -->
-  <path d="M242 350 Q250 358 258 350" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
-  <!-- Body (shirt) -->
-  <rect x="232" y="368" width="36" height="38" rx="4" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
-  <!-- Pants -->
-  <rect x="232" y="403" width="16" height="30" rx="3" fill="#0099DD" stroke="#000" stroke-width="3"/>
-  <rect x="252" y="403" width="16" height="30" rx="3" fill="#0099DD" stroke="#000" stroke-width="3"/>
-  <!-- Arms (walking motion) -->
-  <path d="M232 375 L210 395" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
-  <path d="M232 375 L210 395" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M268 375 L290 395" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
-  <path d="M268 375 L290 395" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
-  <!-- Feet -->
-  <ellipse cx="240" cy="438" rx="12" ry="7" fill="#000"/>
-  <ellipse cx="260" cy="438" rx="12" ry="7" fill="#000"/>
-  
-  <!-- Footprints showing direction -->
-  <ellipse cx="185" cy="450" rx="5" ry="8" fill="#CCC" transform="rotate(-10 185 450)"/>
-  <ellipse cx="210" cy="445" rx="5" ry="8" fill="#CCC" transform="rotate(-5 210 445)"/>
-  <ellipse cx="290" cy="445" rx="5" ry="8" fill="#CCC" transform="rotate(5 290 445)"/>
-  <ellipse cx="315" cy="450" rx="5" ry="8" fill="#CCC" transform="rotate(10 315 450)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 344.692 294.997 C 348.052 294.574 364.648 294.913 369.336 294.919 L 1083.62 295.218 C 1122.64 295.133 1164.07 330.032 1166.65 369.857 C 1168.5 398.441 1167.34 432.887 1167.32 462.215 L 1167.31 784.138 C 1167.33 853.446 1176.22 907.492 1091.19 929.992 C 1038.47 930.747 984.056 929.994 931.163 929.99 L 438.195 929.984 C 409.337 929.989 379.45 930.618 350.666 929.464 C 310.333 927.596 269.62 889.762 267.015 849.324 C 265.711 829.073 266.95 803.651 266.98 782.581 L 267.006 449.474 C 267.008 376.442 256.162 313.693 344.692 294.997 z M 362.316 833.828 L 1072.28 833.828 L 1074.41 833.043 C 1075.52 828.638 1074.98 802.355 1074.96 796.104 L 1074.94 391.012 L 362.316 391.012 C 360.739 537.538 366.906 687.949 362.316 833.828 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 344.692 1117 C 358.141 1116.17 374.855 1116.9 388.696 1116.94 L 1046.38 1116.93 C 1160.47 1116.85 1167.5 1153.39 1167.38 1261.51 L 1167.36 1646.18 C 1167.34 1699.92 1159.02 1736.06 1095.76 1749.14 L 426.921 1749.17 C 367.637 1749.16 274.206 1758.23 267.645 1671.27 C 266.021 1649.73 266.931 1625.52 266.953 1603.84 L 267.027 1206.18 C 266.653 1158.77 300.251 1125.11 344.692 1117 z M 362.316 1213.56 L 362.316 1654.53 L 818.25 1654.53 L 1072.28 1654.53 L 1072.28 1213.56 L 618.997 1213.56 L 362.316 1213.56 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1561.13 380.468 C 1593.42 379.973 1614.29 409.911 1635.45 431.002 L 1747.19 542.622 C 1796.45 591.816 1798.01 603.582 1748.58 654.025 L 1630.81 774.016 C 1619.57 785.573 1607.04 800.19 1594.8 809.814 C 1556.39 840.009 1493.2 789.425 1525.78 744.438 C 1541.99 722.07 1585.31 682.88 1606.96 660.678 L 1615.42 649.993 C 1599.01 652.236 1569.2 650.099 1551.46 650.042 L 1338.79 650.013 C 1314.88 650.003 1284.35 654.314 1266.02 636.462 C 1246.91 617.842 1241.53 588.259 1261.19 567.632 C 1278.55 549.409 1298.8 552.874 1321.49 552.898 L 1375.29 552.908 C 1454.2 552.918 1537.06 554.416 1615.42 552.947 C 1607.08 541.759 1595.49 530.847 1585.59 520.841 L 1549.8 484.518 C 1528.9 463.486 1505.47 443.999 1518.67 411.129 C 1526.52 391.587 1540.56 382.528 1561.13 380.468 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1561.13 1221.18 C 1594 1219.03 1617.79 1252.73 1638.6 1273.87 L 1740.37 1376.9 C 1767.6 1404 1799.51 1436.69 1764.52 1473.33 C 1738.49 1500.59 1711.38 1527.01 1684.98 1553.99 L 1625.87 1613.82 C 1608.81 1630.93 1592.28 1654.33 1566.45 1655.83 C 1526.6 1657.72 1504.2 1612.82 1525.58 1580.49 C 1538.85 1559.95 1584 1521.42 1603.08 1502.21 C 1605.79 1498.73 1612.02 1492.89 1615.42 1489.53 L 1335.91 1489.61 C 1321.78 1489.61 1307.69 1490.29 1293.65 1488.51 C 1239.18 1481.64 1240.43 1400.88 1294.16 1393.34 C 1306.87 1391.56 1321.16 1392.08 1334.05 1392.08 L 1619.92 1392.15 C 1600.12 1370.26 1577.12 1349.09 1555.2 1327.03 C 1530.32 1301.99 1500.87 1281.69 1525.44 1240.42 C 1532.76 1228.12 1547.47 1223.59 1561.13 1221.18 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "4Lm0s7Np5Jgqh3Ts6Clac8Qr7lQMio7pSimvFJRp3DNaa3iEk/tPMhF05uGXaGMKTjR6RCPnl71p5H7AVNfcAQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772988347, "identifier": "667430d8-3f4f-49f3-b4a7-f989abcc3be7"}</recraft-signature></metadata></svg>
