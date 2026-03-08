@@ -1,13 +1,75 @@
-# CORS for API access
+# === SECURITY HEADERS ===
+<IfModule mod_headers.c>
+  # Prevent MIME sniffing
+  Header always set X-Content-Type-Options "nosniff"
+  # Prevent clickjacking
+  Header always set X-Frame-Options "SAMEORIGIN"
+  # XSS protection
+  Header always set X-XSS-Protection "1; mode=block"
+  # Referrer policy
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  # Content Security Policy
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://autismappar.se; connect-src 'self' https://autismappar.se; frame-ancestors 'self' https://autismappar.se"
+  # Permissions Policy — disable unnecessary browser features
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+  # Strict Transport Security (HTTPS only)
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+
+# === CORS — restricted to our domains ===
 <IfModule mod_headers.c>
   <FilesMatch "\.(json)$">
-    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Origin "https://autismappar.se"
     Header set Access-Control-Allow-Methods "GET"
+    Header set Access-Control-Max-Age "3600"
     Header set Content-Type "application/json; charset=utf-8"
   </FilesMatch>
 </IfModule>
 
-# Cache static assets
+# === RATE LIMITING (mod_evasive or mod_ratelimit) ===
+<IfModule mod_ratelimit.c>
+  # Throttle API responses to 512 KB/s (prevents bulk scraping)
+  <FilesMatch "\.(json)$">
+    SetOutputFilter RATE_LIMIT
+    SetEnv rate-limit 512
+  </FilesMatch>
+</IfModule>
+
+# === BLOCK ABUSE PATTERNS ===
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Block empty/suspicious user agents
+  RewriteCond %{HTTP_USER_AGENT} ^$ [OR]
+  RewriteCond %{HTTP_USER_AGENT} ^(curl|wget|python-requests|scrapy|httpclient)$ [NC]
+  RewriteRule ^api/ - [F,L]
+
+  # Block non-GET methods on API
+  RewriteCond %{REQUEST_METHOD} !^GET$ [NC]
+  RewriteRule ^api/ - [F,L]
+
+  # Block direct access to .htaccess and hidden files
+  RewriteRule (^\.|/\.) - [F,L]
+
+  # SPA fallback (only for HTML requests)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !^/bildstod/(api|pictograms)/ [NC]
+  RewriteRule ^(.*)$ /bildstod/index.html [L]
+</IfModule>
+
+# === DIRECTORY PROTECTION ===
+# Disable directory listing
+Options -Indexes
+
+# Prevent script execution in uploads directory
+<FilesMatch "\.(php|phtml|php3|php4|php5|pl|py|cgi|sh|bash)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
+
+# === CACHE CONTROL ===
 <IfModule mod_expires.c>
   ExpiresActive On
   ExpiresByType image/svg+xml "access plus 1 week"
@@ -16,8 +78,6 @@
   ExpiresByType text/html "access plus 10 minutes"
 </IfModule>
 
-# SPA fallback
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /bildstod/index.html [L]
+# === FILE SIZE LIMITS ===
+# Reject large POST bodies (no uploads needed)
+LimitRequestBody 1024
