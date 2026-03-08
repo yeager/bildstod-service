@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Lugna hörnan (Calm Corner) - Child sitting on cushion with sensory items -->
+  
+  <!-- Floor -->
+  <rect x="40" y="380" width="420" height="80" rx="5" fill="#E8DCC8" stroke="#000" stroke-width="3"/>
+  
+  <!-- Wall corner -->
+  <line x1="250" y1="40" x2="250" y2="380" stroke="#D4D4D4" stroke-width="2"/>
+  <rect x="40" y="40" width="210" height="340" fill="#F0EDE8" stroke="#000" stroke-width="3"/>
+  <rect x="250" y="40" width="210" height="340" fill="#E8E5E0" stroke="#000" stroke-width="3"/>
+  
+  <!-- Calming poster on wall -->
+  <rect x="80" y="80" width="100" height="80" rx="5" fill="#E8F4F8" stroke="#000" stroke-width="2"/>
+  <!-- Heart on poster -->
+  <path d="M130 100 Q115 85 105 100 Q105 115 130 135 Q155 115 155 100 Q145 85 130 100 Z" fill="#FF9999" stroke="#000" stroke-width="1.5"/>
+  
+  <!-- Large cushion/beanbag -->
+  <ellipse cx="250" cy="370" rx="100" ry="35" fill="#7BC8E6" stroke="#000" stroke-width="3.5"/>
+  <path d="M150 370 Q150 310 200 290 Q250 280 300 290 Q350 310 350 370" fill="#7BC8E6" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child sitting on cushion -->
+  <!-- Body -->
+  <path d="M220 280 L210 350 Q210 360 250 360 Q290 360 290 350 L280 280 Z" fill="#4A90D9" stroke="#000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="250" cy="245" r="40" fill="#F5DEB3" stroke="#000" stroke-width="3.5"/>
+  <!-- Hair -->
+  <path d="M210 240 Q210 210 250 205 Q290 210 290 240" fill="#8B5E3C" stroke="#000" stroke-width="2.5"/>
+  <!-- Eyes (closed, calm) -->
+  <path d="M232 248 Q237 252 242 248" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M258 248 Q263 252 268 248" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Calm smile -->
+  <path d="M240 262 Q250 268 260 262" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Arms hugging a plush toy -->
+  <path d="M220 290 Q200 310 210 340" fill="none" stroke="#F5DEB3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M280 290 Q300 310 290 340" fill="none" stroke="#F5DEB3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 290 Q200 310 210 340" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M280 290 Q300 310 290 340" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Small teddy bear -->
+  <circle cx="250" cy="325" r="20" fill="#D2B48C" stroke="#000" stroke-width="2.5"/>
+  <circle cx="250" cy="308" r="14" fill="#D2B48C" stroke="#000" stroke-width="2.5"/>
+  <!-- Teddy ears -->
+  <circle cx="240" cy="298" r="6" fill="#D2B48C" stroke="#000" stroke-width="2"/>
+  <circle cx="260" cy="298" r="6" fill="#D2B48C" stroke="#000" stroke-width="2"/>
+  <!-- Teddy face -->
+  <circle cx="246" cy="306" r="2" fill="#000"/>
+  <circle cx="254" cy="306" r="2" fill="#000"/>
+  <ellipse cx="250" cy="312" rx="4" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Ear defenders on shelf -->
+  <rect x="310" y="120" width="120" height="10" rx="3" fill="#C68642" stroke="#000" stroke-width="2"/>
+  <!-- Ear defenders -->
+  <path d="M340 120 Q340 95 370 95 Q400 95 400 120" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+  <rect x="332" y="110" width="16" height="20" rx="5" fill="#E00000" stroke="#000" stroke-width="2"/>
+  <rect x="392" y="110" width="16" height="20" rx="5" fill="#E00000" stroke="#000" stroke-width="2"/>
+</svg>

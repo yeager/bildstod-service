@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Fika - Swedish coffee break: coffee cup + kanelbulle on plate -->
+  
+  <!-- Plate shadow -->
+  <ellipse cx="320" cy="380" rx="110" ry="25" fill="#D4D4D4"/>
+  
+  <!-- Plate -->
+  <ellipse cx="320" cy="370" rx="110" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Kanelbulle (cinnamon bun) -->
+  <circle cx="320" cy="340" r="50" fill="#C68642" stroke="#000" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Spiral pattern -->
+  <path d="M320 340 Q330 320 320 310 Q310 320 320 330 Q330 340 325 350 Q315 345 320 335 Q325 325 318 320" fill="none" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sugar/pearl nib -->
+  <circle cx="310" cy="325" r="3" fill="#FFFFFF" stroke="#8B5E3C" stroke-width="1"/>
+  <circle cx="330" cy="335" r="3" fill="#FFFFFF" stroke="#8B5E3C" stroke-width="1"/>
+  <circle cx="315" cy="345" r="3" fill="#FFFFFF" stroke="#8B5E3C" stroke-width="1"/>
+  
+  <!-- Coffee cup shadow -->
+  <ellipse cx="175" cy="380" rx="75" ry="18" fill="#D4D4D4"/>
+  
+  <!-- Saucer -->
+  <ellipse cx="175" cy="370" rx="80" ry="18" fill="#FFFFFF" stroke="#000" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Cup body -->
+  <path d="M115 220 L110 340 Q110 370 175 370 Q240 370 240 340 L235 220 Z" fill="#FFFFFF" stroke="#000" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Coffee inside -->
+  <path d="M120 240 L115 330 Q115 355 175 355 Q235 355 235 330 L230 240 Z" fill="#6B3A2A"/>
+  
+  <!-- Cup rim -->
+  <ellipse cx="175" cy="220" rx="60" ry="15" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="175" cy="220" rx="55" ry="12" fill="#6B3A2A"/>
+  
+  <!-- Cup handle -->
+  <path d="M235 260 Q285 260 285 300 Q285 340 235 340" fill="none" stroke="#000" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Steam -->
+  <path d="M155 180 Q145 155 155 135" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M175 175 Q165 145 175 120" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M195 180 Q185 155 195 135" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

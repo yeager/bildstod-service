@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bildstöd — Svenska piktogram</title>
+<meta name="description" content="Fria svenska piktogram för NPF, autism, skola och svensk kultur. ARASAAC-stil, CC BY-SA 4.0.">
+<style>
+:root {
+  --bg: #f7f8fa;
+  --card: #fff;
+  --text: #1a1a2e;
+  --muted: #666;
+  --accent: #2563eb;
+  --accent-light: #dbeafe;
+  --border: #e5e7eb;
+  --radius: 12px;
+  --shadow: 0 2px 8px rgba(0,0,0,.06);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; }
+
+header {
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: #fff; padding: 2.5rem 1rem; text-align: center;
+}
+header h1 { font-size: 2rem; margin-bottom: .5rem; }
+header p { opacity: .9; max-width: 600px; margin: 0 auto; }
+
+.container { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1rem; }
+
+/* Search */
+.search-bar {
+  display: flex; gap: .5rem; margin-bottom: 1.5rem;
+  background: var(--card); border-radius: var(--radius);
+  padding: .75rem 1rem; box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+}
+.search-bar input {
+  flex: 1; border: none; outline: none; font-size: 1rem;
+  background: transparent; color: var(--text);
+}
+.search-bar input::placeholder { color: var(--muted); }
+
+/* Filter chips */
+.filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.5rem; }
+.chip {
+  padding: .35rem .8rem; border-radius: 20px; border: 1px solid var(--border);
+  background: var(--card); cursor: pointer; font-size: .85rem; transition: all .15s;
+}
+.chip:hover, .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25rem;
+}
+.card {
+  background: var(--card); border-radius: var(--radius);
+  box-shadow: var(--shadow); border: 1px solid var(--border);
+  overflow: hidden; transition: transform .15s, box-shadow .15s;
+  cursor: pointer;
+}
+.card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,.1); }
+.card img {
+  width: 100%; aspect-ratio: 1; object-fit: contain;
+  background: #fff; padding: 1rem;
+}
+.card-info { padding: .75rem 1rem; }
+.card-title { font-weight: 600; font-size: .95rem; }
+.card-tags { display: flex; flex-wrap: wrap; gap: .25rem; margin-top: .4rem; }
+.card-tag {
+  font-size: .7rem; padding: .15rem .45rem; border-radius: 10px;
+  background: var(--accent-light); color: var(--accent);
+}
+
+/* Modal */
+.modal-overlay {
+  display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5);
+  z-index: 100; align-items: center; justify-content: center;
+}
+.modal-overlay.open { display: flex; }
+.modal {
+  background: var(--card); border-radius: var(--radius);
+  max-width: 600px; width: 90%; max-height: 90vh; overflow-y: auto;
+  padding: 2rem; position: relative;
+}
+.modal-close {
+  position: absolute; top: 1rem; right: 1rem; background: none;
+  border: none; font-size: 1.5rem; cursor: pointer; color: var(--muted);
+}
+.modal img { width: 100%; max-width: 300px; display: block; margin: 0 auto 1rem; }
+.modal h2 { margin-bottom: .5rem; }
+.modal .desc { color: var(--muted); margin-bottom: 1rem; }
+.modal .keywords { margin-bottom: 1rem; }
+.modal .keywords span {
+  display: inline-block; margin: .15rem .25rem; padding: .2rem .6rem;
+  background: var(--accent-light); color: var(--accent); border-radius: 10px;
+  font-size: .85rem;
+}
+.dl-links { display: flex; gap: .5rem; margin-top: 1rem; }
+.dl-links a {
+  padding: .5rem 1rem; border-radius: 8px; text-decoration: none;
+  font-size: .9rem; font-weight: 500;
+}
+.dl-links .svg-dl { background: var(--accent); color: #fff; }
+.dl-links .png-dl { background: var(--accent-light); color: var(--accent); }
+
+/* Empty state */
+.empty { text-align: center; padding: 3rem; color: var(--muted); }
+
+/* Stats bar */
+.stats {
+  display: flex; gap: 2rem; justify-content: center;
+  margin-top: 1.5rem; font-size: .9rem; opacity: .85;
+}
+.stats span { font-weight: 700; }
+
+/* Footer */
+footer {
+  text-align: center; padding: 2rem 1rem; color: var(--muted);
+  font-size: .85rem; border-top: 1px solid var(--border); margin-top: 3rem;
+}
+footer a { color: var(--accent); text-decoration: none; }
+
+/* API docs link */
+.api-link {
+  display: inline-block; margin-top: 1rem; padding: .4rem 1rem;
+  background: rgba(255,255,255,.15); border-radius: 20px;
+  color: #fff; text-decoration: none; font-size: .85rem;
+}
+.api-link:hover { background: rgba(255,255,255,.25); }
+
+@media (max-width: 600px) {
+  header h1 { font-size: 1.5rem; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🖼️ Bildstöd</h1>
+  <p>Fria svenska piktogram för NPF, autism, skola och svensk kultur.<br>
+  ARASAAC-stil · CC BY-SA 4.0 · SVG + PNG</p>
+  <div class="stats">
+    <div><span id="stat-count">0</span> piktogram</div>
+    <div><span id="stat-cats">0</span> kategorier</div>
+  </div>
+  <a href="api/pictograms.json" class="api-link">📡 API (JSON)</a>
+</header>
+
+<div class="container">
+  <div class="search-bar">
+    <span>🔍</span>
+    <input type="text" id="search" placeholder="Sök piktogram... (t.ex. fika, hörselkåpor, schema)" autofocus>
+  </div>
+
+  <div class="filters" id="filters"></div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none">
+    Inga piktogram matchade din sökning.
+  </div>
+</div>
+
+<div class="modal-overlay" id="modal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <img id="m-img" src="" alt="">
+    <h2 id="m-title"></h2>
+    <p class="desc" id="m-desc"></p>
+    <div class="keywords" id="m-keywords"></div>
+    <div class="dl-links">
+      <a id="m-svg" href="#" download class="svg-dl">⬇ SVG</a>
+      <a id="m-png" href="#" download class="png-dl">⬇ PNG (500px)</a>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>Bildstöd av <a href="https://danielnylander.se">Daniel Nylander</a> · 
+  Licensierat under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br>
+  Del av <a href="https://autismappar.se">autismappar.se</a> · 
+  <a href="https://github.com/yeager/bildstod-service">Källkod</a></p>
+</footer>
+
+<script>
+let DATA = null;
+let activeCategory = '';
+
+async function init() {
+  const resp = await fetch('api/pictograms.json');
+  DATA = await resp.json();
+  document.getElementById('stat-count').textContent = DATA.pictograms.length;
+  document.getElementById('stat-cats').textContent = DATA.categories.length;
+  renderFilters();
+  render();
+  document.getElementById('search').addEventListener('input', render);
+}
+
+function renderFilters() {
+  const el = document.getElementById('filters');
+  el.innerHTML = '<div class="chip active" data-cat="">Alla</div>' +
+    DATA.categories.map(c =>
+      `<div class="chip" data-cat="${c.id}">${c.name.sv}</div>`
+    ).join('');
+  el.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      el.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      activeCategory = chip.dataset.cat;
+      render();
+    });
+  });
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+
+  let items = DATA.pictograms.filter(p => {
+    if (activeCategory && !p.categories.includes(activeCategory)) return false;
+    if (!q) return true;
+    const all = [
+      ...p.keywords.sv, ...p.keywords.en,
+      p.description.sv, p.description.en,
+      ...p.tags, ...p.categories, p.slug
+    ].join(' ').toLowerCase();
+    return all.includes(q);
+  });
+
+  if (items.length === 0) {
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  grid.innerHTML = items.map(p => `
+    <div class="card" onclick="openModal(${p.id})">
+      <img src="${p.files.png_500}" alt="${p.description.sv}" loading="lazy">
+      <div class="card-info">
+        <div class="card-title">${p.keywords.sv[0]}</div>
+        <div class="card-tags">
+          ${p.categories.map(c => {
+            const cat = DATA.categories.find(x => x.id === c);
+            return `<span class="card-tag">${cat ? cat.name.sv : c}</span>`;
+          }).join('')}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function openModal(id) {
+  const p = DATA.pictograms.find(x => x.id === id);
+  if (!p) return;
+  document.getElementById('m-img').src = p.files.png_500;
+  document.getElementById('m-img').alt = p.description.sv;
+  document.getElementById('m-title').textContent = p.keywords.sv[0];
+  document.getElementById('m-desc').textContent = p.description.sv;
+  document.getElementById('m-keywords').innerHTML =
+    p.keywords.sv.map(k => `<span>${k}</span>`).join('');
+  document.getElementById('m-svg').href = p.files.svg;
+  document.getElementById('m-png').href = p.files.png_500;
+  document.getElementById('modal').classList.add('open');
+}
+
+function closeModal() {
+  document.getElementById('modal').classList.remove('open');
+}
+
+document.getElementById('modal').addEventListener('click', e => {
+  if (e.target.classList.contains('modal-overlay')) closeModal();
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+init();
+</script>
+</body>
+</html>

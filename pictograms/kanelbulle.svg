@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Kanelbulle (Cinnamon Bun) -->
+  <!-- Spiral bun from above -->
+  <ellipse cx="250" cy="260" rx="150" ry="140" fill="#D4A06A" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Spiral pattern -->
+  <path d="M250 180 Q310 180 310 240 Q310 300 250 300 Q190 300 190 250 Q190 210 230 210 Q270 210 270 250 Q270 280 250 280 Q230 280 230 260 Q230 240 250 240" fill="none" stroke="#8B5E3C" stroke-width="6" stroke-linecap="round"/>
+  <!-- Cinnamon filling in spiral -->
+  <path d="M250 180 Q310 180 310 240 Q310 300 250 300 Q190 300 190 250 Q190 210 230 210 Q270 210 270 250 Q270 280 250 280 Q230 280 230 260 Q230 240 250 240" fill="none" stroke="#6B3410" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+  <!-- Pearl sugar on top -->
+  <circle cx="220" cy="200" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="270" cy="210" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="240" cy="250" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="280" cy="270" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="210" cy="280" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="260" cy="230" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="230" cy="310" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <circle cx="290" cy="240" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <!-- Glaze sheen -->
+  <ellipse cx="240" cy="220" rx="30" ry="15" fill="#FFF" opacity="0.15"/>
+</svg>

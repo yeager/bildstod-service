@@ -1,0 +1,654 @@
+{
+  "version": "0.1.0",
+  "license": "CC BY-SA 4.0",
+  "source": "https://autismappar.se/bildstod",
+  "pictograms": [
+    {
+      "id": 1,
+      "slug": "fika",
+      "keywords": {
+        "sv": [
+          "fika",
+          "kaffe",
+          "kanelbulle",
+          "kaffepaus",
+          "rast"
+        ],
+        "en": [
+          "fika",
+          "coffee break",
+          "cinnamon bun"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "mat",
+        "social"
+      ],
+      "description": {
+        "sv": "Fika — kaffekopp med kanelbulle på fat",
+        "en": "Fika — coffee cup with cinnamon bun on saucer"
+      },
+      "files": {
+        "svg": "pictograms/fika.svg",
+        "png_500": "pictograms/fika.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "mat-dryck"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "lucia",
+      "keywords": {
+        "sv": [
+          "lucia",
+          "luciatåg",
+          "luciadagen",
+          "ljuskrona",
+          "advent"
+        ],
+        "en": [
+          "lucia",
+          "saint lucia",
+          "lucia day",
+          "candle crown"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "högtid"
+      ],
+      "description": {
+        "sv": "Lucia — flicka i vit klänning med ljuskrona och rött skärp",
+        "en": "Lucia — girl in white dress with candle crown and red sash"
+      },
+      "files": {
+        "svg": "pictograms/lucia.svg",
+        "png_500": "pictograms/lucia.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "högtid",
+        "december"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "bildstod",
+      "keywords": {
+        "sv": [
+          "bildstöd",
+          "schema",
+          "visuellt stöd",
+          "dagsschema",
+          "piktogramtavla"
+        ],
+        "en": [
+          "visual support",
+          "visual schedule",
+          "pictogram board",
+          "picture schedule"
+        ]
+      },
+      "categories": [
+        "npf",
+        "skola",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Bildstöd — schematavla med fyra piktogramkort (morgon, mat, lek, sova)",
+        "en": "Visual support — schedule board with four pictogram cards (morning, food, play, sleep)"
+      },
+      "files": {
+        "svg": "pictograms/bildstod.svg",
+        "png_500": "pictograms/bildstod.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "visuellt-stöd"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "lugna-hornan",
+      "keywords": {
+        "sv": [
+          "lugna hörnan",
+          "lugn plats",
+          "trygg plats",
+          "viloplats",
+          "avkoppling"
+        ],
+        "en": [
+          "calm corner",
+          "quiet corner",
+          "safe space",
+          "cool down area"
+        ]
+      },
+      "categories": [
+        "npf",
+        "skola",
+        "känslor"
+      ],
+      "description": {
+        "sv": "Lugna hörnan — barn som sitter på kudde med nalle, hörselkåpor på hyllan",
+        "en": "Calm corner — child sitting on cushion with teddy bear, ear defenders on shelf"
+      },
+      "files": {
+        "svg": "pictograms/lugna-hornan.svg",
+        "png_500": "pictograms/lugna-hornan.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "sensorisk",
+        "skola"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "horselkapor",
+      "keywords": {
+        "sv": [
+          "hörselkåpor",
+          "hörselskydd",
+          "brusreducering",
+          "ljudkänslighet"
+        ],
+        "en": [
+          "ear defenders",
+          "noise-cancelling headphones",
+          "ear protection",
+          "sound sensitivity"
+        ]
+      },
+      "categories": [
+        "npf",
+        "hjälpmedel"
+      ],
+      "description": {
+        "sv": "Hörselkåpor — röda hörselkåpor med brusreduceringssymbol",
+        "en": "Ear defenders — red ear defenders with noise cancellation symbol"
+      },
+      "files": {
+        "svg": "pictograms/horselkapor.svg",
+        "png_500": "pictograms/horselkapor.png"
+      },
+      "tags": [
+        "npf",
+        "sensorisk",
+        "hjälpmedel"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "tyngdtacke",
+      "keywords": {
+        "sv": [
+          "tyngdtäcke",
+          "viktat täcke",
+          "sömn",
+          "lugn",
+          "sensorisk"
+        ],
+        "en": [
+          "weighted blanket",
+          "sensory blanket",
+          "calm sleep"
+        ]
+      },
+      "categories": [
+        "npf",
+        "hjälpmedel",
+        "sömn"
+      ],
+      "description": {
+        "sv": "Tyngdtäcke — barn som sover lugnt under viktat täcke med rutnätsmönster",
+        "en": "Weighted blanket — child sleeping peacefully under quilted weighted blanket"
+      },
+      "files": {
+        "svg": "pictograms/tyngdtacke.svg",
+        "png_500": "pictograms/tyngdtacke.png"
+      },
+      "tags": [
+        "npf",
+        "sensorisk",
+        "hjälpmedel",
+        "sömn"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "kanelbulle",
+      "keywords": {
+        "sv": [
+          "kanelbulle",
+          "bulle",
+          "fika",
+          "bakelse",
+          "kanel"
+        ],
+        "en": [
+          "cinnamon bun",
+          "cinnamon roll",
+          "pastry"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "mat"
+      ],
+      "description": {
+        "sv": "Kanelbulle — spiralformad bulle med pärlsocker, sedd ovanifrån",
+        "en": "Cinnamon bun — spiral-shaped bun with pearl sugar, seen from above"
+      },
+      "files": {
+        "svg": "pictograms/kanelbulle.svg",
+        "png_500": "pictograms/kanelbulle.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "mat-dryck",
+        "kanelbullens-dag"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "semla",
+      "keywords": {
+        "sv": [
+          "semla",
+          "fastlagsbulle",
+          "fettisdag",
+          "grädde",
+          "mandelmassa"
+        ],
+        "en": [
+          "semla",
+          "cream bun",
+          "shrove bun",
+          "fat tuesday"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "mat",
+        "högtid"
+      ],
+      "description": {
+        "sv": "Semla — vetebröd med mandelmassa och grädde, pudersocker på locket",
+        "en": "Semla — wheat bun with almond paste and whipped cream, powdered sugar on lid"
+      },
+      "files": {
+        "svg": "pictograms/semla.svg",
+        "png_500": "pictograms/semla.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "mat-dryck",
+        "högtid"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "midsommar",
+      "keywords": {
+        "sv": [
+          "midsommar",
+          "midsommarstång",
+          "midsommarafton",
+          "majstång",
+          "blomkrans"
+        ],
+        "en": [
+          "midsummer",
+          "maypole",
+          "midsummer eve"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "högtid"
+      ],
+      "description": {
+        "sv": "Midsommarstång — lövad stång med kransar, blommor och blågula band",
+        "en": "Maypole — decorated pole with wreaths, flowers and blue-yellow ribbons"
+      },
+      "files": {
+        "svg": "pictograms/midsommar.svg",
+        "png_500": "pictograms/midsommar.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "högtid",
+        "juni"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "dalahast",
+      "keywords": {
+        "sv": [
+          "dalahäst",
+          "dalahorse",
+          "dalarna",
+          "trähäst",
+          "kurbits"
+        ],
+        "en": [
+          "dala horse",
+          "dalecarlian horse",
+          "wooden horse"
+        ]
+      },
+      "categories": [
+        "kultur"
+      ],
+      "description": {
+        "sv": "Dalahäst — klassisk röd trähäst med kurbitsdekor i vitt, guld och grönt",
+        "en": "Dala horse — classic red wooden horse with kurbits decoration in white, gold and green"
+      },
+      "files": {
+        "svg": "pictograms/dalahast.svg",
+        "png_500": "pictograms/dalahast.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "dalarna",
+        "hantverk"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "forskola",
+      "keywords": {
+        "sv": [
+          "förskola",
+          "dagis",
+          "daghem",
+          "barn",
+          "lärare"
+        ],
+        "en": [
+          "preschool",
+          "kindergarten",
+          "nursery",
+          "daycare"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "Förskola — liten byggnad med sol, blommor och barn utanför",
+        "en": "Preschool — small building with sun, flowers and children outside"
+      },
+      "files": {
+        "svg": "pictograms/forskola.svg",
+        "png_500": "pictograms/forskola.png"
+      },
+      "tags": [
+        "skola",
+        "barn"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "fritids",
+      "keywords": {
+        "sv": [
+          "fritids",
+          "fritidshem",
+          "eftermiddagsverksamhet",
+          "skolbarnsomsorg"
+        ],
+        "en": [
+          "after-school care",
+          "after-school club",
+          "leisure center"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "Fritids — byggnad med lekplats, gunga och boll utanför",
+        "en": "After-school care — building with playground, swing and ball outside"
+      },
+      "files": {
+        "svg": "pictograms/fritids.svg",
+        "png_500": "pictograms/fritids.png"
+      },
+      "tags": [
+        "skola",
+        "barn",
+        "lek"
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "schema",
+      "keywords": {
+        "sv": [
+          "schema",
+          "dagsschema",
+          "tidsplan",
+          "planering",
+          "rutin"
+        ],
+        "en": [
+          "schedule",
+          "daily schedule",
+          "timetable",
+          "routine",
+          "planning"
+        ]
+      },
+      "categories": [
+        "npf",
+        "skola",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Schema — vertikal dagstavla med tidsblock, ikoner och bockar",
+        "en": "Schedule — vertical day board with time slots, icons and checkmarks"
+      },
+      "files": {
+        "svg": "pictograms/schema.svg",
+        "png_500": "pictograms/schema.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "visuellt-stöd",
+        "planering"
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "sensorisk-paus",
+      "keywords": {
+        "sv": [
+          "sensorisk paus",
+          "paus",
+          "lugna ner sig",
+          "andning",
+          "avslappning",
+          "mindfulness"
+        ],
+        "en": [
+          "sensory break",
+          "calm down",
+          "breathing",
+          "relaxation"
+        ]
+      },
+      "categories": [
+        "npf",
+        "känslor"
+      ],
+      "description": {
+        "sv": "Sensorisk paus — barn som sitter stilla i lugn position med payssymbol",
+        "en": "Sensory break — child sitting still in calm position with pause symbol"
+      },
+      "files": {
+        "svg": "pictograms/sensorisk-paus.svg",
+        "png_500": "pictograms/sensorisk-paus.png"
+      },
+      "tags": [
+        "npf",
+        "sensorisk",
+        "känslor",
+        "självreglering"
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "social-berattelse",
+      "keywords": {
+        "sv": [
+          "social berättelse",
+          "social story",
+          "socialt scenario",
+          "bildberättelse"
+        ],
+        "en": [
+          "social story",
+          "social narrative",
+          "picture story"
+        ]
+      },
+      "categories": [
+        "npf",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Social berättelse — öppen bok med bildscener om sociala situationer",
+        "en": "Social story — open book with picture scenes about social situations"
+      },
+      "files": {
+        "svg": "pictograms/social-berattelse.svg",
+        "png_500": "pictograms/social-berattelse.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "kommunikation",
+        "socialt"
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "kravskiva",
+      "keywords": {
+        "sv": [
+          "kräftskiva",
+          "kräftor",
+          "augustifest",
+          "kräftkalas",
+          "snaps"
+        ],
+        "en": [
+          "crayfish party",
+          "crayfish feast",
+          "swedish crayfish"
+        ]
+      },
+      "categories": [
+        "kultur",
+        "mat",
+        "högtid"
+      ],
+      "description": {
+        "sv": "Kräftskiva — bord med kräftor, papperslyktor och snapsglas",
+        "en": "Crayfish party — table with crayfish, paper lanterns and schnapps glass"
+      },
+      "files": {
+        "svg": "pictograms/kravskiva.svg",
+        "png_500": "pictograms/kravskiva.png"
+      },
+      "tags": [
+        "svensk-kultur",
+        "högtid",
+        "mat-dryck",
+        "augusti"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "kultur",
+      "name": {
+        "sv": "Svensk kultur",
+        "en": "Swedish culture"
+      }
+    },
+    {
+      "id": "högtid",
+      "name": {
+        "sv": "Högtider",
+        "en": "Holidays"
+      }
+    },
+    {
+      "id": "npf",
+      "name": {
+        "sv": "NPF / Autism",
+        "en": "Neurodevelopmental / Autism"
+      }
+    },
+    {
+      "id": "skola",
+      "name": {
+        "sv": "Skola & förskola",
+        "en": "School & preschool"
+      }
+    },
+    {
+      "id": "hjälpmedel",
+      "name": {
+        "sv": "Hjälpmedel",
+        "en": "Assistive tools"
+      }
+    },
+    {
+      "id": "mat",
+      "name": {
+        "sv": "Mat & dryck",
+        "en": "Food & drink"
+      }
+    },
+    {
+      "id": "social",
+      "name": {
+        "sv": "Socialt",
+        "en": "Social"
+      }
+    },
+    {
+      "id": "känslor",
+      "name": {
+        "sv": "Känslor",
+        "en": "Emotions"
+      }
+    },
+    {
+      "id": "sömn",
+      "name": {
+        "sv": "Sömn & vila",
+        "en": "Sleep & rest"
+      }
+    },
+    {
+      "id": "verktyg",
+      "name": {
+        "sv": "Verktyg",
+        "en": "Tools"
+      }
+    }
+  ]
+}

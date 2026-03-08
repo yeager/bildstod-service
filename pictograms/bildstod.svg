@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Bildstöd (Visual Support) - A visual schedule board with pictogram cards -->
+  
+  <!-- Board background -->
+  <rect x="60" y="60" width="380" height="380" rx="15" fill="#E8F0FE" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  
+  <!-- Board title bar -->
+  <rect x="60" y="60" width="380" height="50" rx="15" fill="#4A90D9" stroke="#000" stroke-width="3.5"/>
+  <rect x="60" y="85" width="380" height="25" fill="#4A90D9"/>
+  
+  <!-- Title text representation (lines) -->
+  <rect x="140" y="75" width="220" height="8" rx="4" fill="#FFFFFF"/>
+  
+  <!-- Pictogram card 1 (top-left) - sun/morning -->
+  <rect x="90" y="130" width="140" height="110" rx="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="160" cy="175" r="25" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
+  <!-- Sun rays -->
+  <line x1="160" y1="143" x2="160" y2="135" stroke="#FFD700" stroke-width="3" stroke-linecap="round"/>
+  <line x1="180" y1="155" x2="186" y2="149" stroke="#FFD700" stroke-width="3" stroke-linecap="round"/>
+  <line x1="180" y1="175" x2="190" y2="175" stroke="#FFD700" stroke-width="3" stroke-linecap="round"/>
+  <line x1="140" y1="155" x2="134" y2="149" stroke="#FFD700" stroke-width="3" stroke-linecap="round"/>
+  <line x1="140" y1="175" x2="130" y2="175" stroke="#FFD700" stroke-width="3" stroke-linecap="round"/>
+  <!-- Label line -->
+  <rect x="115" y="215" width="90" height="6" rx="3" fill="#666"/>
+  
+  <!-- Pictogram card 2 (top-right) - eat/food -->
+  <rect x="270" y="130" width="140" height="110" rx="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <!-- Plate -->
+  <ellipse cx="340" cy="178" rx="35" ry="8" fill="#E0E0E0" stroke="#000" stroke-width="2"/>
+  <!-- Food on plate -->
+  <path d="M315 170 Q340 150 365 170" fill="#C68642" stroke="#000" stroke-width="2"/>
+  <!-- Fork -->
+  <line x1="310" y1="160" x2="310" y2="195" stroke="#999" stroke-width="3" stroke-linecap="round"/>
+  <!-- Label line -->
+  <rect x="295" y="215" width="90" height="6" rx="3" fill="#666"/>
+  
+  <!-- Pictogram card 3 (bottom-left) - play -->
+  <rect x="90" y="265" width="140" height="110" rx="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <!-- Ball -->
+  <circle cx="160" cy="310" r="25" fill="#E00000" stroke="#000" stroke-width="2.5"/>
+  <path d="M145 295 Q160 310 175 295" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Label line -->
+  <rect x="115" y="350" width="90" height="6" rx="3" fill="#666"/>
+  
+  <!-- Pictogram card 4 (bottom-right) - sleep/rest -->
+  <rect x="270" y="265" width="140" height="110" rx="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <!-- Moon -->
+  <path d="M355 290 Q330 290 330 315 Q330 340 355 340 Q340 330 340 315 Q340 300 355 290 Z" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
+  <!-- Stars -->
+  <circle cx="310" cy="295" r="3" fill="#FFD700"/>
+  <circle cx="320" cy="310" r="2" fill="#FFD700"/>
+  <!-- Label line -->
+  <rect x="295" y="350" width="90" height="6" rx="3" fill="#666"/>
+  
+  <!-- Green checkmark on card 1 (completed) -->
+  <circle cx="210" cy="145" r="12" fill="#2D8B2D"/>
+  <path d="M203 145 L208 150 L217 140" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Arrow between cards (sequence indicator) -->
+  <path d="M237 185 L262 185" fill="none" stroke="#4A90D9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M257 180 L262 185 L257 190" fill="none" stroke="#4A90D9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

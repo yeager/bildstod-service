@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Schema (Daily Schedule) - vertical strip schedule -->
+  <!-- Board -->
+  <rect x="100" y="40" width="300" height="420" rx="10" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  <!-- Header -->
+  <rect x="100" y="40" width="300" height="50" rx="10" fill="#4CAF50" stroke="#000" stroke-width="3.5"/>
+  <rect x="100" y="65" width="300" height="25" fill="#4CAF50"/>
+  <!-- Clock icon in header -->
+  <circle cx="250" cy="65" r="15" fill="#FFF" stroke="#000" stroke-width="2"/>
+  <line x1="250" y1="55" x2="250" y2="65" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="250" y1="65" x2="258" y2="68" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Time slot 1: Morning/Sun -->
+  <rect x="115" y="105" width="270" height="60" rx="6" fill="#FFF9C4" stroke="#000" stroke-width="2"/>
+  <circle cx="155" cy="135" r="18" fill="#FFD700" stroke="#000" stroke-width="2"/>
+  <rect x="185" y="120" width="80" height="8" rx="4" fill="#888"/>
+  <rect x="185" y="138" width="60" height="6" rx="3" fill="#BBB"/>
+  <!-- Checkmark -->
+  <circle cx="365" cy="135" r="12" fill="#4CAF50"/>
+  <path d="M358 135 L363 140 L372 130" fill="none" stroke="#FFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Time slot 2: School/Book -->
+  <rect x="115" y="180" width="270" height="60" rx="6" fill="#E3F2FD" stroke="#000" stroke-width="2"/>
+  <rect x="138" y="195" width="24" height="30" rx="2" fill="#2196F3" stroke="#000" stroke-width="2"/>
+  <rect x="142" y="199" width="16" height="2" fill="#FFF"/>
+  <rect x="142" y="204" width="16" height="2" fill="#FFF"/>
+  <rect x="142" y="209" width="10" height="2" fill="#FFF"/>
+  <rect x="185" y="195" width="80" height="8" rx="4" fill="#888"/>
+  <rect x="185" y="213" width="60" height="6" rx="3" fill="#BBB"/>
+  <!-- Arrow (current) -->
+  <path d="M365 210 L375 210 L370 218 Z" fill="#FF5722"/>
+  <!-- Time slot 3: Lunch/Fork+knife -->
+  <rect x="115" y="255" width="270" height="60" rx="6" fill="#FFF" stroke="#000" stroke-width="2"/>
+  <line x1="145" y1="268" x2="145" y2="300" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+  <line x1="160" y1="268" x2="160" y2="300" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+  <rect x="185" y="270" width="80" height="8" rx="4" fill="#CCC"/>
+  <rect x="185" y="288" width="60" height="6" rx="3" fill="#DDD"/>
+  <!-- Time slot 4: Play/Ball -->
+  <rect x="115" y="330" width="270" height="60" rx="6" fill="#FFF" stroke="#000" stroke-width="2"/>
+  <circle cx="150" cy="360" r="15" fill="#E53935" stroke="#000" stroke-width="2"/>
+  <rect x="185" y="345" width="80" height="8" rx="4" fill="#CCC"/>
+  <rect x="185" y="363" width="60" height="6" rx="3" fill="#DDD"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Dalahäst (Dala Horse) - classic red with kurbits decoration -->
+  <!-- Body -->
+  <path d="M150 200 L150 350 L180 350 L180 280 L320 280 L320 350 L350 350 L350 200 Q350 150 300 130 L300 100 L330 80 L330 60 L280 60 L260 80 Q250 90 240 130 Q190 150 150 200 Z" fill="#CC0000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Front legs -->
+  <rect x="170" y="280" width="30" height="100" fill="#CC0000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <rect x="210" y="280" width="30" height="100" fill="#CC0000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Back legs -->
+  <rect x="280" y="280" width="30" height="100" fill="#CC0000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <rect x="320" y="280" width="30" height="100" fill="#CC0000" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Hooves -->
+  <rect x="170" y="370" width="30" height="12" rx="3" fill="#333" stroke="#000" stroke-width="2"/>
+  <rect x="210" y="370" width="30" height="12" rx="3" fill="#333" stroke="#000" stroke-width="2"/>
+  <rect x="280" y="370" width="30" height="12" rx="3" fill="#333" stroke="#000" stroke-width="2"/>
+  <rect x="320" y="370" width="30" height="12" rx="3" fill="#333" stroke="#000" stroke-width="2"/>
+  <!-- Saddle decoration (kurbits) -->
+  <path d="M200 180 Q250 165 310 180 L310 240 Q250 255 200 240 Z" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <!-- Kurbits flower pattern -->
+  <circle cx="255" cy="210" r="15" fill="none" stroke="#FFD700" stroke-width="2.5"/>
+  <circle cx="255" cy="210" r="6" fill="#FFD700"/>
+  <!-- Kurbits leaves -->
+  <path d="M235 200 Q225 190 220 200 Q225 210 235 200" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M275 200 Q285 190 290 200 Q285 210 275 200" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M235 220 Q225 230 220 220 Q225 210 235 220" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M275 220 Q285 230 290 220 Q285 210 275 220" fill="#4CAF50" stroke="#2E7D32" stroke-width="1.5"/>
+  <!-- Bridle -->
+  <path d="M280 80 L260 100 L240 130" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+  <!-- Eye -->
+  <circle cx="300" cy="90" r="4" fill="#000"/>
+  <!-- Ear -->
+  <path d="M305 65 L315 50 L325 60" fill="#CC0000" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Mane -->
+  <path d="M270 70 Q260 90 250 130 Q245 140 240 150" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tail -->
+  <path d="M150 190 Q130 180 120 200 Q115 220 130 230" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+</svg>

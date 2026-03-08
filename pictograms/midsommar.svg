@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Midsommarstång (Maypole) -->
+  <!-- Ground -->
+  <rect x="0" y="420" width="500" height="80" fill="#7CB342" stroke="#000" stroke-width="2"/>
+  <!-- Flowers in grass -->
+  <circle cx="80" cy="415" r="5" fill="#FFEB3B"/>
+  <circle cx="160" cy="420" r="4" fill="#FF5722"/>
+  <circle cx="350" cy="418" r="5" fill="#FFEB3B"/>
+  <circle cx="420" cy="415" r="4" fill="#E91E63"/>
+  <!-- Main pole -->
+  <rect x="243" y="100" width="14" height="320" fill="#8D6E63" stroke="#000" stroke-width="3"/>
+  <!-- Crossbar -->
+  <rect x="140" y="120" width="220" height="12" rx="4" fill="#8D6E63" stroke="#000" stroke-width="3"/>
+  <!-- Hanging rings/wreaths -->
+  <ellipse cx="155" cy="170" rx="25" ry="35" fill="none" stroke="#4CAF50" stroke-width="8"/>
+  <ellipse cx="155" cy="170" rx="25" ry="35" fill="none" stroke="#000" stroke-width="3"/>
+  <ellipse cx="345" cy="170" rx="25" ry="35" fill="none" stroke="#4CAF50" stroke-width="8"/>
+  <ellipse cx="345" cy="170" rx="25" ry="35" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Top wreath -->
+  <circle cx="250" cy="100" r="20" fill="none" stroke="#4CAF50" stroke-width="8"/>
+  <circle cx="250" cy="100" r="20" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Flowers on wreaths -->
+  <circle cx="235" cy="90" r="5" fill="#FF5722"/>
+  <circle cx="265" cy="90" r="5" fill="#FFEB3B"/>
+  <circle cx="250" cy="82" r="5" fill="#E91E63"/>
+  <circle cx="140" cy="155" r="4" fill="#FFEB3B"/>
+  <circle cx="170" cy="155" r="4" fill="#E91E63"/>
+  <circle cx="330" cy="155" r="4" fill="#FF5722"/>
+  <circle cx="360" cy="155" r="4" fill="#FFEB3B"/>
+  <!-- Leaves/greenery along pole -->
+  <path d="M240 140 Q230 135 235 125" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+  <path d="M260 140 Q270 135 265 125" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+  <!-- Ribbons hanging down -->
+  <path d="M155 205 Q145 280 130 350" fill="none" stroke="#2196F3" stroke-width="3" stroke-linecap="round"/>
+  <path d="M155 205 Q165 280 180 350" fill="none" stroke="#FFEB3B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M345 205 Q335 280 320 350" fill="none" stroke="#FFEB3B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M345 205 Q355 280 370 350" fill="none" stroke="#2196F3" stroke-width="3" stroke-linecap="round"/>
+  <!-- Swedish flag ribbon colors -->
+  <path d="M140 127 Q130 200 120 300" fill="none" stroke="#005BAA" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M360 127 Q370 200 380 300" fill="none" stroke="#FECC00" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

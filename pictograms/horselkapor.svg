@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Hörselkåpor (Ear Defenders/Noise-cancelling headphones) -->
+  
+  <!-- Headband -->
+  <path d="M120 250 Q120 100 250 90 Q380 100 380 250" fill="none" stroke="#333333" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 250 Q120 100 250 90 Q380 100 380 250" fill="none" stroke="#555555" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Headband padding top -->
+  <path d="M220 95 Q250 85 280 95" fill="none" stroke="#888" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Left ear cup - outer -->
+  <ellipse cx="120" cy="280" rx="55" ry="70" fill="#E00000" stroke="#000" stroke-width="3.5"/>
+  <!-- Left ear cup - darker side -->
+  <ellipse cx="115" cy="280" rx="45" ry="60" fill="#CC0000"/>
+  <!-- Left ear cup - inner padding -->
+  <ellipse cx="120" cy="280" rx="35" ry="45" fill="#444" stroke="#000" stroke-width="2"/>
+  <!-- Left ear cup - soft pad -->
+  <ellipse cx="120" cy="280" rx="28" ry="38" fill="#333"/>
+  
+  <!-- Right ear cup - outer -->
+  <ellipse cx="380" cy="280" rx="55" ry="70" fill="#E00000" stroke="#000" stroke-width="3.5"/>
+  <!-- Right ear cup - darker side -->
+  <ellipse cx="385" cy="280" rx="45" ry="60" fill="#CC0000"/>
+  <!-- Right ear cup - inner padding -->
+  <ellipse cx="380" cy="280" rx="35" ry="45" fill="#444" stroke="#000" stroke-width="2"/>
+  <!-- Right ear cup - soft pad -->
+  <ellipse cx="380" cy="280" rx="28" ry="38" fill="#333"/>
+  
+  <!-- Sound wave crossed out (noise cancelling symbol) -->
+  <!-- Sound waves left -->
+  <path d="M60 260 Q45 280 60 300" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M45 250 Q25 280 45 310" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Sound waves right -->
+  <path d="M440 260 Q455 280 440 300" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M455 250 Q475 280 455 310" fill="none" stroke="#999" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Cross-out lines over sound waves -->
+  <line x1="30" y1="245" x2="65" y2="315" stroke="#E00000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="435" y1="245" x2="470" y2="315" stroke="#E00000" stroke-width="3" stroke-linecap="round"/>
+</svg>

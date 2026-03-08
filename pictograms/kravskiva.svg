@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Kräftskiva (Crayfish Party) -->
+  <!-- Paper lantern string -->
+  <path d="M50 60 Q150 40 250 60 Q350 40 450 60" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Paper lanterns (round, red/yellow/blue) -->
+  <circle cx="100" cy="75" r="20" fill="#E53935" stroke="#000" stroke-width="2"/>
+  <circle cx="200" cy="65" r="20" fill="#FFEB3B" stroke="#000" stroke-width="2"/>
+  <circle cx="300" cy="65" r="20" fill="#2196F3" stroke="#000" stroke-width="2"/>
+  <circle cx="400" cy="75" r="20" fill="#E53935" stroke="#000" stroke-width="2"/>
+  <!-- Table -->
+  <rect x="60" y="250" width="380" height="20" rx="4" fill="#8D6E63" stroke="#000" stroke-width="3"/>
+  <!-- Table legs -->
+  <rect x="80" y="270" width="12" height="130" fill="#795548" stroke="#000" stroke-width="2"/>
+  <rect x="408" y="270" width="12" height="130" fill="#795548" stroke="#000" stroke-width="2"/>
+  <!-- Plate with crayfish -->
+  <ellipse cx="250" cy="240" rx="80" ry="20" fill="#FFF" stroke="#000" stroke-width="2.5"/>
+  <!-- Crayfish (red) -->
+  <ellipse cx="235" cy="225" rx="22" ry="12" fill="#D32F2F" stroke="#000" stroke-width="2"/>
+  <ellipse cx="265" cy="225" rx="22" ry="12" fill="#D32F2F" stroke="#000" stroke-width="2"/>
+  <!-- Crayfish tails -->
+  <path d="M215 228 L205 235 L210 240 L215 235" fill="#D32F2F" stroke="#000" stroke-width="1.5"/>
+  <path d="M285 228 L295 235 L290 240 L285 235" fill="#D32F2F" stroke="#000" stroke-width="1.5"/>
+  <!-- Crayfish claws -->
+  <path d="M230 218 Q220 210 215 215 Q218 220 225 218" fill="#D32F2F" stroke="#000" stroke-width="1.5"/>
+  <path d="M270 218 Q280 210 285 215 Q282 220 275 218" fill="#D32F2F" stroke="#000" stroke-width="1.5"/>
+  <!-- Bib on person (suggestion of person wearing crayfish bib) -->
+  <circle cx="150" cy="180" r="25" fill="#F5DEB3" stroke="#000" stroke-width="3"/>
+  <path d="M125 205 L125 255 L175 255 L175 205" fill="#4CAF50" stroke="#000" stroke-width="2.5"/>
+  <!-- Bib -->
+  <path d="M130 210 L170 210 L170 245 L130 245 Z" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <!-- Crayfish on bib -->
+  <ellipse cx="150" cy="228" rx="10" ry="5" fill="#D32F2F"/>
+  <!-- Snaps glass -->
+  <rect x="340" y="210" width="12" height="25" rx="2" fill="#E3F2FD" stroke="#000" stroke-width="1.5"/>
+  <rect x="338" y="235" width="16" height="4" rx="2" fill="#CCC" stroke="#000" stroke-width="1"/>
+  <line x1="346" y1="235" x2="346" y2="210" stroke="#CCC" stroke-width="1.5"/>
+  <!-- Moon (late summer evening) -->
+  <path d="M420 130 Q400 130 400 155 Q400 180 420 180 Q408 170 408 155 Q408 140 420 130 Z" fill="#FFD700" stroke="#000" stroke-width="2"/>
+</svg>

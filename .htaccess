@@ -1,0 +1,23 @@
+# CORS for API access
+<IfModule mod_headers.c>
+  <FilesMatch "\.(json)$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET"
+    Header set Content-Type "application/json; charset=utf-8"
+  </FilesMatch>
+</IfModule>
+
+# Cache static assets
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/svg+xml "access plus 1 week"
+  ExpiresByType image/png "access plus 1 week"
+  ExpiresByType application/json "access plus 1 hour"
+  ExpiresByType text/html "access plus 10 minutes"
+</IfModule>
+
+# SPA fallback
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /bildstod/index.html [L]

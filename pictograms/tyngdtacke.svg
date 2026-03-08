@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Tyngdtäcke (Weighted Blanket) - Child lying under heavy blanket, calm -->
+  
+  <!-- Bed frame -->
+  <rect x="60" y="280" width="380" height="140" rx="10" fill="#C68642" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Mattress -->
+  <rect x="70" y="270" width="360" height="30" rx="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  
+  <!-- Pillow -->
+  <ellipse cx="140" cy="255" rx="65" ry="22" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  
+  <!-- Weighted blanket (quilted pattern) -->
+  <rect x="80" y="250" width="330" height="100" rx="8" fill="#7BC8E6" stroke="#000" stroke-width="3.5"/>
+  <!-- Quilt grid lines (showing weight compartments) -->
+  <line x1="146" y1="250" x2="146" y2="350" stroke="#5BA8C6" stroke-width="2"/>
+  <line x1="212" y1="250" x2="212" y2="350" stroke="#5BA8C6" stroke-width="2"/>
+  <line x1="278" y1="250" x2="278" y2="350" stroke="#5BA8C6" stroke-width="2"/>
+  <line x1="344" y1="250" x2="344" y2="350" stroke="#5BA8C6" stroke-width="2"/>
+  <line x1="80" y1="283" x2="410" y2="283" stroke="#5BA8C6" stroke-width="2"/>
+  <line x1="80" y1="316" x2="410" y2="316" stroke="#5BA8C6" stroke-width="2"/>
+  
+  <!-- Small dots in each square (representing weighted beads) -->
+  <circle cx="113" cy="267" r="2" fill="#5BA8C6"/>
+  <circle cx="179" cy="267" r="2" fill="#5BA8C6"/>
+  <circle cx="245" cy="267" r="2" fill="#5BA8C6"/>
+  <circle cx="311" cy="267" r="2" fill="#5BA8C6"/>
+  <circle cx="377" cy="267" r="2" fill="#5BA8C6"/>
+  <circle cx="113" cy="300" r="2" fill="#5BA8C6"/>
+  <circle cx="179" cy="300" r="2" fill="#5BA8C6"/>
+  <circle cx="245" cy="300" r="2" fill="#5BA8C6"/>
+  <circle cx="311" cy="300" r="2" fill="#5BA8C6"/>
+  <circle cx="377" cy="300" r="2" fill="#5BA8C6"/>
+  
+  <!-- Child's head on pillow -->
+  <circle cx="140" cy="235" r="35" fill="#F5DEB3" stroke="#000" stroke-width="3.5"/>
+  <!-- Hair -->
+  <path d="M105 230 Q105 205 140 200 Q175 205 175 230" fill="#8B5E3C" stroke="#000" stroke-width="2.5"/>
+  <!-- Closed eyes (peaceful sleep) -->
+  <path d="M125 238 Q130 242 135 238" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M148 238 Q153 242 158 238" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Small calm smile -->
+  <path d="M132 250 Q140 255 148 250" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Zzz (sleeping) -->
+  <text x="195" y="210" font-family="sans-serif" font-weight="bold" font-size="24" fill="#4A90D9">Z</text>
+  <text x="215" y="190" font-family="sans-serif" font-weight="bold" font-size="20" fill="#4A90D9">z</text>
+  <text x="230" y="175" font-family="sans-serif" font-weight="bold" font-size="16" fill="#4A90D9">z</text>
+  
+  <!-- Down arrow symbols on blanket (representing weight/pressure) -->
+  <path d="M245 260 L240 270 L250 270 Z" fill="#4A90D9" opacity="0.5"/>
+  <path d="M245 293 L240 303 L250 303 Z" fill="#4A90D9" opacity="0.5"/>
+  <path d="M311 260 L306 270 L316 270 Z" fill="#4A90D9" opacity="0.5"/>
+</svg>
