@@ -1,132 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Dalahäst v5 — THICK neck, BIG head, proper proportions -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="55 120 520 560" width="500" height="500">
+  <!-- Dalahäst v7 — real silhouette from reference + kurbits decoration -->
   
-  <!-- BODY: compact rectangle with rounded back -->
-  <path d="M130 200 L400 200 L400 340 L130 340 Z" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  <!-- Rounded back -->
-  <path d="M130 200 Q265 175 400 200" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  <!-- Rounded belly -->
-  <path d="M130 340 Q265 355 400 340" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
+  <!-- Horse silhouette (from reference vector, recolored) -->
+  <path fill="#D32F2F" stroke="#000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" d="
+	M401.659,494.299c-20.207,2.543-41.652,2.681-61.173,0.688s-37.117-6.117-49.626-7.08c-12.51-0.962-19.934,1.237-26.395,15.947
+	c-6.461,14.709-11.96,41.929-15.671,65.985c-3.712,24.058-5.637,44.953-6.736,62.274c-1.1,17.321-1.375,31.068-3.403,38.079
+	c-2.028,7.012-5.81,7.287-13.063,7.407s-17.975,0.086-24.195-0.877c-6.22-0.962-7.937-2.853-8.657-20.02
+	c-0.721-17.166-0.447-49.609-0.859-83.152c-0.412-33.543-1.512-68.186-3.986-101.315c-2.475-33.131-6.324-64.749-11.41-91.006
+	s-11.41-47.152-16.771-60.074s-9.76-17.872-14.297-19.384s-9.21,0.412-21.858,5.499c-12.647,5.086-33.268,13.335-44.403,16.634
+	s-12.785,1.649-16.909-3.712s-10.723-14.434-15.672-22.064c-4.949-7.629-8.249-13.815-9.486-19.314
+	c-1.237-5.499-0.413-10.31,1.443-14.09c1.856-3.781,4.743-6.53,16.015-18.284c11.273-11.754,30.931-32.512,41.241-43.922
+	c10.311-11.41,11.273-13.472,11.616-19.864c0.344-6.393,0.069-17.115-0.206-28.663c-0.275-11.547-0.55-23.92,0.619-30.725
+	c1.168-6.805,3.78-8.042,6.461-7.905c2.681,0.137,5.43,1.65,12.579,8.317s18.696,18.489,26.807,24.47
+	c8.111,5.98,12.785,6.117,21.72,6.598c8.936,0.481,22.133,1.306,32.925,2.887c10.791,1.581,19.177,3.918,27.013,6.874
+	s15.122,6.53,23.576,13.472c8.455,6.942,18.078,17.252,27.426,29.487c9.348,12.234,18.421,26.395,25.638,38.492
+	c7.217,12.097,12.578,22.132,17.39,29.418c4.812,7.286,9.073,11.822,14.984,15.74c5.911,3.917,13.472,7.217,29.074,7.698
+	c15.604,0.481,39.249-1.856,58.774-3.406c19.525-1.55,34.932-2.313,49.365-1.763c14.435,0.55,27.897,2.413,39.716,8.293
+	c11.817,5.881,21.99,15.778,29.964,26.364c7.973,10.585,13.747,21.858,17.459,32.718s5.36,21.308,6.117,48.39
+	c0.756,27.082,0.618,70.798,0.961,117.478c0.344,46.679,1.169,96.322,0.447,121.385s-2.99,25.543-10.827,25.955
+	c-7.835,0.412-21.238,0.757-28.353-0.446c-7.114-1.202-7.938-3.952-9.176-12.689c-1.237-8.738-2.887-23.464-6.599-46.636
+	s-9.485-54.79-16.496-78.848s-15.26-40.554-22.958-48.252s-14.847-6.599-27.906-3.574
+	C440.838,486.808,421.867,491.756,401.659,494.299z"/>
   
-  <!-- NECK: VERY thick, ~80px wide, proud arch -->
-  <path d="
-    M130 200
-    C128 170 122 140 115 115
-    C108 85 105 60 115 45
-    C125 30 145 28 165 35
-    C180 42 190 55 195 70
-    C202 95 210 125 215 160
-    C218 180 218 195 215 200
-    Z
-  " fill="#D32F2F" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  
-  <!-- HEAD: large, blocky horse head -->
-  <path d="
-    M115 45
-    C105 38 90 35 75 40
-    C55 48 42 62 40 80
-    C38 98 42 112 52 122
-    C62 132 78 135 95 130
-    C110 125 120 115 128 102
-    C135 88 130 70 125 58
-    C122 50 118 46 115 45
-    Z
-  " fill="#D32F2F" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  
-  <!-- Muzzle extension (flatter bottom of head) -->
-  <path d="M40 80 C35 90 38 102 45 108 C50 115 58 118 65 118 C72 115 68 108 62 100 C55 92 48 88 40 80" 
-        fill="#D32F2F" stroke="#000" stroke-width="2.5"/>
-  
-  <!-- EARS: two pointed ears on top of head -->
-  <path d="M112 42 L108 18 L125 35" fill="#D32F2F" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M130 38 L135 15 L148 32" fill="#D32F2F" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
-  
-  <!-- Eye — large, clear -->
-  <circle cx="88" cy="72" r="7" fill="#000"/>
-  <circle cx="86" cy="70" r="2.5" fill="#FFF"/>
+  <!-- Eye -->
+  <circle cx="138" cy="237" r="7" fill="#000"/>
+  <circle cx="136" cy="235" r="2.5" fill="#FFF"/>
   
   <!-- Nostril -->
-  <ellipse cx="52" cy="105" rx="5" ry="4" fill="#B71C1C" stroke="#000" stroke-width="1"/>
+  <ellipse cx="108" cy="275" rx="5" ry="4" fill="#B71C1C"/>
   
-  <!-- Mouth line -->
-  <path d="M42 98 Q50 105 60 100" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bridle (white harness lines) -->
+  <path d="M115 245 L155 238" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M112 265 L148 268" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M152 238 L148 268" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="152" cy="253" r="5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
   
-  <!-- BRIDLE (white harness) -->
-  <path d="M70 52 L105 48" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M62 82 L100 92" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M102 50 L100 92" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
-  <circle cx="102" cy="70" r="5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
-  
-  <!-- MANE: thick painted green line flowing down neck -->
-  <path d="M140 35 C148 55 150 80 148 110 C145 140 140 168 135 195" 
+  <!-- Mane (thick green painted line down neck) -->
+  <path d="M186 180 C182 210 178 240 172 270 C168 290 164 310 160 330"
         fill="none" stroke="#1B5E20" stroke-width="10" stroke-linecap="round"/>
   
-  <!-- FRONT LEGS: chunky, ~45px wide -->
-  <rect x="140" y="340" width="42" height="70" rx="3" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  <rect x="205" y="340" width="42" height="70" rx="3" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  <!-- BACK LEGS -->
-  <rect x="310" y="340" width="42" height="70" rx="3" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  <rect x="375" y="340" width="42" height="70" rx="3" fill="#D32F2F" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- HOOVES -->
-  <rect x="136" y="406" width="50" height="14" rx="4" fill="#333" stroke="#000" stroke-width="2.5"/>
-  <rect x="201" y="406" width="50" height="14" rx="4" fill="#333" stroke="#000" stroke-width="2.5"/>
-  <rect x="306" y="406" width="50" height="14" rx="4" fill="#333" stroke="#000" stroke-width="2.5"/>
-  <rect x="371" y="406" width="50" height="14" rx="4" fill="#333" stroke="#000" stroke-width="2.5"/>
-  
-  <!-- LEG DECORATIONS: white bands -->
-  <line x1="144" y1="380" x2="178" y2="380" stroke="#FFF" stroke-width="3"/>
-  <line x1="209" y1="380" x2="243" y2="380" stroke="#FFF" stroke-width="3"/>
-  <line x1="314" y1="380" x2="348" y2="380" stroke="#FFF" stroke-width="3"/>
-  <line x1="379" y1="380" x2="413" y2="380" stroke="#FFF" stroke-width="3"/>
-  
-  <!-- HARNESS LINE (chest to back) -->
-  <path d="M135 195 C132 200 130 208 130 215" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
-  <line x1="130" y1="218" x2="400" y2="218" stroke="#FFF" stroke-width="3"/>
+  <!-- Harness line across body -->
+  <path d="M170 345 C168 355 167 365 167 375" fill="none" stroke="#FFF" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="175" y1="385" x2="530" y2="385" stroke="#FFF" stroke-width="3"/>
   
   <!-- === KURBITS DECORATION === -->
   <!-- Central flower -->
-  <circle cx="270" cy="275" r="32" fill="#FF8F00" stroke="#FFF" stroke-width="2.5"/>
-  <circle cx="270" cy="275" r="20" fill="#FFCA28" stroke="#FFF" stroke-width="2"/>
-  <circle cx="270" cy="275" r="9" fill="#FFF"/>
+  <circle cx="370" cy="440" r="32" fill="#FF8F00" stroke="#FFF" stroke-width="2.5"/>
+  <circle cx="370" cy="440" r="20" fill="#FFCA28" stroke="#FFF" stroke-width="2"/>
+  <circle cx="370" cy="440" r="9" fill="#FFF"/>
   
   <!-- Main leaves (N/S/E/W) -->
-  <ellipse cx="270" cy="232" rx="10" ry="20" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
-  <ellipse cx="270" cy="318" rx="10" ry="20" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
-  <ellipse cx="228" cy="275" rx="20" ry="10" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
-  <ellipse cx="312" cy="275" rx="20" ry="10" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <ellipse cx="370" cy="398" rx="10" ry="20" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <ellipse cx="370" cy="482" rx="10" ry="20" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <ellipse cx="328" cy="440" rx="20" ry="10" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <ellipse cx="412" cy="440" rx="20" ry="10" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
   
   <!-- Diagonal leaves -->
-  <ellipse cx="244" cy="250" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(-45 244 250)"/>
-  <ellipse cx="296" cy="250" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(45 296 250)"/>
-  <ellipse cx="244" cy="300" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(45 244 300)"/>
-  <ellipse cx="296" cy="300" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(-45 296 300)"/>
+  <ellipse cx="345" cy="415" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(-45 345 415)"/>
+  <ellipse cx="395" cy="415" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(45 395 415)"/>
+  <ellipse cx="345" cy="465" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(45 345 465)"/>
+  <ellipse cx="395" cy="465" rx="8" ry="15" fill="#1B5E20" stroke="#FFF" stroke-width="1" transform="rotate(-45 395 465)"/>
   
   <!-- Side flowers -->
-  <circle cx="185" cy="255" r="14" fill="#FFCA28" stroke="#FFF" stroke-width="1.5"/>
-  <circle cx="185" cy="255" r="6" fill="#FFF"/>
-  <circle cx="355" cy="255" r="14" fill="#FFCA28" stroke="#FFF" stroke-width="1.5"/>
-  <circle cx="355" cy="255" r="6" fill="#FFF"/>
-  <circle cx="185" cy="300" r="14" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
-  <circle cx="185" cy="300" r="6" fill="#FFCA28"/>
-  <circle cx="355" cy="300" r="14" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
-  <circle cx="355" cy="300" r="6" fill="#FFCA28"/>
+  <circle cx="280" cy="418" r="14" fill="#FFCA28" stroke="#FFF" stroke-width="1.5"/>
+  <circle cx="280" cy="418" r="6" fill="#FFF"/>
+  <circle cx="460" cy="418" r="14" fill="#FFCA28" stroke="#FFF" stroke-width="1.5"/>
+  <circle cx="460" cy="418" r="6" fill="#FFF"/>
+  <circle cx="280" cy="465" r="14" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <circle cx="280" cy="465" r="6" fill="#FFCA28"/>
+  <circle cx="460" cy="465" r="14" fill="#1B5E20" stroke="#FFF" stroke-width="1.5"/>
+  <circle cx="460" cy="465" r="6" fill="#FFCA28"/>
   
-  <!-- Scrollwork -->
-  <path d="M185 275 C200 260 218 258 235 265" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
-  <path d="M305 285 C322 295 340 292 355 278" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
-  <path d="M155 245 C165 238 178 240 185 248" fill="none" stroke="#FFF" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M355 265 C368 258 378 262 388 270" fill="none" stroke="#FFF" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Vine scrollwork -->
+  <path d="M280 440 Q305 418 335 428" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M405 452 Q435 462 460 440" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M240 408 Q258 398 278 408" fill="none" stroke="#FFF" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M462 428 Q478 418 492 428" fill="none" stroke="#FFF" stroke-width="1.5" stroke-linecap="round"/>
   
   <!-- Accent dots -->
-  <circle cx="155" cy="235" r="4" fill="#FFF"/>
-  <circle cx="155" cy="318" r="4" fill="#FFF"/>
-  <circle cx="390" cy="235" r="4" fill="#FFF"/>
-  <circle cx="390" cy="318" r="4" fill="#FFF"/>
+  <circle cx="250" cy="398" r="4" fill="#FFF"/>
+  <circle cx="250" cy="478" r="4" fill="#FFF"/>
+  <circle cx="495" cy="398" r="4" fill="#FFF"/>
+  <circle cx="495" cy="478" r="4" fill="#FFF"/>
   
-  <!-- TAIL: painted on body, flowing green with yellow inner -->
-  <path d="M398 210 C418 218 425 245 420 275 C415 300 405 318 395 328" 
-        fill="none" stroke="#1B5E20" stroke-width="9" stroke-linecap="round"/>
-  <path d="M400 218 C415 228 420 250 416 275 C412 298 404 312 396 322" 
-        fill="none" stroke="#FFCA28" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tail decoration (painted on rump) -->
+  <path d="M525 395 C540 408 542 430 535 455 C528 475 518 488 510 495"
+        fill="none" stroke="#1B5E20" stroke-width="8" stroke-linecap="round"/>
+  <path d="M527 402 C538 415 540 435 534 455 C528 472 520 485 514 490"
+        fill="none" stroke="#FFCA28" stroke-width="3.5" stroke-linecap="round"/>
 </svg>
