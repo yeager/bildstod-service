@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <rect x="150" y="150" width="200" height="250" fill="white" stroke="#000" stroke-width="3"/>
+  <rect x="150" y="150" width="200" height="40" fill="#0099DD"/>
+  <text x="250" y="175" fill="white" text-anchor="middle" font-size="20">BETYG</text>
+  <!-- Grade A -->
+  <text x="250" y="250" text-anchor="middle" font-size="60" fill="#66AA00">A</text>
+  <line x1="170" y1="300" x2="330" y2="300" stroke="#000" stroke-width="1"/>
+  <line x1="170" y1="320" x2="280" y2="320" stroke="#000" stroke-width="1"/>
+  <line x1="170" y1="340" x2="300" y2="340" stroke="#000" stroke-width="1"/>
+</svg>

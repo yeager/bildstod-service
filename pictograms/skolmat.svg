@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cafeteria serving counter -->
+  <rect x="100" y="250" width="300" height="60" fill="#999999" stroke="#000" stroke-width="3.5"/>
+  <rect x="100" y="200" width="300" height="50" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Food serving containers -->
+  <rect x="120" y="180" width="80" height="40" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="210" y="180" width="80" height="40" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <rect x="300" y="180" width="80" height="40" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Food items -->
+  <!-- Potatoes -->
+  <ellipse cx="140" cy="200" rx="12" ry="8" fill="#FFD700"/>
+  <ellipse cx="165" cy="200" rx="10" ry="7" fill="#FFD700"/>
+  <ellipse cx="180" cy="200" rx="11" ry="8" fill="#FFD700"/>
+  
+  <!-- Vegetables -->
+  <ellipse cx="230" cy="200" rx="15" ry="8" fill="#66AA00"/>
+  <ellipse cx="250" cy="200" rx="12" ry="6" fill="#FF8800"/>
+  <ellipse cx="270" cy="200" rx="14" ry="7" fill="#66AA00"/>
+  
+  <!-- Meat/sauce -->
+  <ellipse cx="320" cy="200" rx="15" ry="10" fill="#8B5E2A"/>
+  <ellipse cx="345" cy="200" rx="12" ry="8" fill="#CC0000"/>
+  <ellipse cx="365" cy="200" rx="10" ry="7" fill="#8B5E2A"/>
+  
+  <!-- Serving utensils -->
+  <rect x="155" y="160" width="4" height="40" fill="#999999"/>
+  <ellipse cx="155" cy="155" rx="8" ry="12" fill="#999999" stroke="#000" stroke-width="1"/>
+  
+  <rect x="245" y="160" width="4" height="40" fill="#999999"/>
+  <ellipse cx="245" cy="155" rx="8" ry="12" fill="#999999" stroke="#000" stroke-width="1"/>
+  
+  <!-- Child with tray -->
+  <circle cx="250" cy="350" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="242" cy="342" r="4" fill="#000"/>
+  <circle cx="258" cy="342" r="4" fill="#000"/>
+  <path d="M235 360 Q250 370 265 360" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="240" y="375" width="20" height="50" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <circle cx="220" cy="435" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="280" cy="435" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Tray in hands -->
+  <rect x="200" y="400" width="100" height="15" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Plate on tray -->
+  <circle cx="250" cy="408" r="25" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  <circle cx="240" cy="405" r="6" fill="#8B5E2A"/>
+  <circle cx="260" cy="405" r="6" fill="#66AA00"/>
+  <circle cx="250" cy="415" r="8" fill="#FFD700"/>
+</svg>

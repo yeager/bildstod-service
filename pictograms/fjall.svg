@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <rect x="0" y="400" width="500" height="100" fill="#66AA00"/>
+  <polygon points="100,400 200,200 300,400" fill="#999999" stroke="#000" stroke-width="3"/>
+  <polygon points="200,400 300,150 400,400" fill="#999999" stroke="#000" stroke-width="3"/>
+  <polygon points="300,400 400,180 500,400" fill="#999999" stroke="#000" stroke-width="3"/>
+  <polygon points="200,200 250,120 300,200" fill="white" stroke="none"/>
+  <polygon points="300,150 350,100 400,150" fill="white" stroke="none"/>
+  <circle cx="100" cy="100" r="40" fill="#FFD700" stroke="none"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <ellipse cx="250" cy="350" rx="180" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Falukorv slices -->
+  <ellipse cx="200" cy="280" rx="40" ry="50" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="290" rx="40" ry="50" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="300" cy="280" rx="40" ry="50" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cross cuts on top -->
+  <path d="M190 260 L210 280 M190 280 L210 260" stroke="#000" stroke-width="2"/>
+  <path d="M240 270 L260 290 M240 290 L260 270" stroke="#000" stroke-width="2"/>
+  <path d="M290 260 L310 280 M290 280 L310 260" stroke="#000" stroke-width="2"/>
+  
+  <!-- Some potato pieces -->
+  <ellipse cx="180" cy="320" rx="20" ry="15" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="320" cy="315" rx="20" ry="15" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+</svg>

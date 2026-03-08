@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <rect x="100" y="150" width="300" height="200" fill="white" stroke="#000" stroke-width="3"/>
+  <text x="250" y="200" text-anchor="middle" font-size="30" fill="#000">ABC</text>
+  <text x="250" y="240" text-anchor="middle" font-size="25" fill="#000">Å Ä Ö</text>
+  <rect x="120" y="280" width="260" height="3" fill="#000"/>
+  <rect x="120" y="300" width="200" height="3" fill="#000"/>
+  <rect x="120" y="320" width="240" height="3" fill="#000"/>
+</svg>

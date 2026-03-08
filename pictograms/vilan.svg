@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rest mats -->
+  <rect x="100" y="300" width="120" height="80" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="280" y="300" width="120" height="80" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <rect x="190" y="200" width="120" height="80" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Children sleeping -->
+  <!-- Child 1 on blue mat -->
+  <circle cx="140" cy="320" r="15" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="135" cy="318" r="2" fill="#000"/>
+  <circle cx="145" cy="318" r="2" fill="#000"/>
+  <path d="M130 325 Q140 330 150 325" fill="none" stroke="#000" stroke-width="1"/>
+  <rect x="135" y="335" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 2 on green mat -->
+  <circle cx="340" cy="325" r="15" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="335" cy="323" r="2" fill="#000"/>
+  <circle cx="345" cy="323" r="2" fill="#000"/>
+  <path d="M330 330 Q340 335 350 330" fill="none" stroke="#000" stroke-width="1"/>
+  <rect x="335" y="340" width="10" height="35" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 3 on pink mat -->
+  <circle cx="230" cy="225" r="15" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="225" cy="223" r="2" fill="#000"/>
+  <circle cx="235" cy="223" r="2" fill="#000"/>
+  <path d="M220 230 Q230 235 240 230" fill="none" stroke="#000" stroke-width="1"/>
+  <rect x="225" y="240" width="10" height="35" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Pillows -->
+  <ellipse cx="180" cy="320" rx="20" ry="10" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  <ellipse cx="360" cy="315" rx="20" ry="10" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  <ellipse cx="270" cy="220" rx="20" ry="10" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  
+  <!-- Sleep symbols (Zzz) -->
+  <path d="M80 280 L100 280 L80 290 L100 290" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M260 280 L280 280 L260 290 L280 290" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M170 180 L190 180 L170 190 L190 190" fill="none" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Curtains drawn -->
+  <rect x="50" y="100" width="400" height="20" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <rect x="50" y="120" width="80" height="100" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="370" y="120" width="80" height="100" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+</svg>

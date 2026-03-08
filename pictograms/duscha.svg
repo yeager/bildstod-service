@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <!-- Shower head -->
+  <rect x="200" y="100" width="100" height="20" fill="#999999" stroke="#000" stroke-width="3" rx="10"/>
+  <!-- Water drops -->
+  <circle cx="220" cy="140" r="3" fill="#0099DD"/>
+  <circle cx="240" cy="160" r="3" fill="#0099DD"/>
+  <circle cx="260" cy="150" r="3" fill="#0099DD"/>
+  <circle cx="280" cy="170" r="3" fill="#0099DD"/>
+  <circle cx="225" cy="180" r="3" fill="#0099DD"/>
+  <circle cx="275" cy="190" r="3" fill="#0099DD"/>
+  <!-- Person -->
+  <circle cx="250" cy="250" r="30" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <rect x="230" y="280" width="40" height="80" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <!-- Water stream lines -->
+  <path d="M 230 130 L 225 200" stroke="#0099DD" stroke-width="2"/>
+  <path d="M 270 130 L 275 200" stroke="#0099DD" stroke-width="2"/>
+  <path d="M 250 130 L 250 200" stroke="#0099DD" stroke-width="2"/>
+</svg>

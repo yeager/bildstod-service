@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bowl -->
+  <path d="M150 250 Q150 350 250 350 Q350 350 350 250" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="250" rx="100" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Porridge surface -->
+  <ellipse cx="250" cy="250" rx="95" ry="18" fill="#FFD5B0"/>
+  
+  <!-- Butter pat on top -->
+  <ellipse cx="250" cy="240" rx="15" ry="8" fill="#FFD700"/>
+  
+  <!-- Cinnamon sprinkle -->
+  <circle cx="220" cy="245" r="2" fill="#8B5E2A"/>
+  <circle cx="280" cy="250" r="1.5" fill="#8B5E2A"/>
+  <circle cx="260" cy="255" r="1" fill="#8B5E2A"/>
+  <circle cx="240" cy="260" r="1.5" fill="#8B5E2A"/>
+  <circle cx="270" cy="235" r="1" fill="#8B5E2A"/>
+  
+  <!-- Steam -->
+  <path d="M200 220 Q202 200 200 180" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M250 210 Q252 190 250 170" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M300 220 Q302 200 300 180" fill="none" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Spoon -->
+  <ellipse cx="350" cy="200" rx="12" ry="20" fill="#999999" stroke="#000" stroke-width="2"/>
+  <rect x="345" y="140" width="10" height="80" fill="#999999" stroke="#000" stroke-width="2"/>
+</svg>

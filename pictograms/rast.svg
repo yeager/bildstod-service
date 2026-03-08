@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- School building in background -->
+  <rect x="50" y="200" width="400" height="150" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <rect x="200" y="250" width="100" height="100" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Windows -->
+  <rect x="80" y="220" width="30" height="40" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  <rect x="130" y="220" width="30" height="40" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  <rect x="340" y="220" width="30" height="40" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  <rect x="390" y="220" width="30" height="40" fill="#0099DD" stroke-width="2"/>
+  
+  <!-- Children playing -->
+  <!-- Child 1 running -->
+  <circle cx="150" cy="320" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="145" cy="315" r="4" fill="#000"/>
+  <circle cx="155" cy="315" r="4" fill="#000"/>
+  <path d="M140 325 Q150 335 160 325" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="145" y="340" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <circle cx="140" cy="380" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="160" cy="380" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 2 jumping -->
+  <circle cx="300" cy="300" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="295" cy="295" r="4" fill="#000"/>
+  <circle cx="305" cy="295" r="4" fill="#000"/>
+  <path d="M290 305 Q300 315 310 305" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="295" y="320" width="10" height="40" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <circle cx="285" cy="370" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="315" cy="370" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Ball -->
+  <circle cx="380" cy="320" r="15" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+</svg>

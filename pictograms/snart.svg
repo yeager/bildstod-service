@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Clock face -->
+  <circle cx="250" cy="250" r="120" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Clock numbers (simplified) -->
+  <circle cx="250" cy="150" r="4" fill="#000"/>  <!-- 12 -->
+  <circle cx="350" cy="250" r="4" fill="#000"/>  <!-- 3 -->
+  <circle cx="250" cy="350" r="4" fill="#000"/>  <!-- 6 -->
+  <circle cx="150" cy="250" r="4" fill="#000"/>  <!-- 9 -->
+  
+  <!-- Clock hands pointing to "almost" time -->
+  <!-- Hour hand pointing to almost 3 -->
+  <line x1="250" y1="250" x2="320" y2="270" stroke="#000" stroke-width="6"/>
+  <!-- Minute hand pointing to almost 12 -->
+  <line x1="250" y1="250" x2="260" y2="170" stroke="#000" stroke-width="4"/>
+  
+  <!-- Center dot -->
+  <circle cx="250" cy="250" r="8" fill="#000"/>
+  
+  <!-- Arrow pointing right (indicating "soon") -->
+  <path d="M 380 250 L 420 250 L 410 240 M 420 250 L 410 260" stroke="#0099DD" stroke-width="5" fill="none"/>
+  
+  <!-- Motion lines around arrow -->
+  <path d="M 385 235 L 395 235" stroke="#0099DD" stroke-width="3" fill="none"/>
+  <path d="M 385 265 L 395 265" stroke="#0099DD" stroke-width="3" fill="none"/>
+  <path d="M 390 225 L 400 225" stroke="#0099DD" stroke-width="3" fill="none"/>
+  <path d="M 390 275 L 400 275" stroke="#0099DD" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Two children taking turns -->
+  
+  <!-- Child 1 (active turn) -->
+  <circle cx="180" cy="150" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="172" cy="142" r="4" fill="#000"/>
+  <circle cx="188" cy="142" r="4" fill="#000"/>
+  <path d="M165 160 Q180 170 195 160" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="170" y="175" width="20" height="45" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="165" y="220" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <rect x="185" y="220" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="170" cy="265" rx="12" ry="8" fill="#000"/>
+  <ellipse cx="190" cy="265" rx="12" ry="8" fill="#000"/>
+  
+  <!-- Child 2 (waiting turn) -->
+  <circle cx="320" cy="150" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="312" cy="142" r="4" fill="#000"/>
+  <circle cx="328" cy="142" r="4" fill="#000"/>
+  <path d="M305 160 Q320 170 335 160" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="310" y="175" width="20" height="45" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+  <rect x="305" y="220" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="325" y="220" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="310" cy="265" rx="12" ry="8" fill="#000"/>
+  <ellipse cx="330" cy="265" rx="12" ry="8" fill="#000"/>
+  
+  <!-- Game/toy they're sharing -->
+  <rect x="220" y="300" width="60" height="40" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <circle cx="240" cy="320" r="8" fill="#FFFFFF"/>
+  <circle cx="260" cy="320" r="8" fill="#FFFFFF"/>
+  <rect x="235" y="310" width="30" height="8" fill="#FFD700"/>
+  
+  <!-- Turn indicator arrows -->
+  <!-- Current turn (child 1) -->
+  <path d="M140 200 L170 190" stroke="#66AA00" stroke-width="6"/>
+  <path d="M160 185 L170 190 L165 200" fill="#66AA00"/>
+  
+  <!-- Next turn (child 2) -->
+  <path d="M330 190 L360 200" stroke="#999999" stroke-width="4" stroke-dasharray="5,5"/>
+  <path d="M355 195 L360 200 L350 205" fill="#999999"/>
+  
+  <!-- Timer/waiting symbol -->
+  <circle cx="320" cy="100" r="20" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  <path d="M320 80 L320 95" stroke="#000" stroke-width="3"/>
+  <path d="M320 105 L320 120" stroke="#000" stroke-width="3"/>
+  <path d="M300 100 L315 100" stroke="#000" stroke-width="3"/>
+  <path d="M325 100 L340 100" stroke="#000" stroke-width="3"/>
+  <path d="M320 100 L320 85" stroke="#CC0000" stroke-width="4"/>
+  <path d="M320 100 L330 90" stroke="#CC0000" stroke-width="2"/>
+  
+  <!-- Numbers showing turn order -->
+  <circle cx="180" cy="80" r="18" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <rect x="175" y="75" width="10" height="10" fill="#FFFFFF"/>
+  
+  <circle cx="320" cy="80" r="18" fill="#999999" stroke="#000" stroke-width="3"/>
+  <path d="M310 75 Q315 70 320 75 Q325 80 330 75 Q325 85 315 85 L330 85" 
+        fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  
+  <!-- Speech bubble from waiting child -->
+  <ellipse cx="380" cy="120" rx="30" ry="20" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <path d="M360 130 L340 145 L365 135 Z" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  
+  <!-- Waiting gesture in speech bubble -->
+  <circle cx="375" cy="115" r="6" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+  <circle cx="385" cy="115" r="6" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+  <rect x="370" y="120" width="20" height="8" fill="#FF66CC" stroke="#000" stroke-width="2"/>
+  
+  <!-- Ground line -->
+  <rect x="0" y="265" width="500" height="235" fill="#8B5E2A"/>
+  
+  <!-- Queue/line indicators -->
+  <path d="M100 350 L400 350" stroke="#000" stroke-width="3" stroke-dasharray="10,5"/>
+  <path d="M150 340 L150 360" stroke="#000" stroke-width="3"/>
+  <path d="M200 340 L200 360" stroke="#000" stroke-width="3"/>
+  <path d="M250 340 L250 360" stroke="#000" stroke-width="3"/>
+  <path d="M300 340 L300 360" stroke="#000" stroke-width="3"/>
+  <path d="M350 340 L350 360" stroke="#000" stroke-width="3"/>
+</svg>

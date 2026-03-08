@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Child 1 sharing -->
+  <circle cx="180" cy="150" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="172" cy="142" r="4" fill="#000"/>
+  <circle cx="188" cy="142" r="4" fill="#000"/>
+  <path d="M165 160 Q180 170 195 160" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="170" y="175" width="20" height="45" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Arms extended to share -->
+  <ellipse cx="140" cy="190" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-20 140 190)"/>
+  <ellipse cx="220" cy="190" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(45 220 190)"/>
+  
+  <!-- Legs -->
+  <rect x="165" y="220" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <rect x="185" y="220" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="170" cy="265" rx="12" ry="8" fill="#000"/>
+  <ellipse cx="190" cy="265" rx="12" ry="8" fill="#000"/>
+  
+  <!-- Child 2 receiving -->
+  <circle cx="320" cy="150" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="312" cy="142" r="4" fill="#000"/>
+  <circle cx="328" cy="142" r="4" fill="#000"/>
+  <path d="M305 160 Q320 170 335 160" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="310" y="175" width="20" height="45" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Arms ready to receive -->
+  <ellipse cx="280" cy="190" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-45 280 190)"/>
+  <ellipse cx="360" cy="190" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(20 360 190)"/>
+  
+  <!-- Legs -->
+  <rect x="305" y="220" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="325" y="220" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="310" cy="265" rx="12" ry="8" fill="#000"/>
+  <ellipse cx="330" cy="265" rx="12" ry="8" fill="#000"/>
+  
+  <!-- Item being shared -->
+  <rect x="240" y="180" width="20" height="15" fill="#CC0000" stroke="#000" stroke-width="3"/>
+  <circle cx="250" cy="187" r="4" fill="#FFFFFF"/>
+  
+  <!-- Motion lines showing sharing -->
+  <path d="M230 185 Q240 180 250 185" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M250 185 Q260 180 270 185" fill="none" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Heart symbol showing kindness -->
+  <path d="M250 120 Q240 110 230 120 Q230 135 250 150 Q270 135 270 120 Q260 110 250 120" 
+        fill="#FF66CC" stroke="#000" stroke-width="3"/>
+  
+  <!-- Items to be shared -->
+  <circle cx="120" cy="300" r="15" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  <circle cx="150" cy="320" r="12" fill="#CC0000" stroke="#000" stroke-width="3"/>
+  <rect x="80" y="320" width="25" height="15" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <circle cx="110" cy="350" r="10" fill="#0099DD" stroke="#000" stroke-width="3"/>
+  
+  <!-- More items -->
+  <circle cx="380" cy="300" r="15" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  <circle cx="350" cy="320" r="12" fill="#CC0000" stroke="#000" stroke-width="3"/>
+  <rect x="395" y="320" width="25" height="15" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <circle cx="390" cy="350" r="10" fill="#0099DD" stroke="#000" stroke-width="3"/>
+  
+  <!-- Equal division line -->
+  <path d="M250 290 L250 370" stroke="#000" stroke-width="3" stroke-dasharray="8,5"/>
+  
+  <!-- Speech bubbles with positive expressions -->
+  <!-- Child 1 saying "Here!" -->
+  <ellipse cx="120" cy="100" rx="25" ry="15" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <path d="M130 110 L150 125 L125 115 Z" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <rect x="105" y="95" width="30" height="3" fill="#000"/>
+  <rect x="110" y="100" width="20" height="3" fill="#000"/>
+  
+  <!-- Child 2 saying "Thank you!" -->
+  <ellipse cx="380" cy="100" rx="30" ry="15" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <path d="M370 110 L350 125 L375 115 Z" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <rect x="360" y="95" width="40" height="3" fill="#000"/>
+  <rect x="365" y="100" width="30" heart="3" fill="#000"/>
+  
+  <!-- Sharing arrows -->
+  <path d="M180 280 L200 285" stroke="#66AA00" stroke-width="4"/>
+  <path d="M195 280 L200 285 L195 290" fill="#66AA00"/>
+  
+  <path d="M320 285 L300 280" stroke="#66AA00" stroke-width="4"/>
+  <path d="M305 275 L300 280 L305 285" fill="#66AA00"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="370" width="500" height="130" fill="#8B5E2A"/>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Goat body -->
+  <ellipse cx="250" cy="300" rx="80" ry="50" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Goat head -->
+  <ellipse cx="180" cy="220" rx="40" ry="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Horns -->
+  <path d="M160 200 Q150 180 155 160" fill="none" stroke="#8B5E2A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M180 195 Q170 175 175 155" fill="none" stroke="#8B5E2A" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Eyes -->
+  <circle cx="170" cy="215" r="4" fill="#000"/>
+  <circle cx="190" cy="215" r="4" fill="#000"/>
+  
+  <!-- Nose -->
+  <ellipse cx="180" cy="235" rx="6" ry="4" fill="#000"/>
+  
+  <!-- Mouth -->
+  <path d="M175 245 Q180 250 185 245" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Beard -->
+  <path d="M180 250 Q175 270 180 285" fill="none" stroke="#FFD700" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 250 Q175 270 180 285" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Legs -->
+  <rect x="200" y="340" width="12" height="60" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <rect x="230" y="340" width="12" height="60" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <rect x="260" y="340" width="12" height="60" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <rect x="290" y="340" width="12" height="60" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Hooves -->
+  <ellipse cx="206" cy="410" rx="8" ry="6" fill="#000"/>
+  <ellipse cx="236" cy="410" rx="8" ry="6" fill="#000"/>
+  <ellipse cx="266" cy="410" rx="8" ry="6" fill="#000"/>
+  <ellipse cx="296" cy="410" rx="8" ry="6" fill="#000"/>
+  
+  <!-- Tail -->
+  <path d="M330 290 Q350 295 360 310" fill="none" stroke="#FFD700" stroke-width="8" stroke-linecap="round"/>
+  <path d="M330 290 Q350 295 360 310" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Red ribbon bow -->
+  <path d="M240 260 Q220 250 200 260 Q220 270 240 260" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <path d="M260 260 Q280 250 300 260 Q280 270 260 260" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="260" rx="8" ry="12" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Straw texture lines -->
+  <path d="M220 280 L230 285" stroke="#8B5E2A" stroke-width="2"/>
+  <path d="M240 290 L250 295" stroke="#8B5E2A" stroke-width="2"/>
+  <path d="M260 285 L270 290" stroke="#8B5E2A" stroke-width="2"/>
+  <path d="M280 295 L290 300" stroke="#8B5E2A" stroke-width="2"/>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person lying down for body scanning -->
+  <ellipse cx="250" cy="350" rx="150" ry="30" fill="#0099DD" stroke="#000" stroke-width="3"/> <!-- Mat/blanket -->
+  
+  <!-- Person in relaxed position -->
+  <circle cx="200" cy="250" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Peaceful expression -->
+  <circle cx="195" cy="245" r="3" fill="#000"/>
+  <circle cx="205" cy="245" r="3" fill="#000"/>
+  <path d="M190 255 Q200 265 210 255" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Body lying down -->
+  <rect x="225" y="240" width="60" height="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Arms relaxed at sides -->
+  <ellipse cx="220" cy="260" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-10 220 260)"/>
+  <ellipse cx="290" cy="260" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(10 290 260)"/>
+  
+  <!-- Legs -->
+  <rect x="285" y="255" width="40" height="15" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="325" y="255" width="40" height="15" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Feet -->
+  <ellipse cx="370" cy="263" rx="8" ry="15" fill="#000"/>
+  <ellipse cx="370" cy="283" rx="8" ry="15" fill="#000"/>
+  
+  <!-- Body scanning visualization waves -->
+  
+  <!-- Head/brain scan -->
+  <path d="M160 230 Q170 220 180 230" fill="none" stroke="#FFD700" stroke-width="3"/>
+  <path d="M150 250 Q160 240 170 250" fill="none" stroke="#FFD700" stroke-width="3"/>
+  
+  <!-- Chest/heart scan -->
+  <path d="M240 220 Q250 210 260 220" fill="none" stroke="#FF66CC" stroke-width="3"/>
+  <path d="M235 235 Q245 225 255 235" fill="none" stroke="#FF66CC" stroke-width="3"/>
+  
+  <!-- Stomach/core scan -->
+  <path d="M270 240 Q280 230 290 240" fill="none" stroke="#66AA00" stroke-width="3"/>
+  <path d="M275 255 Q285 245 295 255" fill="none" stroke="#66AA00" stroke-width="3"/>
+  
+  <!-- Legs scan -->
+  <path d="M320 240 Q330 230 340 240" fill="none" stroke="#0099DD" stroke-width="3"/>
+  <path d="M340 250 Q350 240 360 250" fill="none" stroke="#0099DD" stroke-width="3"/>
+  <path d="M360 270 Q370 260 380 270" fill="none" stroke="#0099DD" stroke-width="3"/>
+  
+  <!-- Feet scan -->
+  <path d="M380 285 Q390 275 400 285" fill="none" stroke="#CC0000" stroke-width="3"/>
+  <path d="M385 300 Q395 290 405 300" fill="none" stroke="#CC0000" stroke-width="3"/>
+  
+  <!-- Body awareness indicators -->
+  <circle cx="180" cy="200" r="6" fill="#FFD700" stroke="#000" stroke-width="2"/>
+  <circle cx="245" cy="190" r="6" fill="#FF66CC" stroke="#000" stroke-width="2"/>
+  <circle cx="285" cy="200" r="6" fill="#66AA00" stroke="#000" stroke-width="2"/>
+  <circle cx="340" cy="210" r="6" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  <circle cx="385" cy="250" r="6" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Calm breathing indicator -->
+  <ellipse cx="255" cy="245" rx="15" ry="8" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M250 245 Q255 240 260 245" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  
+  <!-- Mindfulness text bubbles -->
+  <ellipse cx="120" cy="120" rx="40" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="140" cy="145" r="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="155" cy="160" r="6" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="165" cy="175" r="4" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  
+  <!-- Thought content: relaxed body parts -->
+  <ellipse cx="110" cy="115" rx="8" ry="4" fill="#66AA00"/>
+  <ellipse cx="125" cy="110" rx="6" ry="3" fill="#0099DD"/>
+  <ellipse cx="115" cy="125" rx="7" ry="3" fill="#FF66CC"/>
+  
+  <!-- Instruction guides -->
+  <ellipse cx="380" cy="120" rx="45" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="360" cy="145" r="8" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="345" cy="160" r="6" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  <circle cx="335" cy="175" r="4" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+  
+  <!-- Text representation (scan steps) -->
+  <rect x="350" y="110" width="60" height="4" fill="#000"/>
+  <rect x="355" y="118" width="50" height="4" fill="#000"/>
+  <rect x="360" y="126" width="40" height="4" fill="#000"/>
+  
+  <!-- Floor/ground -->
+  <rect x="0" y="380" width="500" height="120" fill="#8B5E2A"/>
+  
+  <!-- Pillow under head -->
+  <ellipse cx="180" cy="260" rx="25" ry="10" fill="#FFFFFF" stroke="#000" stroke-width="3"/>
+</svg>

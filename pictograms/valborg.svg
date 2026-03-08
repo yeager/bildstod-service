@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bonfire -->
+  <ellipse cx="250" cy="400" rx="80" ry="20" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Wood pile -->
+  <rect x="200" y="350" width="60" height="15" fill="#8B5E2A" stroke="#000" stroke-width="3.5" transform="rotate(10 230 357)"/>
+  <rect x="220" y="340" width="60" height="15" fill="#8B5E2A" stroke="#000" stroke-width="3.5" transform="rotate(-15 250 347)"/>
+  <rect x="240" y="360" width="60" height="15" fill="#8B5E2A" stroke="#000" stroke-width="3.5" transform="rotate(20 270 367)"/>
+  <rect x="180" y="370" width="50" height="12" fill="#8B5E2A" stroke="#000" stroke-width="3.5" transform="rotate(-10 205 376)"/>
+  <rect x="270" y="375" width="50" height="12" fill="#8B5E2A" stroke="#000" stroke-width="3.5" transform="rotate(25 295 381)"/>
+  
+  <!-- Flames -->
+  <path d="M200 350 Q190 320 200 290 Q210 260 220 280 Q215 300 210 330 Q205 340 200 350" fill="#FF8800" stroke="#CC0000" stroke-width="2"/>
+  <path d="M230 340 Q220 310 230 280 Q240 250 250 270 Q245 290 240 320 Q235 330 230 340" fill="#FFD700" stroke="#FF8800" stroke-width="2"/>
+  <path d="M250 345 Q240 315 250 285 Q260 255 270 275 Q265 295 260 325 Q255 335 250 345" fill="#CC0000" stroke="#FF8800" stroke-width="2"/>
+  <path d="M280 340 Q270 310 280 280 Q290 250 300 270 Q295 290 290 320 Q285 330 280 340" fill="#FF8800" stroke="#CC0000" stroke-width="2"/>
+  <path d="M310 350 Q300 320 310 290 Q320 260 330 280 Q325 300 320 330 Q315 340 310 350" fill="#FFD700" stroke="#FF8800" stroke-width="2"/>
+  
+  <!-- Smoke -->
+  <path d="M240 240 Q235 220 245 200 Q250 180 240 160 Q245 140 250 120" fill="none" stroke="#999999" stroke-width="4"/>
+  <path d="M260 240 Q265 220 255 200 Q250 180 260 160 Q255 140 250 120" fill="none" stroke="#999999" stroke-width="3"/>
+  
+  <!-- People around bonfire -->
+  <!-- Person 1 -->
+  <circle cx="150" cy="360" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="145" cy="355" r="4" fill="#000"/>
+  <circle cx="155" cy="355" r="4" fill="#000"/>
+  <path d="M140 365 Q150 375 160 365" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="145" y="380" width="10" height="40" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Person 2 -->
+  <circle cx="370" cy="370" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="365" cy="365" r="4" fill="#000"/>
+  <circle cx="375" cy="365" r="4" fill="#000"/>
+  <path d="M360 375 Q370 385 380 375" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="365" y="390" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+</svg>

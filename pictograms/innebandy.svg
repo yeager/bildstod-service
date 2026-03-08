@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Court floor -->
+  <rect x="50" y="350" width="400" height="100" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Court lines -->
+  <path d="M250 350 L250 450" stroke="#FFFFFF" stroke-width="3"/>
+  <ellipse cx="250" cy="400" rx="50" ry="25" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  
+  <!-- Goal -->
+  <rect x="400" y="380" width="50" height="40" fill="none" stroke="#000" stroke-width="4"/>
+  <rect x="400" y="380" width="50" height="5" fill="#CC0000"/>
+  
+  <!-- Net -->
+  <path d="M405 385 L445 385 M405 390 L445 390 M405 395 L445 395 M405 400 L445 400 M405 405 L445 405 M405 410 L445 410 M405 415 L445 415" 
+        stroke="#999999" stroke-width="1"/>
+  <path d="M410 385 L410 420 M415 385 L415 420 M420 385 L420 420 M425 385 L425 420 M430 385 L430 420 M435 385 L435 420 M440 385 L440 420" 
+        stroke="#999999" stroke-width="1"/>
+  
+  <!-- Player -->
+  <circle cx="200" cy="250" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="192" cy="242" r="4" fill="#000"/>
+  <circle cx="208" cy="242" r="4" fill="#000"/>
+  <path d="M185 260 Q200 270 215 260" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Jersey -->
+  <rect x="190" y="275" width="20" height="50" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Shorts -->
+  <rect x="190" y="325" width="20" height="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Legs -->
+  <rect x="185" y="350" width="8" height="40" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <rect x="207" y="350" width="8" height="40" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Indoor shoes -->
+  <ellipse cx="189" cy="395" rx="15" ry="6" fill="#000" stroke="#000" stroke-width="3"/>
+  <ellipse cx="211" cy="395" rx="15" ry="6" fill="#000" stroke="#000" stroke-width="3"/>
+  
+  <!-- Floorball stick -->
+  <rect x="150" y="300" width="6" height="120" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  <path d="M150 415 Q130 420 115 410" fill="#FFD700" stroke="#000" stroke-width="6"/>
+  <path d="M150 415 Q130 420 115 410" fill="none" stroke="#000" stroke-width="3"/>
+  
+  <!-- Ball -->
+  <circle cx="300" cy="390" r="12" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Ball holes -->
+  <circle cx="295" cy="385" r="2" fill="#000"/>
+  <circle cx="305" cy="385" r="2" fill="#000"/>
+  <circle cx="295" cy="395" r="2" fill="#000"/>
+  <circle cx="305" cy="395" r="2" fill="#000"/>
+  <circle cx="300" cy="390" r="2" fill="#000"/>
+  
+  <!-- Motion lines -->
+  <path d="M270 385 Q280 383 290 385" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M260 388 Q270 386 280 388" fill="none" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Headband -->
+  <rect x="190" y="235" width="20" height="6" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Arms in motion -->
+  <ellipse cx="170" cy="290" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-20 170 290)"/>
+  <ellipse cx="230" cy="285" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(15 230 285)"/>
+  
+  <!-- Referee in background -->
+  <circle cx="350" cy="280" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <rect x="345" y="300" width="10" height="35" fill="#000" stroke="#000" stroke-width="3"/>
+  <rect x="343" y="335" width="14" height="15" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+</svg>

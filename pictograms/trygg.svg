@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Protective circle/home -->
+  <circle cx="250" cy="250" r="150" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Face -->
+  <circle cx="250" cy="250" r="80" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Eyes (dot style) -->
+  <circle cx="230" cy="230" r="4" fill="#000"/>
+  <circle cx="270" cy="230" r="4" fill="#000"/>
+  
+  <!-- Smile -->
+  <path d="M 220 270 Q 250 290 280 270" stroke="#000" stroke-width="3" fill="none"/>
+  
+  <!-- Relaxed eyebrows -->
+  <path d="M 220 215 Q 230 210 240 215" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 260 215 Q 270 210 280 215" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Security/shield symbols around -->
+  <path d="M 120 150 L 120 120 L 140 110 L 160 120 L 160 150 Q 140 170 120 150 Z" 
+        fill="white" stroke="#000" stroke-width="2"/>
+  <path d="M 380 150 L 380 120 L 360 110 L 340 120 L 340 150 Q 360 170 380 150 Z" 
+        fill="white" stroke="#000" stroke-width="2"/>
+</svg>

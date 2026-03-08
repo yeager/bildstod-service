@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="180" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cake base -->
+  <rect x="150" y="280" width="200" height="80" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Rounded top edge -->
+  <rect x="150" y="260" width="200" height="40" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="260" rx="100" ry="20" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Sticky, gooey center (darker) -->
+  <ellipse cx="250" cy="280" rx="60" ry="15" fill="#654321"/>
+  
+  <!-- Powdered sugar dusting -->
+  <circle cx="200" cy="240" r="3" fill="#FFFFFF"/>
+  <circle cx="300" cy="250" r="3" fill="#FFFFFF"/>
+  <circle cx="220" cy="270" r="2" fill="#FFFFFF"/>
+  <circle cx="280" cy="265" r="2" fill="#FFFFFF"/>
+  <circle cx="180" cy="290" r="2" fill="#FFFFFF"/>
+  <circle cx="320" cy="285" r="2" fill="#FFFFFF"/>
+  
+  <!-- Cake slice cut out -->
+  <path d="M250 260 L290 300 L250 360 Z" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Interior of slice -->
+  <path d="M250 260 L280 290 L250 340 Z" fill="#8B5E2A"/>
+  <path d="M250 280 L270 295 L250 320 Z" fill="#654321"/>
+</svg>

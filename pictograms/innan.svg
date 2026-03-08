@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <circle cx="200" cy="250" r="80" fill="white" stroke="#000" stroke-width="3"/>
+  <line x1="200" y1="250" x2="200" y2="190" stroke="#000" stroke-width="4"/>
+  <line x1="200" y1="250" x2="260" y2="250" stroke="#000" stroke-width="3"/>
+  <circle cx="200" cy="250" r="6" fill="#000"/>
+  <path d="M 120 250 L 80 250 L 90 240 M 80 250 L 90 260" stroke="#CC0000" stroke-width="6" fill="none"/>
+  <line x1="320" y1="200" x2="320" y2="300" stroke="#999999" stroke-width="4"/>
+  <text x="350" y="260" font-size="20" fill="#000">BEFORE</text>
+</svg>

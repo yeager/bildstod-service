@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Clock face -->
+  <circle cx="250" cy="250" r="100" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Clock hands -->
+  <line x1="250" y1="250" x2="250" y2="180" stroke="#000" stroke-width="5"/>
+  <line x1="250" y1="250" x2="310" y2="250" stroke="#000" stroke-width="3"/>
+  
+  <!-- Center dot -->
+  <circle cx="250" cy="250" r="6" fill="#000"/>
+  
+  <!-- Circular arrow indicating continuation -->
+  <path d="M 370 250 Q 370 150 250 150 Q 130 150 130 250 Q 130 350 250 350 Q 350 350 370 280" 
+        stroke="#0099DD" stroke-width="6" fill="none"/>
+  
+  <!-- Arrow head -->
+  <path d="M 370 280 L 360 270 M 370 280 L 380 270" stroke="#0099DD" stroke-width="6" fill="none"/>
+  
+  <!-- Continuation dots -->
+  <circle cx="400" cy="200" r="4" fill="#0099DD"/>
+  <circle cx="420" cy="180" r="4" fill="#0099DD"/>
+  <circle cx="440" cy="160" r="4" fill="#0099DD"/>
+</svg>

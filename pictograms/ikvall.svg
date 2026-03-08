@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <circle cx="400" cy="150" r="40" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  <rect x="0" y="300" width="500" height="200" fill="#000"/>
+  <circle cx="250" cy="250" r="80" fill="white" stroke="#000" stroke-width="3"/>
+  <line x1="250" y1="250" x2="250" y2="190" stroke="#000" stroke-width="4"/>
+  <line x1="250" y1="250" x2="300" y2="280" stroke="#000" stroke-width="3"/>
+  <circle cx="250" cy="250" r="6" fill="#000"/>
+  <text x="250" y="450" text-anchor="middle" font-size="30" fill="white">18:00</text>
+</svg>

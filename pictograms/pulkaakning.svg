@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Snowy hill background -->
+  <path d="M0 300 Q100 250 200 280 Q300 310 400 260 Q450 240 500 250 L500 500 L0 500 Z" 
+        fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Pulka/sled -->
+  <ellipse cx="250" cy="320" rx="80" ry="15" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <rect x="170" y="315" width="160" height="10" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Rope -->
+  <path d="M170 320 Q100 200 80 150" fill="none" stroke="#8B5E2A" stroke-width="4"/>
+  
+  <!-- Child on sled -->
+  <circle cx="250" cy="280" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="245" cy="275" r="3" fill="#000"/>
+  <circle cx="255" cy="275" r="3" fill="#000"/>
+  <path d="M240 285 Q250 295 260 285" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="245" y="300" width="10" height="25" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Winter hat -->
+  <path d="M230 265 Q250 255 270 265 Q275 250 260 240 Q250 235 240 240 Q225 250 230 265" 
+        fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <circle cx="270" cy="240" r="6" fill="#FFFFFF"/>
+  
+  <!-- Snow tracks -->
+  <ellipse cx="200" cy="350" rx="20" ry="8" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="5,5"/>
+  <ellipse cx="300" cy="350" rx="20" ry="8" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Snow in air -->
+  <circle cx="150" cy="200" r="3" fill="#FFFFFF"/>
+  <circle cx="320" cy="180" r="3" fill="#FFFFFF"/>
+  <circle cx="400" cy="220" r="3" fill="#FFFFFF"/>
+  <circle cx="180" cy="160" r="2" fill="#FFFFFF"/>
+  <circle cx="350" cy="150" r="2" fill="#FFFFFF"/>
+  <circle cx="280" cy="140" r="2" fill="#FFFFFF"/>
+  
+  <!-- Trees -->
+  <path d="M50 200 L60 100 L70 200" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <rect x="58" y="200" width="4" height="40" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+  
+  <path d="M400 180 L410 80 L420 180" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <rect x="408" y="180" width="4" height="40" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person doing breathing exercise -->
+  <circle cx="250" cy="180" r="30" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Peaceful expression -->
+  <circle cx="240" cy="170" r="4" fill="#000"/>
+  <circle cx="260" cy="170" r="4" fill="#000"/>
+  <path d="M235 190 Q250 200 265 190" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Body -->
+  <rect x="240" y="210" width="20" height="60" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Hand on chest -->
+  <circle cx="250" cy="240" r="12" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Legs in seated/crossed position -->
+  <ellipse cx="230" cy="300" rx="15" ry="40" fill="#0099DD" stroke="#000" stroke-width="3.5" transform="rotate(-20 230 300)"/>
+  <ellipse cx="270" cy="300" rx="15" ry="40" fill="#0099DD" stroke="#000" stroke-width="3.5" transform="rotate(20 270 300)"/>
+  
+  <!-- Breath in visualization -->
+  <path d="M150 150 Q170 130 190 150" fill="none" stroke="#0099DD" stroke-width="4"/>
+  <path d="M140 180 Q160 160 180 180" fill="none" stroke="#0099DD" stroke-width="4"/>
+  <path d="M130 210 Q150 190 170 210" fill="none" stroke="#0099DD" stroke-width="4"/>
+  
+  <!-- Arrow showing breath in -->
+  <path d="M100 200 L150 180" stroke="#0099DD" stroke-width="4"/>
+  <path d="M140 175 L150 180 L145 190" fill="#0099DD"/>
+  
+  <!-- Breath out visualization -->
+  <path d="M310 150 Q330 130 350 150" fill="none" stroke="#66AA00" stroke-width="4"/>
+  <path d="M320 180 Q340 160 360 180" fill="none" stroke="#66AA00" stroke-width="4"/>
+  <path d="M330 210 Q350 190 370 210" fill="none" stroke="#66AA00" stroke-width="4"/>
+  
+  <!-- Arrow showing breath out -->
+  <path d="M350 180 L400 200" stroke="#66AA00" stroke-width="4"/>
+  <path d="M390 195 L400 200 L395 205" fill="#66AA00"/>
+  
+  <!-- Breathing count bubbles -->
+  <circle cx="120" cy="100" r="20" fill="#FFFFFF" stroke="#0099DD" stroke-width="3"/>
+  <circle cx="120" cy="100" r="8" fill="#0099DD"/>
+  
+  <circle cx="200" cy="80" r="20" fill="#FFFFFF" stroke="#0099DD" stroke-width="3"/>
+  <circle cx="200" cy="80" r="8" fill="#0099DD"/>
+  <circle cx="195" cy="75" r="3" fill="#0099DD"/>
+  <circle cx="205" cy="75" r="3" fill="#0099DD"/>
+  
+  <circle cx="300" cy="80" r="20" fill="#FFFFFF" stroke="#66AA00" stroke-width="3"/>
+  <circle cx="300" cy="80" r="8" fill="#66AA00"/>
+  <circle cx="295" cy="75" r="3" fill="#66AA00"/>
+  <circle cx="305" cy="75" r="3" fill="#66AA00"/>
+  <circle cx="300" cy="85" r="3" fill="#66AA00"/>
+  
+  <circle cx="380" cy="100" r="20" fill="#FFFFFF" stroke="#66AA00" stroke-width="3"/>
+  <circle cx="380" cy="100" r="8" fill="#66AA00"/>
+  <circle cx="375" cy="95" r="3" fill="#66AA00"/>
+  <circle cx="385" cy="95" r="3" fill="#66AA00"/>
+  <circle cx="375" cy="105" r="3" fill="#66AA00"/>
+  <circle cx="385" cy="105" r="3" fill="#66AA00"/>
+  
+  <!-- Lungs illustration -->
+  <ellipse cx="230" cy="230" rx="15" ry="25" fill="#FF66CC" stroke="#000" stroke-width="2"/>
+  <ellipse cx="270" cy="230" rx="15" ry="25" fill="#FF66CC" stroke="#000" stroke-width="2"/>
+  
+  <!-- Diaphragm movement -->
+  <path d="M215 255 Q250 245 285 255" stroke="#000" stroke-width="3"/>
+  <path d="M245 255 L250 245 L255 255" fill="#000"/>
+  
+  <!-- Calm waves around person -->
+  <path d="M150 320 Q170 310 190 320" fill="none" stroke="#0099DD" stroke-width="3"/>
+  <path d="M310 320 Q330 310 350 320" fill="none" stroke="#0099DD" stroke-width="3"/>
+  <path d="M180 350 Q200 340 220 350" fill="none" stroke="#66AA00" stroke-width="3"/>
+  <path d="M280 350 Q300 340 320 350" fill="none" stroke="#66AA00" stroke-width="3"/>
+  
+  <!-- Ground/sitting surface -->
+  <ellipse cx="250" cy="380" rx="120" ry="20" fill="#8B5E2A" stroke="#000" stroke-width="3"/>
+</svg>

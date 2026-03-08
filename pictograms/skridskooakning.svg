@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ice surface -->
+  <ellipse cx="250" cy="400" rx="240" ry="50" fill="#FFFFFF" stroke="#0099DD" stroke-width="3.5"/>
+  
+  <!-- Ice reflections -->
+  <path d="M100 380 Q200 370 300 375 Q400 380 450 370" fill="none" stroke="#0099DD" stroke-width="2"/>
+  <path d="M80 390 Q180 385 280 390 Q380 395 420 385" fill="none" stroke="#0099DD" stroke-width="1"/>
+  
+  <!-- Skater -->
+  <circle cx="250" cy="250" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="242" cy="242" r="4" fill="#000"/>
+  <circle cx="258" cy="242" r="4" fill="#000"/>
+  <path d="M235 260 Q250 270 265 260" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Body in motion -->
+  <rect x="240" y="275" width="20" height="50" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Arms in motion -->
+  <ellipse cx="220" cy="290" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-30 220 290)"/>
+  <ellipse cx="280" cy="290" rx="8" ry="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(30 280 290)"/>
+  
+  <!-- Legs -->
+  <rect x="235" y="325" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5" transform="rotate(-10 240 345)"/>
+  <rect x="255" y="325" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5" transform="rotate(15 260 345)"/>
+  
+  <!-- Ice skates -->
+  <ellipse cx="225" cy="375" rx="25" ry="8" fill="#000" stroke="#000" stroke-width="3.5" transform="rotate(-10 225 375)"/>
+  <ellipse cx="275" cy="375" rx="25" ry="8" fill="#000" stroke="#000" stroke-width="3.5" transform="rotate(15 275 375)"/>
+  
+  <!-- Skate blades -->
+  <rect x="200" y="378" width="50" height="3" fill="#999999" transform="rotate(-10 225 379.5)"/>
+  <rect x="250" y="378" width="50" height="3" fill="#999999" transform="rotate(15 275 379.5)"/>
+  
+  <!-- Motion lines -->
+  <path d="M180 350 Q200 345 220 350" fill="none" stroke="#0099DD" stroke-width="2"/>
+  <path d="M160 340 Q180 335 200 340" fill="none" stroke="#0099DD" stroke-width="2"/>
+  
+  <path d="M300 355 Q320 350 340 355" fill="none" stroke="#0099DD" stroke-width="2"/>
+  <path d="M320 345 Q340 340 360 345" fill="none" stroke="#0099DD" stroke-width="2"/>
+  
+  <!-- Winter hat and scarf -->
+  <path d="M225 230 Q250 220 275 230 Q280 215 265 205 Q250 200 235 205 Q220 215 225 230" 
+        fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <circle cx="275" cy="205" r="6" fill="#FFFFFF"/>
+  
+  <!-- Scarf blowing in wind -->
+  <path d="M235 275 Q200 270 180 275 Q160 280 140 275" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main crispbread circle -->
+  <circle cx="250" cy="250" r="120" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Center hole -->
+  <circle cx="250" cy="250" r="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Holes/bubbles pattern -->
+  <circle cx="200" cy="200" r="8" fill="#FFFFFF"/>
+  <circle cx="300" cy="200" r="6" fill="#FFFFFF"/>
+  <circle cx="180" cy="250" r="5" fill="#FFFFFF"/>
+  <circle cx="320" cy="250" r="7" fill="#FFFFFF"/>
+  <circle cx="200" cy="300" r="6" fill="#FFFFFF"/>
+  <circle cx="300" cy="300" r="8" fill="#FFFFFF"/>
+  <circle cx="220" cy="270" r="4" fill="#FFFFFF"/>
+  <circle cx="280" cy="230" r="5" fill="#FFFFFF"/>
+  <circle cx="160" cy="220" r="4" fill="#FFFFFF"/>
+  <circle cx="340" cy="280" r="4" fill="#FFFFFF"/>
+  <circle cx="210" cy="320" r="5" fill="#FFFFFF"/>
+  <circle cx="290" cy="180" r="4" fill="#FFFFFF"/>
+  
+  <!-- Grain texture lines -->
+  <path d="M190 180 L195 185" stroke="#000" stroke-width="1"/>
+  <path d="M310 190 L315 195" stroke="#000" stroke-width="1"/>
+  <path d="M170 270 L175 275" stroke="#000" stroke-width="1"/>
+  <path d="M330 260 L335 265" stroke="#000" stroke-width="1"/>
+</svg>

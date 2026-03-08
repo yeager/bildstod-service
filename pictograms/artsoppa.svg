@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bowl -->
+  <path d="M150 250 Q150 380 250 380 Q350 380 350 250" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="250" rx="100" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Soup surface -->
+  <ellipse cx="250" cy="250" rx="95" ry="18" fill="#66AA00"/>
+  
+  <!-- Pea pieces -->
+  <circle cx="220" cy="260" r="8" fill="#66AA00"/>
+  <circle cx="280" cy="255" r="8" fill="#66AA00"/>
+  <circle cx="250" cy="270" r="8" fill="#66AA00"/>
+  <circle cx="200" cy="245" r="6" fill="#66AA00"/>
+  <circle cx="300" cy="265" r="6" fill="#66AA00"/>
+  
+  <!-- Ham piece -->
+  <ellipse cx="240" cy="250" rx="15" ry="8" fill="#FF8800"/>
+  
+  <!-- Steam -->
+  <path d="M200 230 Q202 210 200 190" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M250 220 Q252 200 250 180" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M300 230 Q302 210 300 190" fill="none" stroke="#999999" stroke-width="2"/>
+</svg>

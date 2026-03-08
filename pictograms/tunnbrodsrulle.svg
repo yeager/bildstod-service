@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="180" ry="35" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Tunnbröd wrap (flatbread) -->
+  <ellipse cx="250" cy="280" rx="110" ry="45" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Wrap fold/seam -->
+  <line x1="140" y1="280" x2="360" y2="280" stroke="#000" stroke-width="2"/>
+  
+  <!-- Filling visible at ends -->
+  <!-- Lettuce -->
+  <ellipse cx="160" cy="275" rx="15" ry="8" fill="#66AA00" stroke="#000" stroke-width="2"/>
+  <ellipse cx="340" cy="275" rx="15" ry="8" fill="#66AA00" stroke="#000" stroke-width="2"/>
+  
+  <!-- Sausage/meat -->
+  <ellipse cx="180" cy="280" rx="20" ry="6" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  <ellipse cx="320" cy="280" rx="20" ry="6" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Potato salad/mashed potato -->
+  <ellipse cx="200" cy="285" rx="15" ry="5" fill="white" stroke="#000" stroke-width="2"/>
+  <ellipse cx="300" cy="285" rx="15" ry="5" fill="white" stroke="#000" stroke-width="2"/>
+  
+  <!-- Tunnbröd texture -->
+  <path d="M 180 260 Q 250 255 320 260" stroke="#E6C200" stroke-width="1.5" fill="none"/>
+  <path d="M 170 300 Q 250 305 330 300" stroke="#E6C200" stroke-width="1.5" fill="none"/>
+  
+  <!-- Small dots for texture -->
+  <circle cx="220" cy="270" r="1" fill="#E6C200"/>
+  <circle cx="280" cy="270" r="1" fill="#E6C200"/>
+  <circle cx="240" cy="290" r="1" fill="#E6C200"/>
+  <circle cx="260" cy="290" r="1" fill="#E6C200"/>
+</svg>

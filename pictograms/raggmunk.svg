@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="350" rx="180" ry="35" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Raggmunk (potato pancake) - irregular round shape -->
+  <ellipse cx="250" cy="280" rx="90" ry="75" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Potato texture lines -->
+  <path d="M 180 260 Q 250 250 320 270" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 190 290 Q 250 285 310 295" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 185 320 Q 250 315 315 325" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Small potato pieces visible in pancake -->
+  <circle cx="220" cy="265" r="3" fill="#FFED4A" stroke="#000" stroke-width="1"/>
+  <circle cx="270" cy="275" r="3" fill="#FFED4A" stroke="#000" stroke-width="1"/>
+  <circle cx="240" cy="295" r="3" fill="#FFED4A" stroke="#000" stroke-width="1"/>
+  <circle cx="260" cy="305" r="3" fill="#FFED4A" stroke="#000" stroke-width="1"/>
+  
+  <!-- Crispy edges -->
+  <path d="M 160 280 Q 165 275 170 285" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
+  <path d="M 330 275 Q 335 280 340 270" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
+  <path d="M 180 350 Q 185 355 190 345" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
+  <path d="M 320 345 Q 315 350 310 340" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
+  
+  <!-- Spatula underneath (traditional serving) -->
+  <rect x="280" y="320" width="80" height="8" fill="#999999" stroke="#000" stroke-width="2"/>
+  <rect x="365" y="315" width="15" height="18" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+</svg>

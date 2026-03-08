@@ -1,20 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Kanelbulle (Cinnamon Bun) -->
-  <!-- Spiral bun from above -->
-  <ellipse cx="250" cy="260" rx="150" ry="140" fill="#D4A06A" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
-  <!-- Spiral pattern -->
-  <path d="M250 180 Q310 180 310 240 Q310 300 250 300 Q190 300 190 250 Q190 210 230 210 Q270 210 270 250 Q270 280 250 280 Q230 280 230 260 Q230 240 250 240" fill="none" stroke="#8B5E3C" stroke-width="6" stroke-linecap="round"/>
-  <!-- Cinnamon filling in spiral -->
-  <path d="M250 180 Q310 180 310 240 Q310 300 250 300 Q190 300 190 250 Q190 210 230 210 Q270 210 270 250 Q270 280 250 280 Q230 280 230 260 Q230 240 250 240" fill="none" stroke="#6B3410" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
-  <!-- Pearl sugar on top -->
-  <circle cx="220" cy="200" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="270" cy="210" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="240" cy="250" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="280" cy="270" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="210" cy="280" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="260" cy="230" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="230" cy="310" r="4" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <circle cx="290" cy="240" r="5" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
-  <!-- Glaze sheen -->
-  <ellipse cx="240" cy="220" rx="30" ry="15" fill="#FFF" opacity="0.15"/>
+  <!-- Kanelbulle — ARASAAC style: cinnamon bun on plate, side view showing swirl -->
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="160" ry="35" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Bun (side view, showing height and round shape) -->
+  <path d="M140 280 Q140 200 250 180 Q360 200 360 280 Q360 330 330 355 Q280 370 250 370 Q220 370 170 355 Q140 330 140 280 Z"
+        fill="#D4A24E" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  
+  <!-- Darker top crust -->
+  <path d="M150 275 Q150 210 250 192 Q350 210 350 275 Q340 250 250 240 Q160 250 150 275 Z"
+        fill="#B8862B" stroke="none"/>
+  
+  <!-- Swirl pattern (the defining feature of a kanelbulle) -->
+  <path d="M250 280 Q220 270 215 300 Q215 330 250 330 Q285 330 285 300 Q285 270 250 280 Z"
+        fill="none" stroke="#6D4C20" stroke-width="4" stroke-linecap="round"/>
+  <path d="M250 290 Q235 285 232 305 Q232 322 250 322 Q268 322 268 305 Q268 285 250 290 Z"
+        fill="none" stroke="#6D4C20" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="250" cy="305" r="6" fill="#6D4C20"/>
+  
+  <!-- Cinnamon filling visible in swirl -->
+  <path d="M225 295 Q235 280 250 283" fill="none" stroke="#8B5E2A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M275 295 Q265 280 250 283" fill="none" stroke="#8B5E2A" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Pearl sugar (nib sugar on top) -->
+  <circle cx="200" cy="250" r="5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="230" cy="230" r="4" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="260" cy="225" r="5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="290" cy="232" r="4" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="310" cy="250" r="5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="180" cy="265" r="4" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="320" cy="268" r="4" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="215" cy="240" r="3.5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
+  <circle cx="275" cy="228" r="3.5" fill="#FFF" stroke="#000" stroke-width="1.5"/>
 </svg>

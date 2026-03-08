@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Center person -->
+  <circle cx="250" cy="200" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="242" cy="192" r="4" fill="#000"/>
+  <circle cx="258" cy="192" r="4" fill="#000"/>
+  <path d="M235 210 Q250 220 265 210" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="240" y="225" width="20" height="45" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="235" y="270" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <rect x="255" y="270" width="10" height="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="240" cy="315" rx="12" ry="8" fill="#000"/>
+  <ellipse cx="260" cy="315" rx="12" ry="8" fill="#000"/>
+  
+  <!-- Personal space bubble -->
+  <circle cx="250" cy="250" r="120" fill="none" stroke="#0099DD" stroke-width="4" stroke-dasharray="10,5"/>
+  
+  <!-- Arms extended to show space -->
+  <ellipse cx="180" cy="240" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(-30 180 240)"/>
+  <ellipse cx="320" cy="240" rx="8" ry="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5" transform="rotate(30 320 240)"/>
+  
+  <!-- Other people too close (outside bubble) -->
+  <!-- Person 1 - too close -->
+  <circle cx="150" cy="150" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <circle cx="145" cy="145" r="3" fill="#000"/>
+  <circle cx="155" cy="145" r="3" fill="#000"/>
+  <rect x="145" y="170" width="10" height="30" fill="#CC0000" stroke="#000" stroke-width="3"/>
+  
+  <!-- Person 2 - too close -->
+  <circle cx="380" cy="180" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <circle cx="375" cy="175" r="3" fill="#000"/>
+  <circle cx="385" cy="175" r="3" fill="#000"/>
+  <rect x="375" y="200" width="10" height="30" fill="#FF66CC" stroke="#000" stroke-width="3"/>
+  
+  <!-- Person 3 - at good distance -->
+  <circle cx="100" cy="350" r="18" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <circle cx="95" cy="345" r="3" fill="#000"/>
+  <circle cx="105" cy="345" r="3" fill="#000"/>
+  <path d="M90 355 Q100 365 110 355" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="95" y="368" width="10" height="25" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  
+  <!-- Warning symbols for people too close -->
+  <path d="M120 130 L140 150 M120 150 L140 130" stroke="#CC0000" stroke-width="4"/>
+  <path d="M410 160 L430 180 M410 180 L430 160" stroke="#CC0000" stroke-width="4"/>
+  
+  <!-- Good/positive symbol for person at good distance -->
+  <circle cx="70" cy="380" r="12" fill="#66AA00" stroke="#000" stroke-width="3"/>
+  <path d="M65 380 L68 385 L75 375" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  
+  <!-- Distance measurement lines -->
+  <path d="M250 130 L250 120" stroke="#999999" stroke-width="2"/>
+  <path d="M130 130 L370 130" stroke="#999999" stroke-width="2"/>
+  <path d="M130 130 L130 120" stroke="#999999" stroke-width="2"/>
+  <path d="M370 130 L370 120" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Text representation (arm's length) -->
+  <rect x="220" y="100" width="60" height="8" fill="#999999"/>
+  
+  <!-- Stop hand gesture -->
+  <rect x="170" y="220" width="12" height="15" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
+  <rect x="172" y="205" width="2" height="15" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+  <rect x="175" y="207" width="2" height="13" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+  <rect x="178" y="205" width="2" height="15" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+  <rect x="181" y="207" width="2" height="13" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
+</svg>

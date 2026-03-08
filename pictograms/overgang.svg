@@ -1,32 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Transition / Övergång (moving between activities) -->
-  <!-- Left activity (reading) -->
-  <rect x="40" y="150" width="160" height="200" rx="10" fill="#E3F2FD" stroke="#000" stroke-width="3"/>
-  <rect x="80" y="190" width="80" height="60" rx="5" fill="#1976D2" stroke="#000" stroke-width="2"/>
-  <rect x="88" y="198" width="64" height="4" fill="#FFF"/>
-  <rect x="88" y="208" width="50" height="4" fill="#FFF"/>
-  <rect x="88" y="218" width="58" height="4" fill="#FFF"/>
-  <rect x="88" y="228" width="40" height="4" fill="#FFF"/>
-  <!-- Check mark (done) -->
-  <circle cx="120" cy="310" r="18" fill="#4CAF50"/>
-  <path d="M110 310 L117 317 L130 303" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
-  <!-- Arrow (transition) -->
-  <path d="M215 250 L285 250" fill="none" stroke="#FF9800" stroke-width="5" stroke-linecap="round"/>
-  <path d="M275 240 L285 250 L275 260" fill="none" stroke="#FF9800" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Timer on arrow -->
-  <circle cx="250" cy="220" r="18" fill="#FFF" stroke="#FF9800" stroke-width="2.5"/>
-  <line x1="250" y1="208" x2="250" y2="220" stroke="#FF9800" stroke-width="2.5"/>
-  <line x1="250" y1="220" x2="258" y2="224" stroke="#FF9800" stroke-width="2.5"/>
-  <!-- Right activity (play) -->
-  <rect x="300" y="150" width="160" height="200" rx="10" fill="#FFF3E0" stroke="#000" stroke-width="3"/>
-  <circle cx="380" cy="230" r="35" fill="#E53935" stroke="#000" stroke-width="2.5"/>
-  <path d="M365 218 Q380 230 395 218" fill="none" stroke="#FFF" stroke-width="2.5"/>
-  <!-- Question mark (upcoming) -->
-  <circle cx="380" cy="310" r="18" fill="#FF9800"/>
-  <text x="380" y="317" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#FFF">?</text>
-  <!-- Footprints between -->
-  <circle cx="230" cy="280" r="4" fill="#999"/>
-  <circle cx="245" cy="285" r="3" fill="#999"/>
-  <circle cx="260" cy="280" r="4" fill="#999"/>
-  <circle cx="275" cy="285" r="3" fill="#999"/>
+  <!-- Övergång/Transition — ARASAAC style: child walking from one activity to another -->
+  
+  <!-- Left area (reading — done) -->
+  <rect x="30" y="120" width="150" height="180" rx="8" fill="#E8F5E9" stroke="#000" stroke-width="3"/>
+  <!-- Book -->
+  <rect x="70" y="170" width="70" height="55" rx="3" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <line x1="105" y1="170" x2="105" y2="225" stroke="#FFF" stroke-width="2"/>
+  <rect x="78" y="180" width="20" height="4" rx="2" fill="#FFF"/>
+  <rect x="78" y="190" width="18" height="4" rx="2" fill="#FFF"/>
+  <rect x="78" y="200" width="20" height="4" rx="2" fill="#FFF"/>
+  <!-- Green checkmark -->
+  <circle cx="105" cy="265" r="18" fill="#4CAF50" stroke="#000" stroke-width="3"/>
+  <path d="M95 265 L102 274 L115 256" fill="none" stroke="#FFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Right area (play — next) -->
+  <rect x="320" y="120" width="150" height="180" rx="8" fill="#FFF3E0" stroke="#000" stroke-width="3"/>
+  <!-- Ball -->
+  <circle cx="395" cy="200" r="30" fill="#E00000" stroke="#000" stroke-width="3.5"/>
+  <path d="M375 188 Q395 200 415 188" fill="none" stroke="#FFF" stroke-width="2.5"/>
+  <line x1="395" y1="170" x2="395" y2="230" stroke="#FFF" stroke-width="2"/>
+  <!-- Star (fun/reward) -->
+  <polygon points="395,265 401,280 418,280 405,290 410,305 395,296 380,305 385,290 372,280 389,280" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
+  
+  <!-- Big green arrow (center) -->
+  <path d="M200 230 L290 230" fill="none" stroke="#4CAF50" stroke-width="8" stroke-linecap="round"/>
+  <path d="M275 215 L295 230 L275 245" fill="#4CAF50" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+  
+  <!-- Child walking (center, on the arrow) -->
+  <!-- Head -->
+  <circle cx="250" cy="340" r="28" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <!-- Hair -->
+  <path d="M225 325 Q230 305 250 300 Q270 305 275 325" fill="#8B5E2A" stroke="#000" stroke-width="2.5"/>
+  <!-- Eyes -->
+  <circle cx="242" cy="338" r="3" fill="#000"/>
+  <circle cx="258" cy="338" r="3" fill="#000"/>
+  <!-- Smile -->
+  <path d="M242 350 Q250 358 258 350" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Body (shirt) -->
+  <rect x="232" y="368" width="36" height="38" rx="4" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  <!-- Pants -->
+  <rect x="232" y="403" width="16" height="30" rx="3" fill="#0099DD" stroke="#000" stroke-width="3"/>
+  <rect x="252" y="403" width="16" height="30" rx="3" fill="#0099DD" stroke="#000" stroke-width="3"/>
+  <!-- Arms (walking motion) -->
+  <path d="M232 375 L210 395" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M232 375 L210 395" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M268 375 L290 395" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M268 375 L290 395" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="240" cy="438" rx="12" ry="7" fill="#000"/>
+  <ellipse cx="260" cy="438" rx="12" ry="7" fill="#000"/>
+  
+  <!-- Footprints showing direction -->
+  <ellipse cx="185" cy="450" rx="5" ry="8" fill="#CCC" transform="rotate(-10 185 450)"/>
+  <ellipse cx="210" cy="445" rx="5" ry="8" fill="#CCC" transform="rotate(-5 210 445)"/>
+  <ellipse cx="290" cy="445" rx="5" ry="8" fill="#CCC" transform="rotate(5 290 445)"/>
+  <ellipse cx="315" cy="450" rx="5" ry="8" fill="#CCC" transform="rotate(10 315 450)"/>
 </svg>

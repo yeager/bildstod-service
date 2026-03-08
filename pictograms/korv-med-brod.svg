@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bread bun -->
+  <ellipse cx="250" cy="250" rx="150" ry="40" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="220" rx="150" ry="40" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Sausage -->
+  <ellipse cx="250" cy="235" rx="120" ry="15" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Mustard -->
+  <path d="M150 225 Q200 215 250 220 Q300 225 350 220" 
+        fill="none" stroke="#FFD700" stroke-width="6"/>
+  
+  <!-- Ketchup -->
+  <path d="M140 240 Q190 235 240 238 Q290 240 340 238" 
+        fill="none" stroke="#CC0000" stroke-width="4"/>
+  
+  <!-- Onion pieces -->
+  <rect x="180" y="230" width="8" height="8" fill="#FFFFFF" stroke="#000" stroke-width="1"/>
+  <rect x="220" y="228" width="6" height="6" fill="#FFFFFF" stroke="#000" stroke-width="1"/>
+  <rect x="280" y="232" width="7" height="7" fill="#FFFFFF" stroke="#000" stroke-width="1"/>
+  <rect x="310" y="229" width="6" height="6" fill="#FFFFFF" stroke="#000" stroke-width="1"/>
+  
+  <!-- Bread texture lines -->
+  <path d="M180 200 Q200 195 220 200" fill="none" stroke="#000" stroke-width="1"/>
+  <path d="M280 205 Q300 200 320 205" fill="none" stroke="#000" stroke-width="1"/>
+</svg>

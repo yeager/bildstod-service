@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <circle cx="250" cy="250" r="80" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="230" cy="230" r="4" fill="#000"/>
+  <circle cx="270" cy="230" r="4" fill="#000"/>
+  <path d="M 225 270 Q 250 285 275 270" stroke="#000" stroke-width="3" fill="none"/>
+  <path d="M 220 210 Q 230 215 240 210" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 260 210 Q 270 215 280 210" stroke="#000" stroke-width="2" fill="none"/>
+  <!-- Relief breath lines -->
+  <path d="M 350 230 Q 380 225 410 230" stroke="#0099DD" stroke-width="3" fill="none"/>
+  <path d="M 350 250 Q 380 245 410 250" stroke="#0099DD" stroke-width="3" fill="none"/>
+  <path d="M 350 270 Q 380 265 410 270" stroke="#0099DD" stroke-width="3" fill="none"/>
+</svg>

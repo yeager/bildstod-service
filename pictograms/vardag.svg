@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <rect x="100" y="100" width="300" height="300" fill="white" stroke="#000" stroke-width="3"/>
+  <line x1="150" y1="150" x2="350" y2="150" stroke="#000" stroke-width="2"/>
+  <text x="250" y="200" text-anchor="middle" font-size="30" fill="#000">MON</text>
+  <text x="250" y="230" text-anchor="middle" font-size="30" fill="#000">TUE</text>
+  <text x="250" y="260" text-anchor="middle" font-size="30" fill="#000">WED</text>
+  <text x="250" y="290" text-anchor="middle" font-size="30" fill="#000">THU</text>
+  <text x="250" y="320" text-anchor="middle" font-size="30" fill="#000">FRI</text>
+</svg>

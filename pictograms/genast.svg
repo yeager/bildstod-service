@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Clock face -->
+  <circle cx="250" cy="250" r="90" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Clock numbers -->
+  <circle cx="250" cy="180" r="3" fill="#000"/>  <!-- 12 -->
+  <circle cx="320" cy="250" r="3" fill="#000"/>  <!-- 3 -->
+  <circle cx="250" cy="320" r="3" fill="#000"/>  <!-- 6 -->
+  <circle cx="180" cy="250" r="3" fill="#000"/>  <!-- 9 -->
+  
+  <!-- Both hands pointing to 12 (exactly now) -->
+  <line x1="250" y1="250" x2="250" y2="190" stroke="#000" stroke-width="6"/>  <!-- Hour hand -->
+  <line x1="250" y1="250" x2="250" y2="185" stroke="#000" stroke-width="4"/>  <!-- Minute hand -->
+  
+  <!-- Center dot -->
+  <circle cx="250" cy="250" r="6" fill="#000"/>
+  
+  <!-- Exclamation mark for urgency -->
+  <rect x="380" y="200" width="8" height="60" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  <circle cx="384" cy="275" r="6" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Lightning bolt for immediate action -->
+  <path d="M 100 180 L 130 220 L 110 220 L 140 280 L 110 240 L 130 240 Z" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  
+  <!-- Motion blur around clock -->
+  <path d="M 180 150 Q 250 140 320 150" stroke="#CC0000" stroke-width="3" fill="none"/>
+  <path d="M 180 350 Q 250 360 320 350" stroke="#CC0000" stroke-width="3" fill="none"/>
+  <path d="M 150 180 Q 140 250 150 320" stroke="#CC0000" stroke-width="3" fill="none"/>
+  <path d="M 350 180 Q 360 250 350 320" stroke="#CC0000" stroke-width="3" fill="none"/>
+</svg>

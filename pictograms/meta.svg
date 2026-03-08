@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Water -->
+  <path d="M0 300 Q100 290 200 300 Q300 310 400 300 Q450 295 500 300 L500 500 L0 500 Z" 
+        fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Water ripples -->
+  <ellipse cx="150" cy="320" rx="30" ry="6" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <ellipse cx="350" cy="330" rx="25" ry="5" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <ellipse cx="200" cy="380" rx="40" ry="8" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  
+  <!-- Fisherman -->
+  <circle cx="250" cy="200" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="242" cy="192" r="4" fill="#000"/>
+  <circle cx="258" cy="192" r="4" fill="#000"/>
+  <path d="M235 210 Q250 220 265 210" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Fishing hat -->
+  <ellipse cx="250" cy="180" rx="30" ry="15" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="175" rx="20" ry="10" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Body -->
+  <rect x="240" y="225" width="20" height="50" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Legs -->
+  <rect x="235" y="275" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="255" y="275" width="10" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Rubber boots -->
+  <rect x="230" y="315" width="15" height="20" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="255" y="315" width="15" height="20" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Fishing rod -->
+  <rect x="280" y="150" width="4" height="120" fill="#8B5E2A" stroke="#000" stroke-width="2" transform="rotate(20 282 210)"/>
+  
+  <!-- Fishing line -->
+  <path d="M300 240 Q320 280 340 320 Q350 360 360 400" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Float -->
+  <ellipse cx="360" cy="350" rx="6" ry="15" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  <ellipse cx="360" cy="355" rx="6" ry="8" fill="#FFFFFF"/>
+  
+  <!-- Fish underwater -->
+  <ellipse cx="380" cy="420" rx="30" ry="12" fill="#FF8800" stroke="#000" stroke-width="3"/>
+  <path d="M410 420 L425 415 L425 425 Z" fill="#FF8800" stroke="#000" stroke-width="3"/>
+  <circle cx="385" cy="418" r="3" fill="#000"/>
+  
+  <!-- Tackle box -->
+  <rect x="150" y="280" width="60" height="30" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  <rect x="155" y="285" width="50" height="20" fill="#FFFFFF"/>
+  
+  <!-- Compartments in tackle box -->
+  <rect x="160" y="290" width="15" height="6" fill="#FF8800"/>
+  <rect x="180" y="290" width="15" height="6" fill="#66AA00"/>
+  <rect x="160" y="298" width="15" height="5" fill="#0099DD"/>
+  <rect x="180" y="298" width="15" height="5" fill="#FFD700"/>
+  
+  <!-- Reeds/grass -->
+  <path d="M80 290 Q85 260 80 230 Q90 240 85 270 Q90 290 95 260 Q100 240 95 270" 
+        fill="none" stroke="#66AA00" stroke-width="4"/>
+  <path d="M420 295 Q425 265 420 235 Q430 245 425 275 Q430 295 435 265 Q440 245 435 275" 
+        fill="none" stroke="#66AA00" stroke-width="4"/>
+</svg>

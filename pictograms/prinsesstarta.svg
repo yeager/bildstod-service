@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="120" ry="15" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cake base -->
+  <ellipse cx="250" cy="360" rx="100" ry="20" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cream layer -->
+  <ellipse cx="250" cy="340" rx="105" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Green marzipan dome -->
+  <ellipse cx="250" cy="280" rx="110" ry="80" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Pink rose on top -->
+  <circle cx="250" cy="220" r="12" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+  <circle cx="245" cy="225" r="6" fill="#FF66CC"/>
+  <circle cx="255" cy="225" r="6" fill="#FF66CC"/>
+  <circle cx="250" cy="230" r="6" fill="#FF66CC"/>
+  
+  <!-- Powdered sugar dusting -->
+  <circle cx="220" cy="260" r="3" fill="#FFFFFF"/>
+  <circle cx="280" cy="250" r="3" fill="#FFFFFF"/>
+  <circle cx="240" cy="240" r="2" fill="#FFFFFF"/>
+  <circle cx="270" cy="270" r="2" fill="#FFFFFF"/>
+</svg>

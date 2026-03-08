@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="white"/>
+  <!-- Grill -->
+  <ellipse cx="250" cy="300" rx="100" ry="30" fill="#000" stroke="#000" stroke-width="3"/>
+  <rect x="150" y="280" width="200" height="40" fill="#999999" stroke="#000" stroke-width="3"/>
+  <!-- Grill legs -->
+  <rect x="180" y="320" width="10" height="60" fill="#000"/>
+  <rect x="310" y="320" width="10" height="60" fill="#000"/>
+  <!-- Food on grill -->
+  <circle cx="200" cy="290" r="12" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+  <circle cx="250" cy="290" r="12" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+  <circle cx="300" cy="290" r="12" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+  <!-- Flames -->
+  <path d="M 200 320 Q 210 340 200 360 Q 190 340 200 320" fill="#CC0000"/>
+  <path d="M 250 320 Q 260 340 250 360 Q 240 340 250 320" fill="#FF8800"/>
+  <path d="M 300 320 Q 310 340 300 360 Q 290 340 300 320" fill="#CC0000"/>
+  <!-- Smoke -->
+  <path d="M 225 250 Q 235 230 225 210" stroke="#999999" stroke-width="3" fill="none"/>
+  <path d="M 275 250 Q 265 230 275 210" stroke="#999999" stroke-width="3" fill="none"/>
+</svg>

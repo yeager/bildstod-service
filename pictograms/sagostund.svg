@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Teacher -->
+  <circle cx="250" cy="150" r="30" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="240" cy="140" r="4" fill="#000"/>
+  <circle cx="260" cy="140" r="4" fill="#000"/>
+  <path d="M235 160 Q250 170 265 160" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="240" y="180" width="20" height="60" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+  <circle cx="230" cy="250" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="270" cy="250" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Book in teacher's hands -->
+  <rect x="220" y="200" width="60" height="40" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <rect x="225" y="205" width="50" height="30" fill="#FFFFFF"/>
+  <path d="M240 215 L265 215" stroke="#000" stroke-width="1"/>
+  <path d="M240 220 L260 220" stroke="#000" stroke-width="1"/>
+  <path d="M240 225 L265 225" stroke="#000" stroke-width="1"/>
+  
+  <!-- Children sitting in circle -->
+  <!-- Child 1 -->
+  <circle cx="150" cy="320" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="145" cy="315" r="3" fill="#000"/>
+  <circle cx="155" cy="315" r="3" fill="#000"/>
+  <path d="M140 325 Q150 335 160 325" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="145" y="340" width="10" height="30" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 2 -->
+  <circle cx="350" cy="320" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="345" cy="315" r="3" fill="#000"/>
+  <circle cx="355" cy="315" r="3" fill="#000"/>
+  <path d="M340 325 Q350 335 360 325" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="345" y="340" width="10" height="30" fill="#FF8800" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 3 -->
+  <circle cx="200" cy="380" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="195" cy="375" r="3" fill="#000"/>
+  <circle cx="205" cy="375" r="3" fill="#000"/>
+  <path d="M190 385 Q200 395 210 385" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="195" y="400" width="10" height="30" fill="#CC0000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Child 4 -->
+  <circle cx="300" cy="380" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="295" cy="375" r="3" fill="#000"/>
+  <circle cx="305" cy="375" r="3" fill="#000"/>
+  <path d="M290 385 Q300 395 310 385" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="295" y="400" width="10" height="30" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Carpet/rug -->
+  <ellipse cx="250" cy="350" rx="150" ry="80" fill="#FF66CC" stroke="#000" stroke-width="3.5"/>
+</svg>

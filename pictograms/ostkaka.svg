@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="160" ry="30" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Ostkaka slice (cheese cake) -->
+  <path d="M 250 200 L 350 320 L 150 320 Z" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Texture lines showing cottage cheese consistency -->
+  <path d="M 200 250 Q 250 240 300 250" stroke="#E6C200" stroke-width="2" fill="none"/>
+  <path d="M 210 280 Q 250 270 290 280" stroke="#E6C200" stroke-width="2" fill="none"/>
+  <path d="M 180 310 Q 250 300 320 310" stroke="#E6C200" stroke-width="2" fill="none"/>
+  
+  <!-- Small curds texture -->
+  <circle cx="220" cy="260" r="2" fill="white" stroke="#000" stroke-width="1"/>
+  <circle cx="280" cy="265" r="2" fill="white" stroke="#000" stroke-width="1"/>
+  <circle cx="240" cy="290" r="2" fill="white" stroke="#000" stroke-width="1"/>
+  <circle cx="260" cy="295" r="2" fill="white" stroke="#000" stroke-width="1"/>
+  
+  <!-- Jam (often served with ostkaka) -->
+  <ellipse cx="320" cy="300" rx="15" ry="8" fill="#CC0000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Cream -->
+  <ellipse cx="180" cy="300" rx="12" ry="6" fill="white" stroke="#000" stroke-width="2"/>
+  
+  <!-- Golden brown top -->
+  <path d="M 220 210 Q 250 205 280 210" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
+</svg>

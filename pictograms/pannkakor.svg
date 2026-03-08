@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <ellipse cx="250" cy="350" rx="180" ry="25" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Stack of pancakes -->
+  <ellipse cx="250" cy="320" rx="120" ry="15" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="300" rx="120" ry="15" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="280" rx="120" ry="15" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Jam on top -->
+  <ellipse cx="250" cy="270" rx="40" ry="8" fill="#CC0000"/>
+  
+  <!-- Steam lines -->
+  <path d="M200 240 Q202 220 200 200" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M250 230 Q252 210 250 190" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M300 240 Q302 220 300 200" fill="none" stroke="#999999" stroke-width="2"/>
+</svg>

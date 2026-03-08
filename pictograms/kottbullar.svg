@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <circle cx="250" cy="320" r="150" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Meatballs -->
+  <circle cx="210" cy="280" r="35" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <circle cx="290" cy="280" r="35" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <circle cx="250" cy="340" r="35" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <circle cx="180" cy="340" r="30" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <circle cx="320" cy="340" r="30" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Sauce/gravy drops -->
+  <ellipse cx="225" cy="300" rx="8" ry="12" fill="#CC0000"/>
+  <ellipse cx="275" cy="305" rx="6" ry="10" fill="#CC0000"/>
+</svg>

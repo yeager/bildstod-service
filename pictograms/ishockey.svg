@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ice rink -->
+  <ellipse cx="250" cy="400" rx="240" ry="50" fill="#FFFFFF" stroke="#0099DD" stroke-width="3.5"/>
+  
+  <!-- Rink lines -->
+  <path d="M250 350 L250 450" stroke="#CC0000" stroke-width="3"/>
+  <ellipse cx="250" cy="400" rx="60" ry="12" fill="none" stroke="#CC0000" stroke-width="2"/>
+  
+  <!-- Goal -->
+  <rect x="400" y="370" width="80" height="60" fill="none" stroke="#000" stroke-width="4"/>
+  <rect x="400" y="370" width="80" height="5" fill="#CC0000"/>
+  
+  <!-- Net -->
+  <path d="M405 375 L475 375 M405 385 L475 385 M405 395 L475 395 M405 405 L475 405 M405 415 L475 415 M405 425 L475 425" 
+        stroke="#999999" stroke-width="1"/>
+  <path d="M410 375 L410 430 M420 375 L420 430 M430 375 L430 430 M440 375 L440 430 M450 375 L450 430 M460 375 L460 430 M470 375 L470 430" 
+        stroke="#999999" stroke-width="1"/>
+  
+  <!-- Hockey player -->
+  <circle cx="200" cy="280" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="192" cy="272" r="4" fill="#000"/>
+  <circle cx="208" cy="272" r="4" fill="#000"/>
+  <path d="M185 290 Q200 300 215 290" fill="none" stroke="#000" stroke-width="2"/>
+  
+  <!-- Helmet -->
+  <path d="M175 265 Q200 250 225 265 Q230 275 220 285 Q200 290 180 285 Q170 275 175 265" 
+        fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Face guard -->
+  <rect x="190" y="270" width="20" height="15" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M192 272 L208 272 M192 277 L208 277 M192 282 L208 282" stroke="#000" stroke-width="1"/>
+  
+  <!-- Jersey -->
+  <rect x="190" y="305" width="20" height="50" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Hockey stick -->
+  <rect x="160" y="340" width="6" height="80" fill="#8B5E2A" stroke="#000" stroke-width="3"/>
+  <path d="M160 415 Q140 420 120 415" fill="#8B5E2A" stroke="#000" stroke-width="6"/>
+  
+  <!-- Hockey puck -->
+  <ellipse cx="300" cy="390" rx="15" ry="5" fill="#000"/>
+  
+  <!-- Motion lines from puck -->
+  <path d="M270 385 Q280 383 290 385" fill="none" stroke="#999999" stroke-width="2"/>
+  <path d="M260 388 Q270 386 280 388" fill="none" stroke="#999999" stroke-width="2"/>
+  
+  <!-- Skates -->
+  <ellipse cx="185" cy="370" rx="25" ry="8" fill="#000" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="215" cy="370" rx="25" ry="8" fill="#000" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Skate blades -->
+  <rect x="160" y="373" width="50" height="3" fill="#999999"/>
+  <rect x="190" y="373" width="50" height="3" fill="#999999"/>
+  
+  <!-- Protective padding -->
+  <ellipse cx="175" cy="320" rx="8" ry="15" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  <ellipse cx="225" cy="320" rx="8" ry="15" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  
+  <!-- Gloves -->
+  <circle cx="150" cy="320" r="12" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  <circle cx="250" cy="300" r="12" fill="#FFD700" stroke="#000" stroke-width="3"/>
+</svg>

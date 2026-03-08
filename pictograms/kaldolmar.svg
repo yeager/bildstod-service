@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="370" rx="180" ry="35" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cabbage rolls -->
+  <ellipse cx="200" cy="300" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="300" cy="300" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="250" cy="330" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cabbage leaf texture lines -->
+  <path d="M 175 295 Q 200 285 225 295" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 275 295 Q 300 285 325 295" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 225 325 Q 250 315 275 325" stroke="#000" stroke-width="2" fill="none"/>
+  
+  <!-- Cabbage vein patterns -->
+  <line x1="190" y1="295" x2="210" y2="305" stroke="#4A7A00" stroke-width="1.5"/>
+  <line x1="290" y1="295" x2="310" y2="305" stroke="#4A7A00" stroke-width="1.5"/>
+  <line x1="240" y1="325" x2="260" y2="335" stroke="#4A7A00" stroke-width="1.5"/>
+  
+  <!-- Brown sauce/gravy -->
+  <ellipse cx="250" cy="340" rx="120" ry="15" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
+  
+  <!-- Steam lines -->
+  <path d="M 200 280 Q 205 270 195 260" stroke="#999999" stroke-width="2" fill="none"/>
+  <path d="M 300 280 Q 295 270 305 260" stroke="#999999" stroke-width="2" fill="none"/>
+  <path d="M 250 310 Q 245 300 255 290" stroke="#999999" stroke-width="2" fill="none"/>
+</svg>

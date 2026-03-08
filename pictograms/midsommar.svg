@@ -1,41 +1,96 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <!-- Midsommarstång (Maypole) -->
-  <!-- Ground -->
-  <rect x="0" y="420" width="500" height="80" fill="#7CB342" stroke="#000" stroke-width="2"/>
-  <!-- Flowers in grass -->
-  <circle cx="80" cy="415" r="5" fill="#FFEB3B"/>
-  <circle cx="160" cy="420" r="4" fill="#FF5722"/>
-  <circle cx="350" cy="418" r="5" fill="#FFEB3B"/>
-  <circle cx="420" cy="415" r="4" fill="#E91E63"/>
-  <!-- Main pole -->
-  <rect x="243" y="100" width="14" height="320" fill="#8D6E63" stroke="#000" stroke-width="3"/>
-  <!-- Crossbar -->
-  <rect x="140" y="120" width="220" height="12" rx="4" fill="#8D6E63" stroke="#000" stroke-width="3"/>
-  <!-- Hanging rings/wreaths -->
-  <ellipse cx="155" cy="170" rx="25" ry="35" fill="none" stroke="#4CAF50" stroke-width="8"/>
-  <ellipse cx="155" cy="170" rx="25" ry="35" fill="none" stroke="#000" stroke-width="3"/>
-  <ellipse cx="345" cy="170" rx="25" ry="35" fill="none" stroke="#4CAF50" stroke-width="8"/>
-  <ellipse cx="345" cy="170" rx="25" ry="35" fill="none" stroke="#000" stroke-width="3"/>
-  <!-- Top wreath -->
-  <circle cx="250" cy="100" r="20" fill="none" stroke="#4CAF50" stroke-width="8"/>
-  <circle cx="250" cy="100" r="20" fill="none" stroke="#000" stroke-width="3"/>
-  <!-- Flowers on wreaths -->
-  <circle cx="235" cy="90" r="5" fill="#FF5722"/>
-  <circle cx="265" cy="90" r="5" fill="#FFEB3B"/>
-  <circle cx="250" cy="82" r="5" fill="#E91E63"/>
-  <circle cx="140" cy="155" r="4" fill="#FFEB3B"/>
-  <circle cx="170" cy="155" r="4" fill="#E91E63"/>
-  <circle cx="330" cy="155" r="4" fill="#FF5722"/>
-  <circle cx="360" cy="155" r="4" fill="#FFEB3B"/>
-  <!-- Leaves/greenery along pole -->
-  <path d="M240 140 Q230 135 235 125" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
-  <path d="M260 140 Q270 135 265 125" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
-  <!-- Ribbons hanging down -->
-  <path d="M155 205 Q145 280 130 350" fill="none" stroke="#2196F3" stroke-width="3" stroke-linecap="round"/>
-  <path d="M155 205 Q165 280 180 350" fill="none" stroke="#FFEB3B" stroke-width="3" stroke-linecap="round"/>
-  <path d="M345 205 Q335 280 320 350" fill="none" stroke="#FFEB3B" stroke-width="3" stroke-linecap="round"/>
-  <path d="M345 205 Q355 280 370 350" fill="none" stroke="#2196F3" stroke-width="3" stroke-linecap="round"/>
-  <!-- Swedish flag ribbon colors -->
-  <path d="M140 127 Q130 200 120 300" fill="none" stroke="#005BAA" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M360 127 Q370 200 380 300" fill="none" stroke="#FECC00" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Midsommar — ARASAAC style: midsommarstång with two children dancing -->
+  
+  <!-- Grass/ground -->
+  <rect x="0" y="400" width="500" height="100" fill="#99CC00"/>
+  <path d="M0 400 Q250 385 500 400" fill="#99CC00" stroke="none"/>
+  
+  <!-- Maypole (midsommarstång) -->
+  <!-- Pole -->
+  <rect x="240" y="80" width="20" height="320" rx="4" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  <!-- Cross beam -->
+  <rect x="160" y="120" width="180" height="14" rx="4" fill="#8B5E2A" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Wreaths on crossbeam ends -->
+  <circle cx="165" cy="127" r="22" fill="none" stroke="#2E7D32" stroke-width="8"/>
+  <circle cx="165" cy="127" r="22" fill="none" stroke="#000" stroke-width="3.5"/>
+  <circle cx="335" cy="127" r="22" fill="none" stroke="#2E7D32" stroke-width="8"/>
+  <circle cx="335" cy="127" r="22" fill="none" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Top wreath (on pole top) -->
+  <circle cx="250" cy="80" r="25" fill="none" stroke="#2E7D32" stroke-width="10"/>
+  <circle cx="250" cy="80" r="25" fill="none" stroke="#000" stroke-width="3.5"/>
+  <!-- Small flowers on top wreath -->
+  <circle cx="235" cy="65" r="5" fill="#FF66CC"/>
+  <circle cx="265" cy="65" r="5" fill="#FFCA28"/>
+  <circle cx="250" cy="58" r="5" fill="#FF66CC"/>
+  <circle cx="240" cy="95" r="5" fill="#FFCA28"/>
+  <circle cx="260" cy="95" r="5" fill="#FF66CC"/>
+  
+  <!-- Ribbons hanging from crossbeam -->
+  <path d="M175 145 Q170 200 180 260" fill="none" stroke="#0099DD" stroke-width="4" stroke-linecap="round"/>
+  <path d="M195 140 Q200 195 190 255" fill="none" stroke="#FFD700" stroke-width="4" stroke-linecap="round"/>
+  <path d="M305 140 Q300 195 310 255" fill="none" stroke="#0099DD" stroke-width="4" stroke-linecap="round"/>
+  <path d="M325 145 Q330 200 320 260" fill="none" stroke="#FFD700" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Small flowers on wreaths -->
+  <circle cx="148" cy="115" r="5" fill="#FF66CC"/>
+  <circle cx="182" cy="115" r="5" fill="#FFCA28"/>
+  <circle cx="148" cy="140" r="5" fill="#FFCA28"/>
+  <circle cx="182" cy="140" r="5" fill="#FF66CC"/>
+  <circle cx="318" cy="115" r="5" fill="#FFCA28"/>
+  <circle cx="352" cy="115" r="5" fill="#FF66CC"/>
+  <circle cx="318" cy="140" r="5" fill="#FF66CC"/>
+  <circle cx="352" cy="140" r="5" fill="#FFCA28"/>
+  
+  <!-- Child 1 (girl, left, dancing) -->
+  <!-- Head -->
+  <circle cx="130" cy="310" r="28" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <!-- Hair (pigtails) -->
+  <path d="M108 295 Q95 285 92 300 Q90 315 100 320" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
+  <path d="M152 295 Q165 285 168 300 Q170 315 160 320" fill="#FFD700" stroke="#000" stroke-width="2.5"/>
+  <!-- Eyes -->
+  <circle cx="122" cy="308" r="3" fill="#000"/>
+  <circle cx="138" cy="308" r="3" fill="#000"/>
+  <!-- Smile -->
+  <path d="M122 320 Q130 328 138 320" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Flower crown -->
+  <circle cx="118" cy="288" r="5" fill="#FF66CC" stroke="#000" stroke-width="1.5"/>
+  <circle cx="130" cy="284" r="5" fill="#FFCA28" stroke="#000" stroke-width="1.5"/>
+  <circle cx="142" cy="288" r="5" fill="#FF66CC" stroke="#000" stroke-width="1.5"/>
+  <!-- Body (dress) -->
+  <path d="M110 338 L150 338 L158 400 L102 400 Z" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <!-- Arms (reaching out to dance) -->
+  <path d="M110 345 L80 330" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M110 345 L80 330" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M150 345 L175 330" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M150 345 L175 330" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="112" cy="405" rx="12" ry="8" fill="#000" stroke="#000" stroke-width="2"/>
+  <ellipse cx="148" cy="405" rx="12" ry="8" fill="#000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Child 2 (boy, right, dancing) -->
+  <!-- Head -->
+  <circle cx="370" cy="310" r="28" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <!-- Hair -->
+  <path d="M345 295 Q350 275 370 272 Q390 275 395 295" fill="#8B5E2A" stroke="#000" stroke-width="2.5"/>
+  <!-- Eyes -->
+  <circle cx="362" cy="308" r="3" fill="#000"/>
+  <circle cx="378" cy="308" r="3" fill="#000"/>
+  <!-- Smile -->
+  <path d="M362 320 Q370 328 378 320" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Body (shirt + shorts) -->
+  <rect x="350" y="338" width="40" height="35" rx="3" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="350" y="370" width="40" height="25" rx="3" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <!-- Arms -->
+  <path d="M350 345 L325 330" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M350 345 L325 330" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M390 345 L415 330" fill="none" stroke="#FFD5B0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M390 345 L415 330" fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="358" cy="400" rx="12" ry="8" fill="#000" stroke="#000" stroke-width="2"/>
+  <ellipse cx="382" cy="400" rx="12" ry="8" fill="#000" stroke="#000" stroke-width="2"/>
+  
+  <!-- Sun -->
+  <circle cx="440" cy="45" r="30" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
 </svg>

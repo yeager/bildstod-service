@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="150" ry="20" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Lussekatt S-shape -->
+  <path d="M180 200 Q220 160 260 180 Q300 200 320 160 Q340 120 380 140" 
+        fill="none" stroke="#FFD700" stroke-width="25" stroke-linecap="round"/>
+  <path d="M180 200 Q220 160 260 180 Q300 200 320 160 Q340 120 380 140" 
+        fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <!-- Second curl going down -->
+  <path d="M180 200 Q140 240 120 280 Q100 320 140 340 Q180 360 200 320 Q220 280 180 300" 
+        fill="none" stroke="#FFD700" stroke-width="25" stroke-linecap="round"/>
+  <path d="M180 200 Q140 240 120 280 Q100 320 140 340 Q180 360 200 320 Q220 280 180 300" 
+        fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <!-- Raisins -->
+  <circle cx="160" cy="180" r="6" fill="#000"/>
+  <circle cx="200" cy="320" r="6" fill="#000"/>
+  <circle cx="340" cy="140" r="6" fill="#000"/>
+  <circle cx="380" cy="160" r="6" fill="#000"/>
+</svg>

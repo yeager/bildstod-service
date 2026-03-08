@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Carton -->
+  <path d="M180 150 L320 150 L320 380 L180 380 Z" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Carton top -->
+  <path d="M180 150 L220 100 L280 100 L320 150" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Top fold lines -->
+  <path d="M220 100 L250 120 L280 100" stroke="#000" stroke-width="2"/>
+  
+  <!-- Blue label area -->
+  <rect x="190" y="170" width="120" height="80" fill="#0099DD" stroke="#000" stroke-width="2"/>
+  
+  <!-- "Filmjölk" text representation (stylized) -->
+  <rect x="200" y="190" width="100" height="8" fill="#FFFFFF"/>
+  <rect x="200" y="210" width="80" height="8" fill="#FFFFFF"/>
+  <rect x="200" y="230" width="60" height="8" fill="#FFFFFF"/>
+  
+  <!-- Glass next to carton -->
+  <path d="M350 250 Q350 350 380 350 Q410 350 410 250" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  <ellipse cx="380" cy="250" rx="30" ry="8" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Filmjölk in glass -->
+  <ellipse cx="380" cy="280" rx="25" ry="6" fill="#FFFFFF"/>
+  <path d="M355 280 Q355 330 380 330 Q405 330 405 280" fill="#FFFFFF"/>
+</svg>

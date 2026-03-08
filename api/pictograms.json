@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "1.0.0",
   "license": "CC BY-SA 4.0",
   "source": "https://autismappar.se/bildstod",
   "pictograms": [
@@ -1072,6 +1072,3037 @@
         "ö"
       ],
       "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900030,
+      "slug": "artsoppa",
+      "keywords": {
+        "sv": [
+          "ärtsoppa",
+          "soppa"
+        ],
+        "en": [
+          "pea soup",
+          "soup"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "ärtsoppa",
+        "en": "pea soup"
+      },
+      "files": {
+        "svg": "pictograms/artsoppa.svg",
+        "png_500": "pictograms/artsoppa.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900031,
+      "slug": "chokladboll",
+      "keywords": {
+        "sv": [
+          "chokladboll",
+          "kokosbollar"
+        ],
+        "en": [
+          "chocolate ball",
+          "coconut ball"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "chokladboll",
+        "en": "chocolate ball"
+      },
+      "files": {
+        "svg": "pictograms/chokladboll.svg",
+        "png_500": "pictograms/chokladboll.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900032,
+      "slug": "falukorv",
+      "keywords": {
+        "sv": [
+          "falukorv",
+          "korv"
+        ],
+        "en": [
+          "falukorv",
+          "sausage"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "falukorv",
+        "en": "falukorv"
+      },
+      "files": {
+        "svg": "pictograms/falukorv.svg",
+        "png_500": "pictograms/falukorv.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900033,
+      "slug": "filmjolk",
+      "keywords": {
+        "sv": [
+          "filmjölk",
+          "mjölk"
+        ],
+        "en": [
+          "filmjölk",
+          "sour milk"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "filmjölk",
+        "en": "filmjölk"
+      },
+      "files": {
+        "svg": "pictograms/filmjolk.svg",
+        "png_500": "pictograms/filmjolk.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900034,
+      "slug": "gravlax",
+      "keywords": {
+        "sv": [
+          "gravlax",
+          "lax"
+        ],
+        "en": [
+          "cured salmon",
+          "salmon"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "gravlax",
+        "en": "cured salmon"
+      },
+      "files": {
+        "svg": "pictograms/gravlax.svg",
+        "png_500": "pictograms/gravlax.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900035,
+      "slug": "grot",
+      "keywords": {
+        "sv": [
+          "gröt",
+          "havregrynsgröt"
+        ],
+        "en": [
+          "porridge",
+          "oatmeal"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "gröt",
+        "en": "porridge"
+      },
+      "files": {
+        "svg": "pictograms/grot.svg",
+        "png_500": "pictograms/grot.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900036,
+      "slug": "kladdkaka",
+      "keywords": {
+        "sv": [
+          "kladdkaka",
+          "chokladkaka"
+        ],
+        "en": [
+          "sticky chocolate cake",
+          "chocolate cake"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "kladdkaka",
+        "en": "sticky chocolate cake"
+      },
+      "files": {
+        "svg": "pictograms/kladdkaka.svg",
+        "png_500": "pictograms/kladdkaka.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900037,
+      "slug": "knackebrod",
+      "keywords": {
+        "sv": [
+          "knäckebröd",
+          "hårt bröd"
+        ],
+        "en": [
+          "crispbread",
+          "hard bread"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "knäckebröd",
+        "en": "crispbread"
+      },
+      "files": {
+        "svg": "pictograms/knackebrod.svg",
+        "png_500": "pictograms/knackebrod.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900038,
+      "slug": "korv-med-brod",
+      "keywords": {
+        "sv": [
+          "korv med bröd",
+          "korv",
+          "varmkorv"
+        ],
+        "en": [
+          "hot dog",
+          "sausage with bread"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "korv med bröd",
+        "en": "hot dog"
+      },
+      "files": {
+        "svg": "pictograms/korv-med-brod.svg",
+        "png_500": "pictograms/korv-med-brod.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900039,
+      "slug": "kottbullar",
+      "keywords": {
+        "sv": [
+          "köttbullar",
+          "kött"
+        ],
+        "en": [
+          "meatballs",
+          "meat"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "köttbullar",
+        "en": "meatballs"
+      },
+      "files": {
+        "svg": "pictograms/kottbullar.svg",
+        "png_500": "pictograms/kottbullar.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900040,
+      "slug": "lussekatt",
+      "keywords": {
+        "sv": [
+          "lussekatt",
+          "saffransbullar"
+        ],
+        "en": [
+          "saffron bun",
+          "lucia bun"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "lussekatt",
+        "en": "saffron bun"
+      },
+      "files": {
+        "svg": "pictograms/lussekatt.svg",
+        "png_500": "pictograms/lussekatt.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900041,
+      "slug": "pannkakor",
+      "keywords": {
+        "sv": [
+          "pannkakor",
+          "pannkaka"
+        ],
+        "en": [
+          "pancakes",
+          "pancake"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "pannkakor",
+        "en": "pancakes"
+      },
+      "files": {
+        "svg": "pictograms/pannkakor.svg",
+        "png_500": "pictograms/pannkakor.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900042,
+      "slug": "prinsesstarta",
+      "keywords": {
+        "sv": [
+          "prinsesstårta",
+          "tårta"
+        ],
+        "en": [
+          "princess cake",
+          "cake"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "prinsesstårta",
+        "en": "princess cake"
+      },
+      "files": {
+        "svg": "pictograms/prinsesstarta.svg",
+        "png_500": "pictograms/prinsesstarta.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900043,
+      "slug": "surstromming",
+      "keywords": {
+        "sv": [
+          "surströmming",
+          "fisk"
+        ],
+        "en": [
+          "fermented herring",
+          "fish"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "surströmming",
+        "en": "fermented herring"
+      },
+      "files": {
+        "svg": "pictograms/surstromming.svg",
+        "png_500": "pictograms/surstromming.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900044,
+      "slug": "matsalstid",
+      "keywords": {
+        "sv": [
+          "matsalstid",
+          "lunch",
+          "mat"
+        ],
+        "en": [
+          "lunch time",
+          "cafeteria time"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "matsalstid",
+        "en": "lunch time"
+      },
+      "files": {
+        "svg": "pictograms/matsalstid.svg",
+        "png_500": "pictograms/matsalstid.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900045,
+      "slug": "rast",
+      "keywords": {
+        "sv": [
+          "rast",
+          "paus",
+          "lek"
+        ],
+        "en": [
+          "recess",
+          "break",
+          "play time"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "rast",
+        "en": "recess"
+      },
+      "files": {
+        "svg": "pictograms/rast.svg",
+        "png_500": "pictograms/rast.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900046,
+      "slug": "sagostund",
+      "keywords": {
+        "sv": [
+          "sagostund",
+          "läsning",
+          "berättelse"
+        ],
+        "en": [
+          "story time",
+          "reading",
+          "story"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "sagostund",
+        "en": "story time"
+      },
+      "files": {
+        "svg": "pictograms/sagostund.svg",
+        "png_500": "pictograms/sagostund.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900047,
+      "slug": "skolmat",
+      "keywords": {
+        "sv": [
+          "skolmat",
+          "lunch",
+          "mat"
+        ],
+        "en": [
+          "school food",
+          "school lunch"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "skolmat",
+        "en": "school food"
+      },
+      "files": {
+        "svg": "pictograms/skolmat.svg",
+        "png_500": "pictograms/skolmat.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900048,
+      "slug": "utvecklingssamtal",
+      "keywords": {
+        "sv": [
+          "utvecklingssamtal",
+          "föräldramöte"
+        ],
+        "en": [
+          "parent-teacher conference",
+          "development talk"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "utvecklingssamtal",
+        "en": "parent-teacher conference"
+      },
+      "files": {
+        "svg": "pictograms/utvecklingssamtal.svg",
+        "png_500": "pictograms/utvecklingssamtal.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900049,
+      "slug": "vilan",
+      "keywords": {
+        "sv": [
+          "vilan",
+          "vila",
+          "sova"
+        ],
+        "en": [
+          "rest time",
+          "nap",
+          "sleep"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "vilan",
+        "en": "rest time"
+      },
+      "files": {
+        "svg": "pictograms/vilan.svg",
+        "png_500": "pictograms/vilan.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900050,
+      "slug": "julbock",
+      "keywords": {
+        "sv": [
+          "julbock",
+          "jul",
+          "get"
+        ],
+        "en": [
+          "christmas goat",
+          "yule goat"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "julbock",
+        "en": "christmas goat"
+      },
+      "files": {
+        "svg": "pictograms/julbock.svg",
+        "png_500": "pictograms/julbock.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900051,
+      "slug": "nationaldagen",
+      "keywords": {
+        "sv": [
+          "nationaldagen",
+          "flagga",
+          "sverige"
+        ],
+        "en": [
+          "national day",
+          "flag",
+          "sweden"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "nationaldagen",
+        "en": "national day"
+      },
+      "files": {
+        "svg": "pictograms/nationaldagen.svg",
+        "png_500": "pictograms/nationaldagen.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900052,
+      "slug": "valborg",
+      "keywords": {
+        "sv": [
+          "valborg",
+          "eld",
+          "brasa"
+        ],
+        "en": [
+          "walpurgis night",
+          "bonfire",
+          "may day"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "valborg",
+        "en": "walpurgis night"
+      },
+      "files": {
+        "svg": "pictograms/valborg.svg",
+        "png_500": "pictograms/valborg.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900053,
+      "slug": "innebandy",
+      "keywords": {
+        "sv": [
+          "innebandy",
+          "sport",
+          "klubba"
+        ],
+        "en": [
+          "floorball",
+          "sport",
+          "stick"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "innebandy",
+        "en": "floorball"
+      },
+      "files": {
+        "svg": "pictograms/innebandy.svg",
+        "png_500": "pictograms/innebandy.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900054,
+      "slug": "ishockey",
+      "keywords": {
+        "sv": [
+          "ishockey",
+          "hockey",
+          "is"
+        ],
+        "en": [
+          "ice hockey",
+          "hockey",
+          "ice"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "ishockey",
+        "en": "ice hockey"
+      },
+      "files": {
+        "svg": "pictograms/ishockey.svg",
+        "png_500": "pictograms/ishockey.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900055,
+      "slug": "meta",
+      "keywords": {
+        "sv": [
+          "meta",
+          "fiska",
+          "fiske"
+        ],
+        "en": [
+          "fishing",
+          "angling"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "meta",
+        "en": "fishing"
+      },
+      "files": {
+        "svg": "pictograms/meta.svg",
+        "png_500": "pictograms/meta.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900056,
+      "slug": "orientering",
+      "keywords": {
+        "sv": [
+          "orientering",
+          "karta",
+          "kompass"
+        ],
+        "en": [
+          "orienteering",
+          "map",
+          "compass"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "orientering",
+        "en": "orienteering"
+      },
+      "files": {
+        "svg": "pictograms/orientering.svg",
+        "png_500": "pictograms/orientering.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900057,
+      "slug": "pulkaakning",
+      "keywords": {
+        "sv": [
+          "pulkaåkning",
+          "pulka",
+          "åkning"
+        ],
+        "en": [
+          "sledding",
+          "sled",
+          "snow"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "pulkaåkning",
+        "en": "sledding"
+      },
+      "files": {
+        "svg": "pictograms/pulkaakning.svg",
+        "png_500": "pictograms/pulkaakning.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900058,
+      "slug": "skridskooakning",
+      "keywords": {
+        "sv": [
+          "skridskoåkning",
+          "skridskor",
+          "is"
+        ],
+        "en": [
+          "ice skating",
+          "skates",
+          "ice"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "skridskoåkning",
+        "en": "ice skating"
+      },
+      "files": {
+        "svg": "pictograms/skridskooakning.svg",
+        "png_500": "pictograms/skridskooakning.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900059,
+      "slug": "meltdown",
+      "keywords": {
+        "sv": [
+          "meltdown",
+          "utbrott",
+          "sammanbrott"
+        ],
+        "en": [
+          "meltdown",
+          "breakdown",
+          "outburst"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "meltdown",
+        "en": "meltdown"
+      },
+      "files": {
+        "svg": "pictograms/meltdown.svg",
+        "png_500": "pictograms/meltdown.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900060,
+      "slug": "overstimulering",
+      "keywords": {
+        "sv": [
+          "överstimulering",
+          "för mycket"
+        ],
+        "en": [
+          "overstimulation",
+          "too much input"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "överstimulering",
+        "en": "overstimulation"
+      },
+      "files": {
+        "svg": "pictograms/overstimulering.svg",
+        "png_500": "pictograms/overstimulering.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900061,
+      "slug": "angest",
+      "keywords": {
+        "sv": [
+          "ångest",
+          "oro",
+          "rädsla"
+        ],
+        "en": [
+          "anxiety",
+          "worry",
+          "fear"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "ångest",
+        "en": "anxiety"
+      },
+      "files": {
+        "svg": "pictograms/angest.svg",
+        "png_500": "pictograms/angest.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900062,
+      "slug": "personligt-utrymme",
+      "keywords": {
+        "sv": [
+          "personligt utrymme",
+          "avstånd"
+        ],
+        "en": [
+          "personal space",
+          "distance"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "personligt utrymme",
+        "en": "personal space"
+      },
+      "files": {
+        "svg": "pictograms/personligt-utrymme.svg",
+        "png_500": "pictograms/personligt-utrymme.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900063,
+      "slug": "andningsovning",
+      "keywords": {
+        "sv": [
+          "andningsövning",
+          "andas",
+          "lugna"
+        ],
+        "en": [
+          "breathing exercise",
+          "breathe",
+          "calm"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "andningsövning",
+        "en": "breathing exercise"
+      },
+      "files": {
+        "svg": "pictograms/andningsovning.svg",
+        "png_500": "pictograms/andningsovning.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900064,
+      "slug": "turtagning",
+      "keywords": {
+        "sv": [
+          "turtagning",
+          "vänta på tur"
+        ],
+        "en": [
+          "turn taking",
+          "wait your turn"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "turtagning",
+        "en": "turn taking"
+      },
+      "files": {
+        "svg": "pictograms/turtagning.svg",
+        "png_500": "pictograms/turtagning.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900065,
+      "slug": "dela-med-sig",
+      "keywords": {
+        "sv": [
+          "dela med sig",
+          "dela"
+        ],
+        "en": [
+          "sharing",
+          "share"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "dela med sig",
+        "en": "sharing"
+      },
+      "files": {
+        "svg": "pictograms/dela-med-sig.svg",
+        "png_500": "pictograms/dela-med-sig.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900066,
+      "slug": "kroppsskanning",
+      "keywords": {
+        "sv": [
+          "kroppsskanning",
+          "mindfulness",
+          "medveten närvaro"
+        ],
+        "en": [
+          "body scanning",
+          "mindfulness",
+          "body awareness"
+        ]
+      },
+      "categories": [
+        "socialt"
+      ],
+      "description": {
+        "sv": "kroppsskanning",
+        "en": "body scanning"
+      },
+      "files": {
+        "svg": "pictograms/kroppsskanning.svg",
+        "png_500": "pictograms/kroppsskanning.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900067,
+      "slug": "pytt-i-panna",
+      "keywords": {
+        "sv": [
+          "pytt i panna",
+          "pyttipanna"
+        ],
+        "en": [
+          "hash",
+          "pytt i panna"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "pytt i panna",
+        "en": "hash"
+      },
+      "files": {
+        "svg": "pictograms/pytt-i-panna.svg",
+        "png_500": "pictograms/pytt-i-panna.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900068,
+      "slug": "raggmunk",
+      "keywords": {
+        "sv": [
+          "raggmunk",
+          "potatispannkaka"
+        ],
+        "en": [
+          "potato pancake",
+          "raggmunk"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "raggmunk",
+        "en": "potato pancake"
+      },
+      "files": {
+        "svg": "pictograms/raggmunk.svg",
+        "png_500": "pictograms/raggmunk.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900069,
+      "slug": "kaldolmar",
+      "keywords": {
+        "sv": [
+          "kåldolmar",
+          "kålrullar"
+        ],
+        "en": [
+          "cabbage rolls",
+          "stuffed cabbage"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "kåldolmar",
+        "en": "cabbage rolls"
+      },
+      "files": {
+        "svg": "pictograms/kaldolmar.svg",
+        "png_500": "pictograms/kaldolmar.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900070,
+      "slug": "tunnbrodsrulle",
+      "keywords": {
+        "sv": [
+          "tunnbrödsrulle",
+          "korv i tunnbröd"
+        ],
+        "en": [
+          "tunnbread wrap",
+          "flatbread roll"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "tunnbrödsrulle",
+        "en": "tunnbread wrap"
+      },
+      "files": {
+        "svg": "pictograms/tunnbrodsrulle.svg",
+        "png_500": "pictograms/tunnbrodsrulle.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900071,
+      "slug": "fredagstacos",
+      "keywords": {
+        "sv": [
+          "fredagstacos",
+          "tacos",
+          "fredagsmys"
+        ],
+        "en": [
+          "friday tacos",
+          "taco friday"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "fredagstacos",
+        "en": "friday tacos"
+      },
+      "files": {
+        "svg": "pictograms/fredagstacos.svg",
+        "png_500": "pictograms/fredagstacos.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900072,
+      "slug": "losgodis",
+      "keywords": {
+        "sv": [
+          "lösgodis",
+          "godis",
+          "plockgodis"
+        ],
+        "en": [
+          "loose candy",
+          "pick and mix"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "lösgodis",
+        "en": "loose candy"
+      },
+      "files": {
+        "svg": "pictograms/losgodis.svg",
+        "png_500": "pictograms/losgodis.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900073,
+      "slug": "mazarin",
+      "keywords": {
+        "sv": [
+          "mazarin",
+          "mazarinbakelse"
+        ],
+        "en": [
+          "marzipan cake",
+          "mazarin"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "mazarin",
+        "en": "marzipan cake"
+      },
+      "files": {
+        "svg": "pictograms/mazarin.svg",
+        "png_500": "pictograms/mazarin.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900074,
+      "slug": "ostkaka",
+      "keywords": {
+        "sv": [
+          "ostkaka",
+          "cheesecake"
+        ],
+        "en": [
+          "cheesecake",
+          "cottage cheese cake"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "ostkaka",
+        "en": "cheesecake"
+      },
+      "files": {
+        "svg": "pictograms/ostkaka.svg",
+        "png_500": "pictograms/ostkaka.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900075,
+      "slug": "smorgastarta",
+      "keywords": {
+        "sv": [
+          "smörgåstårta",
+          "kallskuret"
+        ],
+        "en": [
+          "sandwich cake",
+          "savory layer cake"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "smörgåstårta",
+        "en": "sandwich cake"
+      },
+      "files": {
+        "svg": "pictograms/smorgastarta.svg",
+        "png_500": "pictograms/smorgastarta.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900076,
+      "slug": "wienerbrod",
+      "keywords": {
+        "sv": [
+          "wienerbröd",
+          "wienerbrød"
+        ],
+        "en": [
+          "danish pastry",
+          "viennese bread"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "wienerbröd",
+        "en": "danish pastry"
+      },
+      "files": {
+        "svg": "pictograms/wienerbrod.svg",
+        "png_500": "pictograms/wienerbrod.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900077,
+      "slug": "sill",
+      "keywords": {
+        "sv": [
+          "inlagd sill",
+          "sill"
+        ],
+        "en": [
+          "pickled herring",
+          "herring"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "inlagd sill",
+        "en": "pickled herring"
+      },
+      "files": {
+        "svg": "pictograms/sill.svg",
+        "png_500": "pictograms/sill.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900078,
+      "slug": "julskinka",
+      "keywords": {
+        "sv": [
+          "julskinka",
+          "skinka"
+        ],
+        "en": [
+          "christmas ham",
+          "glazed ham"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "julskinka",
+        "en": "christmas ham"
+      },
+      "files": {
+        "svg": "pictograms/julskinka.svg",
+        "png_500": "pictograms/julskinka.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900079,
+      "slug": "lutfisk",
+      "keywords": {
+        "sv": [
+          "lutfisk"
+        ],
+        "en": [
+          "lutefisk",
+          "lye fish"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "lutfisk",
+        "en": "lutefisk"
+      },
+      "files": {
+        "svg": "pictograms/lutfisk.svg",
+        "png_500": "pictograms/lutfisk.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900080,
+      "slug": "prinskorv",
+      "keywords": {
+        "sv": [
+          "prinskorv",
+          "små korvar"
+        ],
+        "en": [
+          "cocktail sausages",
+          "small sausages"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "prinskorv",
+        "en": "cocktail sausages"
+      },
+      "files": {
+        "svg": "pictograms/prinskorv.svg",
+        "png_500": "pictograms/prinskorv.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900081,
+      "slug": "fiskpinnar",
+      "keywords": {
+        "sv": [
+          "fiskpinnar",
+          "panerad fisk"
+        ],
+        "en": [
+          "fish fingers",
+          "fish sticks"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "fiskpinnar",
+        "en": "fish fingers"
+      },
+      "files": {
+        "svg": "pictograms/fiskpinnar.svg",
+        "png_500": "pictograms/fiskpinnar.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900082,
+      "slug": "potatismos",
+      "keywords": {
+        "sv": [
+          "potatismos",
+          "mos"
+        ],
+        "en": [
+          "mashed potatoes",
+          "potato mash"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "potatismos",
+        "en": "mashed potatoes"
+      },
+      "files": {
+        "svg": "pictograms/potatismos.svg",
+        "png_500": "pictograms/potatismos.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900083,
+      "slug": "glogg",
+      "keywords": {
+        "sv": [
+          "glögg",
+          "julglögg"
+        ],
+        "en": [
+          "mulled wine",
+          "glogg"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "glögg",
+        "en": "mulled wine"
+      },
+      "files": {
+        "svg": "pictograms/glogg.svg",
+        "png_500": "pictograms/glogg.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900084,
+      "slug": "gratang",
+      "keywords": {
+        "sv": [
+          "gratäng",
+          "ugnsbakad"
+        ],
+        "en": [
+          "gratin",
+          "baked dish"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "gratäng",
+        "en": "gratin"
+      },
+      "files": {
+        "svg": "pictograms/gratang.svg",
+        "png_500": "pictograms/gratang.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900085,
+      "slug": "isterband",
+      "keywords": {
+        "sv": [
+          "isterband",
+          "korv"
+        ],
+        "en": [
+          "isterband sausage",
+          "smoked sausage"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "isterband",
+        "en": "isterband sausage"
+      },
+      "files": {
+        "svg": "pictograms/isterband.svg",
+        "png_500": "pictograms/isterband.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900086,
+      "slug": "renskav",
+      "keywords": {
+        "sv": [
+          "renskav",
+          "renkött"
+        ],
+        "en": [
+          "reindeer meat",
+          "venison"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "renskav",
+        "en": "reindeer meat"
+      },
+      "files": {
+        "svg": "pictograms/renskav.svg",
+        "png_500": "pictograms/renskav.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900087,
+      "slug": "rakmacka",
+      "keywords": {
+        "sv": [
+          "räkmacka",
+          "räksmörgås"
+        ],
+        "en": [
+          "shrimp sandwich",
+          "prawn sandwich"
+        ]
+      },
+      "categories": [
+        "mat"
+      ],
+      "description": {
+        "sv": "räkmacka",
+        "en": "shrimp sandwich"
+      },
+      "files": {
+        "svg": "pictograms/rakmacka.svg",
+        "png_500": "pictograms/rakmacka.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900088,
+      "slug": "snart",
+      "keywords": {
+        "sv": [
+          "snart",
+          "inom kort"
+        ],
+        "en": [
+          "soon",
+          "shortly"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "snart",
+        "en": "soon"
+      },
+      "files": {
+        "svg": "pictograms/snart.svg",
+        "png_500": "pictograms/snart.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900089,
+      "slug": "strax",
+      "keywords": {
+        "sv": [
+          "strax",
+          "om en stund"
+        ],
+        "en": [
+          "shortly",
+          "in a moment"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "strax",
+        "en": "shortly"
+      },
+      "files": {
+        "svg": "pictograms/strax.svg",
+        "png_500": "pictograms/strax.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900090,
+      "slug": "genast",
+      "keywords": {
+        "sv": [
+          "genast",
+          "omedelbart"
+        ],
+        "en": [
+          "immediately",
+          "right now"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "genast",
+        "en": "immediately"
+      },
+      "files": {
+        "svg": "pictograms/genast.svg",
+        "png_500": "pictograms/genast.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900091,
+      "slug": "redan",
+      "keywords": {
+        "sv": [
+          "redan",
+          "nu"
+        ],
+        "en": [
+          "already",
+          "now"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "redan",
+        "en": "already"
+      },
+      "files": {
+        "svg": "pictograms/redan.svg",
+        "png_500": "pictograms/redan.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900092,
+      "slug": "fortfarande",
+      "keywords": {
+        "sv": [
+          "fortfarande",
+          "ännu"
+        ],
+        "en": [
+          "still",
+          "yet"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "fortfarande",
+        "en": "still"
+      },
+      "files": {
+        "svg": "pictograms/fortfarande.svg",
+        "png_500": "pictograms/fortfarande.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900093,
+      "slug": "ikvall",
+      "keywords": {
+        "sv": [
+          "ikväll",
+          "i kväll"
+        ],
+        "en": [
+          "tonight",
+          "this evening"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "ikväll",
+        "en": "tonight"
+      },
+      "files": {
+        "svg": "pictograms/ikvall.svg",
+        "png_500": "pictograms/ikvall.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900094,
+      "slug": "inatt",
+      "keywords": {
+        "sv": [
+          "inatt",
+          "i natt"
+        ],
+        "en": [
+          "tonight",
+          "this night"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "inatt",
+        "en": "tonight"
+      },
+      "files": {
+        "svg": "pictograms/inatt.svg",
+        "png_500": "pictograms/inatt.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900095,
+      "slug": "iovermorgon",
+      "keywords": {
+        "sv": [
+          "iövermorgon",
+          "i övermorgon"
+        ],
+        "en": [
+          "the day after tomorrow",
+          "overmorrow"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "iövermorgon",
+        "en": "the day after tomorrow"
+      },
+      "files": {
+        "svg": "pictograms/iovermorgon.svg",
+        "png_500": "pictograms/iovermorgon.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900096,
+      "slug": "vardag",
+      "keywords": {
+        "sv": [
+          "vardag",
+          "vanlig dag"
+        ],
+        "en": [
+          "weekday",
+          "ordinary day"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "vardag",
+        "en": "weekday"
+      },
+      "files": {
+        "svg": "pictograms/vardag.svg",
+        "png_500": "pictograms/vardag.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900097,
+      "slug": "lov",
+      "keywords": {
+        "sv": [
+          "lov",
+          "semester"
+        ],
+        "en": [
+          "holiday",
+          "vacation"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "lov",
+        "en": "holiday"
+      },
+      "files": {
+        "svg": "pictograms/lov.svg",
+        "png_500": "pictograms/lov.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900098,
+      "slug": "innan",
+      "keywords": {
+        "sv": [
+          "innan",
+          "före"
+        ],
+        "en": [
+          "before",
+          "prior to"
+        ]
+      },
+      "categories": [
+        "tid"
+      ],
+      "description": {
+        "sv": "innan",
+        "en": "before"
+      },
+      "files": {
+        "svg": "pictograms/innan.svg",
+        "png_500": "pictograms/innan.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900099,
+      "slug": "trygg",
+      "keywords": {
+        "sv": [
+          "trygg",
+          "säker"
+        ],
+        "en": [
+          "safe",
+          "secure"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "trygg",
+        "en": "safe"
+      },
+      "files": {
+        "svg": "pictograms/trygg.svg",
+        "png_500": "pictograms/trygg.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900100,
+      "slug": "otrygg",
+      "keywords": {
+        "sv": [
+          "otrygg",
+          "osäker"
+        ],
+        "en": [
+          "unsafe",
+          "insecure"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "otrygg",
+        "en": "unsafe"
+      },
+      "files": {
+        "svg": "pictograms/otrygg.svg",
+        "png_500": "pictograms/otrygg.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900101,
+      "slug": "frustrerad",
+      "keywords": {
+        "sv": [
+          "frustrerad",
+          "irriterad"
+        ],
+        "en": [
+          "frustrated",
+          "annoyed"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "frustrerad",
+        "en": "frustrated"
+      },
+      "files": {
+        "svg": "pictograms/frustrerad.svg",
+        "png_500": "pictograms/frustrerad.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900102,
+      "slug": "lattad",
+      "keywords": {
+        "sv": [
+          "lättad",
+          "befrielse"
+        ],
+        "en": [
+          "relieved",
+          "relief"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "lättad",
+        "en": "relieved"
+      },
+      "files": {
+        "svg": "pictograms/lattad.svg",
+        "png_500": "pictograms/lattad.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900103,
+      "slug": "upprymd",
+      "keywords": {
+        "sv": [
+          "upprymd",
+          "upphetsad"
+        ],
+        "en": [
+          "excited",
+          "thrilled"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "upprymd",
+        "en": "excited"
+      },
+      "files": {
+        "svg": "pictograms/upprymd.svg",
+        "png_500": "pictograms/upprymd.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900104,
+      "slug": "besviken",
+      "keywords": {
+        "sv": [
+          "besviken",
+          "ledsen"
+        ],
+        "en": [
+          "disappointed",
+          "sad"
+        ]
+      },
+      "categories": [
+        "kanslor"
+      ],
+      "description": {
+        "sv": "besviken",
+        "en": "disappointed"
+      },
+      "files": {
+        "svg": "pictograms/besviken.svg",
+        "png_500": "pictograms/besviken.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900105,
+      "slug": "norrsken",
+      "keywords": {
+        "sv": [
+          "norrsken",
+          "aurora"
+        ],
+        "en": [
+          "northern lights",
+          "aurora borealis"
+        ]
+      },
+      "categories": [
+        "natur"
+      ],
+      "description": {
+        "sv": "norrsken",
+        "en": "northern lights"
+      },
+      "files": {
+        "svg": "pictograms/norrsken.svg",
+        "png_500": "pictograms/norrsken.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900106,
+      "slug": "kantarell",
+      "keywords": {
+        "sv": [
+          "kantarell",
+          "svamp"
+        ],
+        "en": [
+          "chanterelle",
+          "golden mushroom"
+        ]
+      },
+      "categories": [
+        "natur"
+      ],
+      "description": {
+        "sv": "kantarell",
+        "en": "chanterelle"
+      },
+      "files": {
+        "svg": "pictograms/kantarell.svg",
+        "png_500": "pictograms/kantarell.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900107,
+      "slug": "lingon",
+      "keywords": {
+        "sv": [
+          "lingon",
+          "bär"
+        ],
+        "en": [
+          "lingonberries",
+          "red berries"
+        ]
+      },
+      "categories": [
+        "natur"
+      ],
+      "description": {
+        "sv": "lingon",
+        "en": "lingonberries"
+      },
+      "files": {
+        "svg": "pictograms/lingon.svg",
+        "png_500": "pictograms/lingon.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900108,
+      "slug": "fjall",
+      "keywords": {
+        "sv": [
+          "fjäll",
+          "berg"
+        ],
+        "en": [
+          "mountain",
+          "fell"
+        ]
+      },
+      "categories": [
+        "natur"
+      ],
+      "description": {
+        "sv": "fjäll",
+        "en": "mountain"
+      },
+      "files": {
+        "svg": "pictograms/fjall.svg",
+        "png_500": "pictograms/fjall.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900109,
+      "slug": "ang",
+      "keywords": {
+        "sv": [
+          "äng",
+          "blomsteräng"
+        ],
+        "en": [
+          "meadow",
+          "field"
+        ]
+      },
+      "categories": [
+        "natur"
+      ],
+      "description": {
+        "sv": "äng",
+        "en": "meadow"
+      },
+      "files": {
+        "svg": "pictograms/ang.svg",
+        "png_500": "pictograms/ang.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900110,
+      "slug": "grilla",
+      "keywords": {
+        "sv": [
+          "grilla",
+          "grillfest"
+        ],
+        "en": [
+          "barbecue",
+          "grill"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "grilla",
+        "en": "barbecue"
+      },
+      "files": {
+        "svg": "pictograms/grilla.svg",
+        "png_500": "pictograms/grilla.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900111,
+      "slug": "hockey",
+      "keywords": {
+        "sv": [
+          "hockey",
+          "ishockey"
+        ],
+        "en": [
+          "hockey",
+          "ice hockey"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "hockey",
+        "en": "hockey"
+      },
+      "files": {
+        "svg": "pictograms/hockey.svg",
+        "png_500": "pictograms/hockey.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900112,
+      "slug": "duscha",
+      "keywords": {
+        "sv": [
+          "duscha",
+          "dusch"
+        ],
+        "en": [
+          "shower",
+          "showering"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "duscha",
+        "en": "shower"
+      },
+      "files": {
+        "svg": "pictograms/duscha.svg",
+        "png_500": "pictograms/duscha.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900113,
+      "slug": "laga-mat",
+      "keywords": {
+        "sv": [
+          "laga mat",
+          "matlagning"
+        ],
+        "en": [
+          "cook",
+          "cooking"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "laga mat",
+        "en": "cook"
+      },
+      "files": {
+        "svg": "pictograms/laga-mat.svg",
+        "png_500": "pictograms/laga-mat.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900114,
+      "slug": "campa",
+      "keywords": {
+        "sv": [
+          "campa",
+          "camping"
+        ],
+        "en": [
+          "camp",
+          "camping"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "campa",
+        "en": "camp"
+      },
+      "files": {
+        "svg": "pictograms/campa.svg",
+        "png_500": "pictograms/campa.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900115,
+      "slug": "vandra",
+      "keywords": {
+        "sv": [
+          "vandra",
+          "vandring"
+        ],
+        "en": [
+          "hike",
+          "hiking"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "vandra",
+        "en": "hike"
+      },
+      "files": {
+        "svg": "pictograms/vandra.svg",
+        "png_500": "pictograms/vandra.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900116,
+      "slug": "fiska",
+      "keywords": {
+        "sv": [
+          "fiska",
+          "fiske"
+        ],
+        "en": [
+          "fish",
+          "fishing"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "fiska",
+        "en": "fish"
+      },
+      "files": {
+        "svg": "pictograms/fiska.svg",
+        "png_500": "pictograms/fiska.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900117,
+      "slug": "aka-skidor",
+      "keywords": {
+        "sv": [
+          "åka skidor",
+          "skidåkning"
+        ],
+        "en": [
+          "ski",
+          "skiing"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "åka skidor",
+        "en": "ski"
+      },
+      "files": {
+        "svg": "pictograms/aka-skidor.svg",
+        "png_500": "pictograms/aka-skidor.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900118,
+      "slug": "bygga-snogubbe",
+      "keywords": {
+        "sv": [
+          "bygga snögubbe",
+          "snögubbe"
+        ],
+        "en": [
+          "build snowman",
+          "snowman"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "bygga snögubbe",
+        "en": "build snowman"
+      },
+      "files": {
+        "svg": "pictograms/bygga-snogubbe.svg",
+        "png_500": "pictograms/bygga-snogubbe.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900119,
+      "slug": "pyssla",
+      "keywords": {
+        "sv": [
+          "pyssla",
+          "hantverk"
+        ],
+        "en": [
+          "craft",
+          "arts and crafts"
+        ]
+      },
+      "categories": [
+        "aktiviteter"
+      ],
+      "description": {
+        "sv": "pyssla",
+        "en": "craft"
+      },
+      "files": {
+        "svg": "pictograms/pyssla.svg",
+        "png_500": "pictograms/pyssla.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900120,
+      "slug": "laxa",
+      "keywords": {
+        "sv": [
+          "läxa",
+          "hemuppgift"
+        ],
+        "en": [
+          "homework",
+          "assignment"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "läxa",
+        "en": "homework"
+      },
+      "files": {
+        "svg": "pictograms/laxa.svg",
+        "png_500": "pictograms/laxa.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900121,
+      "slug": "betyg",
+      "keywords": {
+        "sv": [
+          "betyg",
+          "vitsord"
+        ],
+        "en": [
+          "grade",
+          "mark"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "betyg",
+        "en": "grade"
+      },
+      "files": {
+        "svg": "pictograms/betyg.svg",
+        "png_500": "pictograms/betyg.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900122,
+      "slug": "gympasal",
+      "keywords": {
+        "sv": [
+          "gympasal",
+          "idrottshall"
+        ],
+        "en": [
+          "gymnasium",
+          "sports hall"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "gympasal",
+        "en": "gymnasium"
+      },
+      "files": {
+        "svg": "pictograms/gympasal.svg",
+        "png_500": "pictograms/gympasal.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900123,
+      "slug": "matte",
+      "keywords": {
+        "sv": [
+          "matte",
+          "matematik"
+        ],
+        "en": [
+          "math",
+          "mathematics"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "matte",
+        "en": "math"
+      },
+      "files": {
+        "svg": "pictograms/matte.svg",
+        "png_500": "pictograms/matte.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900124,
+      "slug": "hemkunskap",
+      "keywords": {
+        "sv": [
+          "hemkunskap",
+          "matlagning"
+        ],
+        "en": [
+          "home economics",
+          "cooking class"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "hemkunskap",
+        "en": "home economics"
+      },
+      "files": {
+        "svg": "pictograms/hemkunskap.svg",
+        "png_500": "pictograms/hemkunskap.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900125,
+      "slug": "slojd",
+      "keywords": {
+        "sv": [
+          "slöjd",
+          "hantverk"
+        ],
+        "en": [
+          "woodwork",
+          "handicraft"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "slöjd",
+        "en": "woodwork"
+      },
+      "files": {
+        "svg": "pictograms/slojd.svg",
+        "png_500": "pictograms/slojd.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900126,
+      "slug": "svenska",
+      "keywords": {
+        "sv": [
+          "svenska",
+          "språk"
+        ],
+        "en": [
+          "swedish",
+          "language"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "svenska",
+        "en": "swedish"
+      },
+      "files": {
+        "svg": "pictograms/svenska.svg",
+        "png_500": "pictograms/svenska.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900127,
+      "slug": "pask",
+      "keywords": {
+        "sv": [
+          "påsk",
+          "easter"
+        ],
+        "en": [
+          "easter",
+          "spring festival"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "påsk",
+        "en": "easter"
+      },
+      "files": {
+        "svg": "pictograms/pask.svg",
+        "png_500": "pictograms/pask.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900128,
+      "slug": "fredagsmys",
+      "keywords": {
+        "sv": [
+          "fredagsmys",
+          "mys"
+        ],
+        "en": [
+          "friday coziness",
+          "friday night"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "fredagsmys",
+        "en": "friday coziness"
+      },
+      "files": {
+        "svg": "pictograms/fredagsmys.svg",
+        "png_500": "pictograms/fredagsmys.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900129,
+      "slug": "konfirmation",
+      "keywords": {
+        "sv": [
+          "konfirmation",
+          "ceremoni"
+        ],
+        "en": [
+          "confirmation",
+          "ceremony"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "konfirmation",
+        "en": "confirmation"
+      },
+      "files": {
+        "svg": "pictograms/konfirmation.svg",
+        "png_500": "pictograms/konfirmation.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900130,
+      "slug": "studenten",
+      "keywords": {
+        "sv": [
+          "studenten",
+          "examen"
+        ],
+        "en": [
+          "graduation",
+          "student cap"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "studenten",
+        "en": "graduation"
+      },
+      "files": {
+        "svg": "pictograms/studenten.svg",
+        "png_500": "pictograms/studenten.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900131,
+      "slug": "paskris",
+      "keywords": {
+        "sv": [
+          "påskris",
+          "björkris"
+        ],
+        "en": [
+          "easter twigs",
+          "birch branches"
+        ]
+      },
+      "categories": [
+        "traditioner"
+      ],
+      "description": {
+        "sv": "påskris",
+        "en": "easter twigs"
+      },
+      "files": {
+        "svg": "pictograms/paskris.svg",
+        "png_500": "pictograms/paskris.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900132,
+      "slug": "simhall",
+      "keywords": {
+        "sv": [
+          "simhall",
+          "badhus"
+        ],
+        "en": [
+          "swimming pool",
+          "aquatic center"
+        ]
+      },
+      "categories": [
+        "platser"
+      ],
+      "description": {
+        "sv": "simhall",
+        "en": "swimming pool"
+      },
+      "files": {
+        "svg": "pictograms/simhall.svg",
+        "png_500": "pictograms/simhall.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900133,
+      "slug": "badhus",
+      "keywords": {
+        "sv": [
+          "badhus",
+          "spa"
+        ],
+        "en": [
+          "bathhouse",
+          "spa"
+        ]
+      },
+      "categories": [
+        "platser"
+      ],
+      "description": {
+        "sv": "badhus",
+        "en": "bathhouse"
+      },
+      "files": {
+        "svg": "pictograms/badhus.svg",
+        "png_500": "pictograms/badhus.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900134,
+      "slug": "idrottshall",
+      "keywords": {
+        "sv": [
+          "idrottshall",
+          "sporthall"
+        ],
+        "en": [
+          "sports hall",
+          "gymnasium"
+        ]
+      },
+      "categories": [
+        "platser"
+      ],
+      "description": {
+        "sv": "idrottshall",
+        "en": "sports hall"
+      },
+      "files": {
+        "svg": "pictograms/idrottshall.svg",
+        "png_500": "pictograms/idrottshall.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900135,
+      "slug": "djurpark",
+      "keywords": {
+        "sv": [
+          "djurpark",
+          "zoo"
+        ],
+        "en": [
+          "zoo",
+          "animal park"
+        ]
+      },
+      "categories": [
+        "platser"
+      ],
+      "description": {
+        "sv": "djurpark",
+        "en": "zoo"
+      },
+      "files": {
+        "svg": "pictograms/djurpark.svg",
+        "png_500": "pictograms/djurpark.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900136,
+      "slug": "ta-av-sig",
+      "keywords": {
+        "sv": [
+          "ta av sig",
+          "klä av"
+        ],
+        "en": [
+          "undress",
+          "take off clothes"
+        ]
+      },
+      "categories": [
+        "vardagsrutiner"
+      ],
+      "description": {
+        "sv": "ta av sig",
+        "en": "undress"
+      },
+      "files": {
+        "svg": "pictograms/ta-av-sig.svg",
+        "png_500": "pictograms/ta-av-sig.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900137,
+      "slug": "ata-lunch",
+      "keywords": {
+        "sv": [
+          "äta lunch",
+          "lunch"
+        ],
+        "en": [
+          "eat lunch",
+          "lunch time"
+        ]
+      },
+      "categories": [
+        "vardagsrutiner"
+      ],
+      "description": {
+        "sv": "äta lunch",
+        "en": "eat lunch"
+      },
+      "files": {
+        "svg": "pictograms/ata-lunch.svg",
+        "png_500": "pictograms/ata-lunch.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900138,
+      "slug": "ata-mellanmal",
+      "keywords": {
+        "sv": [
+          "äta mellanmål",
+          "mellis"
+        ],
+        "en": [
+          "eat snack",
+          "snack time"
+        ]
+      },
+      "categories": [
+        "vardagsrutiner"
+      ],
+      "description": {
+        "sv": "äta mellanmål",
+        "en": "eat snack"
+      },
+      "files": {
+        "svg": "pictograms/ata-mellanmal.svg",
+        "png_500": "pictograms/ata-mellanmal.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900139,
+      "slug": "ata-frukost",
+      "keywords": {
+        "sv": [
+          "äta frukost",
+          "frukost"
+        ],
+        "en": [
+          "eat breakfast",
+          "breakfast"
+        ]
+      },
+      "categories": [
+        "vardagsrutiner"
+      ],
+      "description": {
+        "sv": "äta frukost",
+        "en": "eat breakfast"
+      },
+      "files": {
+        "svg": "pictograms/ata-frukost.svg",
+        "png_500": "pictograms/ata-frukost.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 900140,
+      "slug": "packa-vaskan",
+      "keywords": {
+        "sv": [
+          "packa väskan",
+          "packa"
+        ],
+        "en": [
+          "pack bag",
+          "packing"
+        ]
+      },
+      "categories": [
+        "vardagsrutiner"
+      ],
+      "description": {
+        "sv": "packa väskan",
+        "en": "pack bag"
+      },
+      "files": {
+        "svg": "pictograms/packa-vaskan.svg",
+        "png_500": "pictograms/packa-vaskan.png"
+      },
+      "tags": [],
+      "license": "CC BY-NC-SA 3.0"
     }
   ],
   "categories": [
@@ -1145,5 +4176,6 @@
         "en": "Tools"
       }
     }
-  ]
+  ],
+  "total": 140
 }

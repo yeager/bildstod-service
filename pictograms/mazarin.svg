@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background -->
+  <rect width="500" height="500" fill="white"/>
+  
+  <!-- Plate -->
+  <ellipse cx="250" cy="380" rx="150" ry="25" fill="white" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Mazarin cake (green marzipan coating) -->
+  <ellipse cx="250" cy="300" rx="80" ry="35" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Cake base visible at bottom -->
+  <ellipse cx="250" cy="315" rx="75" ry="20" fill="#FFD700" stroke="#000" stroke-width="2"/>
+  
+  <!-- Green marzipan glaze texture -->
+  <path d="M 180 290 Q 250 285 320 290" stroke="#4A7A00" stroke-width="2" fill="none"/>
+  <path d="M 185 305 Q 250 300 315 305" stroke="#4A7A00" stroke-width="2" fill="none"/>
+  
+  <!-- Decorative pattern on top -->
+  <circle cx="250" cy="285" r="3" fill="#FFD700" stroke="#000" stroke-width="1"/>
+  <circle cx="230" cy="295" r="2" fill="#FFD700" stroke="#000" stroke-width="1"/>
+  <circle cx="270" cy="295" r="2" fill="#FFD700" stroke="#000" stroke-width="1"/>
+  
+  <!-- Paper cup base (traditional serving) -->
+  <path d="M 170 335 L 330 335 L 320 350 L 180 350 Z" fill="white" stroke="#000" stroke-width="2"/>
+  <path d="M 175 340 L 325 340" stroke="#000" stroke-width="1" fill="none"/>
+  <path d="M 180 345 L 320 345" stroke="#000" stroke-width="1" fill="none"/>
+</svg>

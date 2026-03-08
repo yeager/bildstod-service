@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flag pole -->
+  <rect x="100" y="100" width="8" height="300" fill="#999999" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Swedish flag -->
+  <rect x="108" y="100" width="240" height="160" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Yellow cross vertical -->
+  <rect x="180" y="100" width="24" height="160" fill="#FFD700"/>
+  
+  <!-- Yellow cross horizontal -->
+  <rect x="108" y="170" width="240" height="24" fill="#FFD700"/>
+  
+  <!-- Crown (symbol of Sweden) -->
+  <path d="M200 50 L250 50 L260 80 L240 80 L240 70 L230 70 L230 80 L220 80 L220 70 L210 70 L210 80 L190 80 Z" 
+        fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Crown jewels -->
+  <circle cx="210" cy="60" r="3" fill="#CC0000"/>
+  <circle cx="225" cy="60" r="3" fill="#CC0000"/>
+  <circle cx="240" cy="60" r="3" fill="#CC0000"/>
+  
+  <!-- People celebrating -->
+  <!-- Person 1 (adult) -->
+  <circle cx="380" cy="200" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="372" cy="192" r="4" fill="#000"/>
+  <circle cx="388" cy="192" r="4" fill="#000"/>
+  <path d="M365 210 Q380 220 395 210" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="370" y="225" width="20" height="50" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
+  <circle cx="350" cy="285" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="410" cy="285" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Person 2 (child) -->
+  <circle cx="420" cy="270" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="415" cy="265" r="3" fill="#000"/>
+  <circle cx="425" cy="265" r="3" fill="#000"/>
+  <path d="M410 275 Q420 285 430 275" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="415" y="290" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <circle cx="405" cy="335" r="6" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  <circle cx="435" cy="335" r="6" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Small Swedish flag in child's hand -->
+  <rect x="430" y="250" width="2" height="20" fill="#8B5E2A"/>
+  <rect x="432" y="250" width="15" height="10" fill="#0099DD"/>
+  <rect x="435" y="250" width="2" height="10" fill="#FFD700"/>
+  <rect x="432" y="253" width="15" height="2" fill="#FFD700"/>
+  
+  <!-- Festive bunting -->
+  <path d="M50 150 L450 150" stroke="#000" stroke-width="3"/>
+  <path d="M80 150 L90 170 L100 150" fill="#0099DD"/>
+  <path d="M120 150 L130 170 L140 150" fill="#FFD700"/>
+  <path d="M160 150 L170 170 L180 150" fill="#0099DD"/>
+  <path d="M200 150 L210 170 L220 150" fill="#FFD700"/>
+  <path d="M240 150 L250 170 L260 150" fill="#0099DD"/>
+</svg>
