@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "CC BY-SA 4.0",
   "source": "https://autismappar.se/bildstod",
   "pictograms": [
@@ -576,6 +576,340 @@
         "högtid",
         "mat-dryck",
         "augusti"
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "lekplats",
+      "keywords": {
+        "sv": [
+          "lekplats",
+          "leka ute",
+          "gunga",
+          "rutschkana",
+          "sandlåda"
+        ],
+        "en": [
+          "playground",
+          "play outside",
+          "swing",
+          "slide",
+          "sandbox"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "Lekplats med rutschkana, gungor och sandlåda",
+        "en": "Playground with slide, swings and sandbox"
+      },
+      "files": {
+        "svg": "pictograms/lekplats.svg",
+        "png_500": "pictograms/lekplats.png"
+      },
+      "tags": [
+        "skola",
+        "barn",
+        "lek",
+        "utomhus"
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "fidget",
+      "keywords": {
+        "sv": [
+          "fidget",
+          "stimboard",
+          "stressboll",
+          "sensorisk leksak",
+          "pop-it",
+          "fidget spinner"
+        ],
+        "en": [
+          "fidget toy",
+          "stim board",
+          "stress ball",
+          "sensory toy",
+          "pop it"
+        ]
+      },
+      "categories": [
+        "npf",
+        "hjälpmedel"
+      ],
+      "description": {
+        "sv": "Sensoriska leksaker — fidget spinner, pop-it, stressboll och tanglekök",
+        "en": "Sensory toys — fidget spinner, pop-it, stress ball and tangle toy"
+      },
+      "files": {
+        "svg": "pictograms/fidget.svg",
+        "png_500": "pictograms/fidget.png"
+      },
+      "tags": [
+        "npf",
+        "sensorisk",
+        "hjälpmedel",
+        "självreglering"
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "samling",
+      "keywords": {
+        "sv": [
+          "samling",
+          "samlingsstund",
+          "gruppsamling",
+          "ring",
+          "sångstund"
+        ],
+        "en": [
+          "circle time",
+          "group gathering",
+          "morning circle",
+          "assembly"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "Samling — barn och pedagog i ring, sångstund med bok",
+        "en": "Circle time — children and teacher in circle, singing with book"
+      },
+      "files": {
+        "svg": "pictograms/samling.svg",
+        "png_500": "pictograms/samling.png"
+      },
+      "tags": [
+        "skola",
+        "förskola",
+        "rutin"
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "halkbar",
+      "keywords": {
+        "sv": [
+          "hämtbar",
+          "hämta",
+          "hämtning",
+          "lämna",
+          "lämning",
+          "skjuts"
+        ],
+        "en": [
+          "pickup",
+          "drop off",
+          "school pickup",
+          "fetch",
+          "collect"
+        ]
+      },
+      "categories": [
+        "skola"
+      ],
+      "description": {
+        "sv": "Hämtning — vuxen hämtar barn vid skola, bil parkerad",
+        "en": "Pickup — adult picking up child at school, car parked"
+      },
+      "files": {
+        "svg": "pictograms/halkbar.svg",
+        "png_500": "pictograms/halkbar.png"
+      },
+      "tags": [
+        "skola",
+        "rutin",
+        "transport"
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "beloning",
+      "keywords": {
+        "sv": [
+          "belöning",
+          "belöningstavla",
+          "poängtavla",
+          "token board",
+          "motivation"
+        ],
+        "en": [
+          "reward",
+          "reward chart",
+          "token board",
+          "incentive",
+          "motivation"
+        ]
+      },
+      "categories": [
+        "npf",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Belöningstavla — poängtavla med bockar och belöningsbild",
+        "en": "Reward chart — token board with checkmarks and reward image"
+      },
+      "files": {
+        "svg": "pictograms/beloning.svg",
+        "png_500": "pictograms/beloning.png"
+      },
+      "tags": [
+        "npf",
+        "motivation",
+        "visuellt-stöd"
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "overgang",
+      "keywords": {
+        "sv": [
+          "övergång",
+          "byta aktivitet",
+          "nästa",
+          "förflyttning"
+        ],
+        "en": [
+          "transition",
+          "change activity",
+          "next",
+          "moving between activities"
+        ]
+      },
+      "categories": [
+        "npf",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Övergång — byte mellan aktiviteter med timer och pilmarkering",
+        "en": "Transition — changing between activities with timer and arrow marking"
+      },
+      "files": {
+        "svg": "pictograms/overgang.svg",
+        "png_500": "pictograms/overgang.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "rutin",
+        "visuellt-stöd"
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "forsta-sedan",
+      "keywords": {
+        "sv": [
+          "först sedan",
+          "först-sedan",
+          "först och sedan",
+          "villkor",
+          "turordning"
+        ],
+        "en": [
+          "first then",
+          "first-then board",
+          "contingency",
+          "sequence"
+        ]
+      },
+      "categories": [
+        "npf",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Först-sedan-tavla — först läxa (1), sedan surfplatta (2)",
+        "en": "First-then board — first homework (1), then tablet (2)"
+      },
+      "files": {
+        "svg": "pictograms/forsta-sedan.svg",
+        "png_500": "pictograms/forsta-sedan.png"
+      },
+      "tags": [
+        "npf",
+        "autism",
+        "visuellt-stöd",
+        "motivation"
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "kanslobarometer",
+      "keywords": {
+        "sv": [
+          "känslobarometer",
+          "känsloskala",
+          "känsltermometer",
+          "affektreglering",
+          "zonkarta"
+        ],
+        "en": [
+          "emotion meter",
+          "feeling thermometer",
+          "emotion scale",
+          "zones of regulation"
+        ]
+      },
+      "categories": [
+        "npf",
+        "känslor",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Känslobarometer — termometer med fem nivåer från lugn till utbrott",
+        "en": "Emotion meter — thermometer with five levels from calm to meltdown"
+      },
+      "files": {
+        "svg": "pictograms/kanslobarometer.svg",
+        "png_500": "pictograms/kanslobarometer.png"
+      },
+      "tags": [
+        "npf",
+        "känslor",
+        "självreglering",
+        "visuellt-stöd"
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "visuell-timer",
+      "keywords": {
+        "sv": [
+          "visuell timer",
+          "tidtimer",
+          "time timer",
+          "klocka",
+          "tid kvar"
+        ],
+        "en": [
+          "visual timer",
+          "time timer",
+          "countdown",
+          "time remaining"
+        ]
+      },
+      "categories": [
+        "npf",
+        "hjälpmedel",
+        "verktyg"
+      ],
+      "description": {
+        "sv": "Visuell timer — rund klocka med röd yta som visar tid kvar",
+        "en": "Visual timer — round clock with red area showing remaining time"
+      },
+      "files": {
+        "svg": "pictograms/visuell-timer.svg",
+        "png_500": "pictograms/visuell-timer.png"
+      },
+      "tags": [
+        "npf",
+        "tid",
+        "hjälpmedel",
+        "visuellt-stöd"
       ]
     }
   ],

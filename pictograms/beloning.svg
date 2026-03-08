@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Reward / Belöning (token board/reward chart) -->
+  <!-- Board -->
+  <rect x="70" y="70" width="360" height="360" rx="12" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  <!-- Header -->
+  <rect x="70" y="70" width="360" height="50" rx="12" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
+  <rect x="70" y="95" width="360" height="25" fill="#FFD700"/>
+  <!-- Star icon in header -->
+  <polygon points="250,78 256,95 275,95 260,106 266,123 250,113 234,123 240,106 225,95 244,95" fill="#FFF" stroke="#000" stroke-width="2"/>
+  <!-- Token row 1: 5 circles, 3 filled -->
+  <rect x="90" y="140" width="320" height="55" rx="6" fill="#F5F5F5" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="130" cy="167" r="18" fill="#4CAF50" stroke="#000" stroke-width="2.5"/>
+  <path d="M122 167 L128 173 L138 162" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="195" cy="167" r="18" fill="#4CAF50" stroke="#000" stroke-width="2.5"/>
+  <path d="M187 167 L193 173 L203 162" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="260" cy="167" r="18" fill="#4CAF50" stroke="#000" stroke-width="2.5"/>
+  <path d="M252 167 L258 173 L268 162" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="325" cy="167" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="390" cy="167" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <!-- Token row 2: 5 circles, 1 filled -->
+  <rect x="90" y="210" width="320" height="55" rx="6" fill="#F5F5F5" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="130" cy="237" r="18" fill="#FF9800" stroke="#000" stroke-width="2.5"/>
+  <path d="M122 237 L128 243 L138 232" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="195" cy="237" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="260" cy="237" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="325" cy="237" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="390" cy="237" r="18" fill="#E0E0E0" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <!-- Reward image at bottom -->
+  <rect x="150" y="290" width="200" height="120" rx="8" fill="#E3F2FD" stroke="#2196F3" stroke-width="2.5"/>
+  <!-- Gift box -->
+  <rect x="220" y="320" width="60" height="50" rx="3" fill="#E91E63" stroke="#000" stroke-width="2.5"/>
+  <line x1="250" y1="320" x2="250" y2="370" stroke="#FFF" stroke-width="3"/>
+  <line x1="220" y1="345" x2="280" y2="345" stroke="#FFF" stroke-width="3"/>
+  <!-- Bow -->
+  <path d="M240 320 Q250 305 260 320" fill="#FF5722" stroke="#000" stroke-width="2"/>
+  <!-- Label -->
+  <rect x="200" y="385" width="100" height="6" rx="3" fill="#999"/>
+</svg>

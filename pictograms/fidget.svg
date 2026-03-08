@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Fidget / Stimboard - sensory toys -->
+  <!-- Main board -->
+  <rect x="80" y="80" width="340" height="340" rx="15" fill="#E8EAF6" stroke="#000" stroke-width="3.5"/>
+  <!-- Fidget spinner (top-left) -->
+  <circle cx="170" cy="180" r="45" fill="#7E57C2" stroke="#000" stroke-width="3"/>
+  <circle cx="170" cy="180" r="12" fill="#FFF" stroke="#000" stroke-width="2"/>
+  <circle cx="170" cy="135" r="15" fill="#9575CD" stroke="#000" stroke-width="2"/>
+  <circle cx="210" cy="200" r="15" fill="#9575CD" stroke="#000" stroke-width="2"/>
+  <circle cx="130" cy="200" r="15" fill="#9575CD" stroke="#000" stroke-width="2"/>
+  <!-- Pop-it (top-right) -->
+  <rect x="270" y="130" width="120" height="90" rx="10" fill="#FF80AB" stroke="#000" stroke-width="3"/>
+  <circle cx="300" cy="160" r="12" fill="#FF4081" stroke="#000" stroke-width="2"/>
+  <circle cx="330" cy="160" r="12" fill="#FF80AB" stroke="#000" stroke-width="2"/>
+  <circle cx="360" cy="160" r="12" fill="#FF4081" stroke="#000" stroke-width="2"/>
+  <circle cx="300" cy="190" r="12" fill="#FF80AB" stroke="#000" stroke-width="2"/>
+  <circle cx="330" cy="190" r="12" fill="#FF4081" stroke="#000" stroke-width="2"/>
+  <circle cx="360" cy="190" r="12" fill="#FF80AB" stroke="#000" stroke-width="2"/>
+  <!-- Stress ball (bottom-left) -->
+  <circle cx="170" cy="320" r="40" fill="#4CAF50" stroke="#000" stroke-width="3"/>
+  <path d="M145 310 Q170 295 195 310" fill="none" stroke="#2E7D32" stroke-width="2.5"/>
+  <path d="M145 325 Q170 310 195 325" fill="none" stroke="#2E7D32" stroke-width="2.5"/>
+  <!-- Tangle toy (bottom-right) -->
+  <path d="M280 300 Q310 270 340 300 Q370 330 340 350 Q310 370 280 340 Q260 320 280 300 Z" fill="none" stroke="#FF9800" stroke-width="8" stroke-linecap="round"/>
+  <path d="M290 305 Q315 280 335 305" fill="none" stroke="#FFC107" stroke-width="6" stroke-linecap="round"/>
+  <path d="M335 305 Q355 330 335 345" fill="none" stroke="#FF5722" stroke-width="6" stroke-linecap="round"/>
+  <!-- Hands icon (center) -->
+  <path d="M230 255 Q250 240 270 255" fill="none" stroke="#666" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="250" cy="260" r="4" fill="#666"/>
+</svg>

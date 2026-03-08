@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- First-Then Board / Först-Sedan -->
+  <!-- Board background -->
+  <rect x="40" y="80" width="420" height="340" rx="12" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  <!-- FIRST section -->
+  <rect x="55" y="100" width="185" height="300" rx="8" fill="#C8E6C9" stroke="#4CAF50" stroke-width="3"/>
+  <!-- "1" badge -->
+  <circle cx="80" cy="125" r="16" fill="#4CAF50"/>
+  <text x="80" y="131" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#FFF">1</text>
+  <!-- First activity: homework/pencil -->
+  <rect x="85" y="165" width="125" height="100" rx="6" fill="#FFF" stroke="#999" stroke-width="1.5"/>
+  <path d="M140 195 L160 245 L165 240 L145 190 Z" fill="#FFD700" stroke="#000" stroke-width="2"/>
+  <path d="M160 245 L162 252 L165 240" fill="#F5DEB3" stroke="#000" stroke-width="1.5"/>
+  <!-- Label -->
+  <rect x="100" y="280" width="90" height="8" rx="4" fill="#666"/>
+  <rect x="110" y="295" width="70" height="6" rx="3" fill="#999"/>
+  <!-- Arrow between -->
+  <path d="M250 250 L290 250" fill="none" stroke="#FF9800" stroke-width="5" stroke-linecap="round"/>
+  <path d="M283 242 L291 250 L283 258" fill="none" stroke="#FF9800" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- THEN section -->
+  <rect x="260" y="100" width="185" height="300" rx="8" fill="#FFECB3" stroke="#FF9800" stroke-width="3"/>
+  <!-- "2" badge -->
+  <circle cx="285" cy="125" r="16" fill="#FF9800"/>
+  <text x="285" y="131" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#FFF">2</text>
+  <!-- Then activity: tablet/game -->
+  <rect x="290" y="165" width="125" height="100" rx="6" fill="#FFF" stroke="#999" stroke-width="1.5"/>
+  <rect x="315" y="180" width="75" height="55" rx="5" fill="#333" stroke="#000" stroke-width="2"/>
+  <rect x="320" y="185" width="65" height="40" rx="3" fill="#4FC3F7"/>
+  <!-- Smiley on screen -->
+  <circle cx="340" cy="200" r="3" fill="#000"/>
+  <circle cx="355" cy="200" r="3" fill="#000"/>
+  <path d="M337 210 Q348 218 358 210" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Label -->
+  <rect x="305" y="280" width="90" height="8" rx="4" fill="#666"/>
+  <rect x="315" y="295" width="70" height="6" rx="3" fill="#999"/>
+  <!-- Star decoration -->
+  <polygon points="352,115 356,125 367,125 358,132 362,142 352,136 342,142 346,132 337,125 348,125" fill="#FFD700" stroke="#000" stroke-width="1.5"/>
+</svg>

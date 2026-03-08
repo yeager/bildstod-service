@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Visual Timer (Time Timer style) -->
+  <!-- Timer body -->
+  <circle cx="250" cy="260" r="180" fill="#FFF" stroke="#000" stroke-width="4"/>
+  <!-- Red remaining time wedge (~40%) -->
+  <path d="M250 260 L250 80 A180 180 0 0 1 410 340 Z" fill="#E53935" opacity="0.85"/>
+  <!-- Hour marks -->
+  <line x1="250" y1="85" x2="250" y2="105" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <line x1="430" y1="260" x2="410" y2="260" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <line x1="250" y1="435" x2="250" y2="415" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <line x1="70" y1="260" x2="90" y2="260" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- 5-minute marks -->
+  <line x1="340" y1="104" x2="332" y2="118" stroke="#333" stroke-width="2"/>
+  <line x1="406" y1="170" x2="392" y2="178" stroke="#333" stroke-width="2"/>
+  <line x1="406" y1="350" x2="392" y2="342" stroke="#333" stroke-width="2"/>
+  <line x1="340" y1="416" x2="332" y2="402" stroke="#333" stroke-width="2"/>
+  <line x1="160" y1="416" x2="168" y2="402" stroke="#333" stroke-width="2"/>
+  <line x1="94" y1="350" x2="108" y2="342" stroke="#333" stroke-width="2"/>
+  <line x1="94" y1="170" x2="108" y2="178" stroke="#333" stroke-width="2"/>
+  <line x1="160" y1="104" x2="168" y2="118" stroke="#333" stroke-width="2"/>
+  <!-- Center dot -->
+  <circle cx="250" cy="260" r="8" fill="#333"/>
+  <!-- Number labels -->
+  <text x="250" y="72" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#333">60</text>
+  <text x="445" y="267" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#333">15</text>
+  <text x="250" y="458" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#333">30</text>
+  <text x="55" y="267" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#333">45</text>
+</svg>

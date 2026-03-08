@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Emotion Meter / Känslobarometer -->
+  <!-- Thermometer body -->
+  <rect x="200" y="60" width="100" height="340" rx="50" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  <!-- Color zones (bottom to top: green → yellow → orange → red) -->
+  <rect x="210" y="320" width="80" height="70" fill="#4CAF50"/>
+  <rect x="210" y="250" width="80" height="70" fill="#8BC34A"/>
+  <rect x="210" y="180" width="80" height="70" fill="#FFD700"/>
+  <rect x="210" y="110" width="80" height="70" fill="#FF9800"/>
+  <rect x="210" y="70" width="80" height="40" rx="40" fill="#E53935"/>
+  <!-- Bulb at bottom -->
+  <circle cx="250" cy="400" r="50" fill="#4CAF50" stroke="#000" stroke-width="3.5"/>
+  <!-- Zone labels with faces -->
+  <!-- Level 1: Calm (green) -->
+  <circle cx="120" cy="355" r="20" fill="#FFF" stroke="#4CAF50" stroke-width="2.5"/>
+  <circle cx="114" cy="352" r="2" fill="#000"/>
+  <circle cx="126" cy="352" r="2" fill="#000"/>
+  <path d="M112 360 Q120 367 128 360" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Level 2: OK (light green) -->
+  <circle cx="120" cy="285" r="20" fill="#FFF" stroke="#8BC34A" stroke-width="2.5"/>
+  <circle cx="114" cy="282" r="2" fill="#000"/>
+  <circle cx="126" cy="282" r="2" fill="#000"/>
+  <line x1="112" y1="292" x2="128" y2="292" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Level 3: Worried (yellow) -->
+  <circle cx="120" cy="215" r="20" fill="#FFF" stroke="#FFD700" stroke-width="2.5"/>
+  <circle cx="114" cy="212" r="2" fill="#000"/>
+  <circle cx="126" cy="212" r="2" fill="#000"/>
+  <path d="M112 225 Q120 218 128 225" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Level 4: Angry (orange) -->
+  <circle cx="120" cy="145" r="20" fill="#FFF" stroke="#FF9800" stroke-width="2.5"/>
+  <circle cx="114" cy="142" r="2" fill="#000"/>
+  <circle cx="126" cy="142" r="2" fill="#000"/>
+  <path d="M112 155 Q120 148 128 155" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="108" y1="136" x2="118" y2="140" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="132" y1="136" x2="122" y2="140" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Level 5: Meltdown (red) -->
+  <circle cx="120" cy="85" r="20" fill="#FFF" stroke="#E53935" stroke-width="2.5"/>
+  <circle cx="114" cy="80" r="2" fill="#000"/>
+  <circle cx="126" cy="80" r="2" fill="#000"/>
+  <path d="M110 95 Q120 85 130 95" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Indicator arrow pointing at level 2 -->
+  <path d="M310 285 L380 285" fill="none" stroke="#E53935" stroke-width="4" stroke-linecap="round"/>
+  <path d="M315 278 L308 285 L315 292" fill="none" stroke="#E53935" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Scale marks -->
+  <line x1="295" y1="320" x2="310" y2="320" stroke="#000" stroke-width="2"/>
+  <line x1="295" y1="250" x2="310" y2="250" stroke="#000" stroke-width="2"/>
+  <line x1="295" y1="180" x2="310" y2="180" stroke="#000" stroke-width="2"/>
+  <line x1="295" y1="110" x2="310" y2="110" stroke="#000" stroke-width="2"/>
+</svg>

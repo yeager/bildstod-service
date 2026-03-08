@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Hämtbar / Pickup (school pickup/dropoff) -->
+  <!-- Road -->
+  <rect x="0" y="350" width="500" height="60" fill="#607D8B" stroke="#000" stroke-width="2"/>
+  <line x1="0" y1="380" x2="500" y2="380" stroke="#FFF" stroke-width="3" stroke-dasharray="20,15"/>
+  <!-- Car -->
+  <rect x="60" y="310" width="140" height="60" rx="10" fill="#1976D2" stroke="#000" stroke-width="3"/>
+  <path d="M90 310 Q90 270 120 270 L160 270 Q180 270 180 310" fill="#42A5F5" stroke="#000" stroke-width="3"/>
+  <!-- Windows -->
+  <rect x="100" y="278" width="30" height="25" rx="3" fill="#BBDEFB" stroke="#000" stroke-width="1.5"/>
+  <rect x="140" y="278" width="30" height="25" rx="3" fill="#BBDEFB" stroke="#000" stroke-width="1.5"/>
+  <!-- Wheels -->
+  <circle cx="100" cy="375" r="18" fill="#333" stroke="#000" stroke-width="2.5"/>
+  <circle cx="100" cy="375" r="7" fill="#666"/>
+  <circle cx="170" cy="375" r="18" fill="#333" stroke="#000" stroke-width="2.5"/>
+  <circle cx="170" cy="375" r="7" fill="#666"/>
+  <!-- Building (school) -->
+  <rect x="280" y="140" width="180" height="220" rx="5" fill="#FFF9C4" stroke="#000" stroke-width="3"/>
+  <rect x="270" y="130" width="200" height="20" rx="5" fill="#FF8F00" stroke="#000" stroke-width="2.5"/>
+  <rect x="340" y="280" width="50" height="80" rx="3" fill="#5D4037" stroke="#000" stroke-width="2"/>
+  <!-- Window -->
+  <rect x="300" y="180" width="50" height="40" rx="3" fill="#BBDEFB" stroke="#000" stroke-width="2"/>
+  <!-- Adult walking with child -->
+  <!-- Adult -->
+  <circle cx="240" cy="270" r="18" fill="#F5DEB3" stroke="#000" stroke-width="2.5"/>
+  <rect x="230" y="288" width="20" height="35" rx="3" fill="#4CAF50" stroke="#000" stroke-width="2"/>
+  <!-- Child -->
+  <circle cx="260" cy="290" r="14" fill="#F5DEB3" stroke="#000" stroke-width="2.5"/>
+  <rect x="252" y="304" width="16" height="25" rx="3" fill="#E91E63" stroke="#000" stroke-width="2"/>
+  <!-- Holding hands -->
+  <line x1="248" y1="310" x2="255" y2="315" stroke="#F5DEB3" stroke-width="4"/>
+  <line x1="248" y1="310" x2="255" y2="315" stroke="#000" stroke-width="1.5"/>
+  <!-- Arrow (pickup direction) -->
+  <path d="M220 340 L265 340" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+  <path d="M260 335 L265 340 L260 345" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+</svg>
