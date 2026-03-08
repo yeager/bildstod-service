@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Faroe Islands Flag — ARASAAC style (thick outline, centered) -->
+  <!-- Flag ratio 8:11, white field with blue-edged red Nordic cross -->
+  
+  <!-- Outer frame -->
+  <rect x="60" y="110" width="380" height="280" rx="6" fill="#FFF" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Blue cross (wider, behind red) -->
+  <!-- Vertical bar -->
+  <rect x="155" y="110" width="70" height="280" fill="#005EB8"/>
+  <!-- Horizontal bar -->
+  <rect x="60" y="215" width="380" height="70" fill="#005EB8"/>
+  
+  <!-- Red cross (narrower, on top) -->
+  <!-- Vertical bar -->
+  <rect x="170" y="110" width="40" height="280" fill="#EF2B2D"/>
+  <!-- Horizontal bar -->
+  <rect x="60" y="230" width="380" height="40" fill="#EF2B2D"/>
+  
+  <!-- Re-draw outer border on top -->
+  <rect x="60" y="110" width="380" height="280" rx="6" fill="none" stroke="#000" stroke-width="3.5"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Faroe Islands — country map + small flag, ARASAAC style -->
+  
+  <!-- Faroe Islands map silhouette (simplified 18 islands) -->
+  <g fill="#9E9E9E" stroke="#000" stroke-width="2.5" stroke-linejoin="round">
+    <!-- Streymoy (largest, central) -->
+    <path d="M220 140 Q215 120 225 105 Q240 95 255 100 Q265 110 260 130 
+             Q258 160 262 190 Q265 220 260 250 Q255 270 248 285 
+             Q240 295 230 290 Q222 280 218 260 Q215 240 218 220 
+             Q220 200 218 180 Q215 160 220 140 Z"/>
+    <!-- Eysturoy (east of Streymoy) -->
+    <path d="M275 120 Q280 105 290 100 Q300 105 305 115 
+             Q308 135 305 155 Q300 175 295 195 Q288 210 280 215 
+             Q270 210 268 195 Q265 175 268 155 Q272 135 275 120 Z"/>
+    <!-- Vágar (west) -->
+    <path d="M165 150 Q160 135 170 125 Q185 120 195 130 
+             Q200 145 198 165 Q195 180 185 190 Q175 195 168 185 
+             Q162 175 165 150 Z"/>
+    <!-- Borðoy (northeast) -->
+    <path d="M300 80 Q305 65 315 60 Q328 65 332 80 
+             Q335 100 328 115 Q320 125 312 120 Q305 110 300 95 Z"/>
+    <!-- Viðoy (north of Borðoy) -->
+    <path d="M320 55 Q325 42 335 40 Q345 45 348 58 
+             Q345 72 338 78 Q328 80 322 70 Z"/>
+    <!-- Kunoy -->
+    <path d="M340 50 Q345 38 355 35 Q362 40 360 55 
+             Q355 68 348 70 Q342 65 340 50 Z"/>
+    <!-- Sandoy (south) -->
+    <path d="M235 310 Q230 295 240 288 Q252 285 258 295 
+             Q262 310 258 330 Q252 342 242 340 Q235 335 235 310 Z"/>
+    <!-- Suðuroy (southernmost) -->
+    <path d="M210 365 Q205 345 215 335 Q225 330 232 340 
+             Q238 355 235 380 Q230 400 225 410 Q218 415 212 405 
+             Q208 390 210 365 Z"/>
+    <!-- Small islands -->
+    <ellipse cx="310" cy="145" rx="10" ry="15"/>
+    <ellipse cx="195" cy="210" rx="8" ry="12"/>
+    <ellipse cx="270" cy="265" rx="7" ry="10"/>
+  </g>
+  
+  <!-- Small Faroe Islands flag in corner -->
+  <g transform="translate(350, 30)">
+    <rect x="0" y="0" width="110" height="80" rx="3" fill="#FFF" stroke="#000" stroke-width="2"/>
+    <!-- Blue cross -->
+    <rect x="28" y="0" width="22" height="80" fill="#005EB8"/>
+    <rect x="0" y="30" width="110" height="22" fill="#005EB8"/>
+    <!-- Red cross -->
+    <rect x="33" y="0" width="12" height="80" fill="#EF2B2D"/>
+    <rect x="0" y="35" width="110" height="12" fill="#EF2B2D"/>
+    <rect x="0" y="0" width="110" height="80" rx="3" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>

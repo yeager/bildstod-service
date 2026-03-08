@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Åland Flag — ARASAAC style -->
+  <!-- Blue field with red-edged yellow Nordic cross -->
+  
+  <!-- Outer frame -->
+  <rect x="60" y="110" width="380" height="280" rx="6" fill="#0053A5" stroke="#000" stroke-width="3.5"/>
+  
+  <!-- Yellow cross (wider, behind red) -->
+  <rect x="150" y="110" width="80" height="280" fill="#FFCE00"/>
+  <rect x="60" y="210" width="380" height="80" fill="#FFCE00"/>
+  
+  <!-- Red cross (narrower, on top) -->
+  <rect x="167" y="110" width="46" height="280" fill="#DA291C"/>
+  <rect x="60" y="227" width="380" height="46" fill="#DA291C"/>
+  
+  <!-- Re-draw outer border -->
+  <rect x="60" y="110" width="380" height="280" rx="6" fill="none" stroke="#000" stroke-width="3.5"/>
+</svg>

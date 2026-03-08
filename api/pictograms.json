@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "CC BY-SA 4.0",
   "source": "https://autismappar.se/bildstod",
   "pictograms": [
@@ -36,7 +36,8 @@
       "tags": [
         "svensk-kultur",
         "mat-dryck"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 2,
@@ -72,7 +73,8 @@
         "svensk-kultur",
         "högtid",
         "december"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 3,
@@ -109,7 +111,8 @@
         "npf",
         "autism",
         "visuellt-stöd"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 4,
@@ -147,7 +150,8 @@
         "autism",
         "sensorisk",
         "skola"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 5,
@@ -182,7 +186,8 @@
         "npf",
         "sensorisk",
         "hjälpmedel"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 6,
@@ -219,7 +224,8 @@
         "sensorisk",
         "hjälpmedel",
         "sömn"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 7,
@@ -254,7 +260,8 @@
         "svensk-kultur",
         "mat-dryck",
         "kanelbullens-dag"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 8,
@@ -291,7 +298,8 @@
         "svensk-kultur",
         "mat-dryck",
         "högtid"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 9,
@@ -326,7 +334,8 @@
         "svensk-kultur",
         "högtid",
         "juni"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 10,
@@ -360,7 +369,8 @@
         "svensk-kultur",
         "dalarna",
         "hantverk"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 11,
@@ -394,7 +404,8 @@
       "tags": [
         "skola",
         "barn"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 12,
@@ -427,7 +438,8 @@
         "skola",
         "barn",
         "lek"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 13,
@@ -466,7 +478,8 @@
         "autism",
         "visuellt-stöd",
         "planering"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 14,
@@ -504,7 +517,8 @@
         "sensorisk",
         "känslor",
         "självreglering"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 15,
@@ -539,7 +553,8 @@
         "autism",
         "kommunikation",
         "socialt"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 16,
@@ -576,7 +591,8 @@
         "högtid",
         "mat-dryck",
         "augusti"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 17,
@@ -613,7 +629,8 @@
         "barn",
         "lek",
         "utomhus"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 18,
@@ -652,7 +669,8 @@
         "sensorisk",
         "hjälpmedel",
         "självreglering"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 19,
@@ -687,7 +705,8 @@
         "skola",
         "förskola",
         "rutin"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 20,
@@ -724,7 +743,8 @@
         "skola",
         "rutin",
         "transport"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 21,
@@ -761,7 +781,8 @@
         "npf",
         "motivation",
         "visuellt-stöd"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 22,
@@ -797,7 +818,8 @@
         "autism",
         "rutin",
         "visuellt-stöd"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 23,
@@ -834,7 +856,8 @@
         "autism",
         "visuellt-stöd",
         "motivation"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 24,
@@ -872,7 +895,8 @@
         "känslor",
         "självreglering",
         "visuellt-stöd"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
     },
     {
       "id": 25,
@@ -910,7 +934,144 @@
         "tid",
         "hjälpmedel",
         "visuellt-stöd"
-      ]
+      ],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 26,
+      "slug": "faroe-islands-flag",
+      "keywords": {
+        "sv": [
+          "Färöarnas flagga",
+          "färöisk flagga",
+          "Merkið"
+        ],
+        "en": [
+          "Faroe Islands flag",
+          "Faroese flag",
+          "Merkið"
+        ]
+      },
+      "categories": [
+        "land",
+        "flagga"
+      ],
+      "description": {
+        "sv": "Färöarnas flagga — vit med blåkantat rött nordiskt kors",
+        "en": "Flag of the Faroe Islands — white with blue-fimbriated red Nordic cross"
+      },
+      "files": {
+        "svg": "pictograms/faroe-islands-flag.svg",
+        "png_500": "pictograms/faroe-islands-flag.png"
+      },
+      "tags": [
+        "norden",
+        "flagga",
+        "färöarna"
+      ],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 27,
+      "slug": "faroe-islands",
+      "keywords": {
+        "sv": [
+          "Färöarna",
+          "Føroyar",
+          "färöiska öarna"
+        ],
+        "en": [
+          "Faroe Islands",
+          "Føroyar",
+          "Faroes"
+        ]
+      },
+      "categories": [
+        "land"
+      ],
+      "description": {
+        "sv": "Färöarna — kartsilhuett av ögruppen med flagga",
+        "en": "Faroe Islands — map silhouette of the archipelago with flag"
+      },
+      "files": {
+        "svg": "pictograms/faroe-islands.svg",
+        "png_500": "pictograms/faroe-islands.png"
+      },
+      "tags": [
+        "norden",
+        "land",
+        "färöarna",
+        "ö"
+      ],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 28,
+      "slug": "aland-flag",
+      "keywords": {
+        "sv": [
+          "Ålands flagga",
+          "åländsk flagga"
+        ],
+        "en": [
+          "Åland flag",
+          "Åland Islands flag"
+        ]
+      },
+      "categories": [
+        "land",
+        "flagga"
+      ],
+      "description": {
+        "sv": "Ålands flagga — blå med rödkantat gult nordiskt kors",
+        "en": "Flag of Åland — blue with red-fimbriated yellow Nordic cross"
+      },
+      "files": {
+        "svg": "pictograms/aland-flag.svg",
+        "png_500": "pictograms/aland-flag.png"
+      },
+      "tags": [
+        "norden",
+        "flagga",
+        "åland",
+        "finland"
+      ],
+      "license": "CC BY-NC-SA 3.0"
+    },
+    {
+      "id": 29,
+      "slug": "aland",
+      "keywords": {
+        "sv": [
+          "Åland",
+          "Ålandsöarna",
+          "åländsk"
+        ],
+        "en": [
+          "Åland",
+          "Åland Islands",
+          "Aland"
+        ]
+      },
+      "categories": [
+        "land"
+      ],
+      "description": {
+        "sv": "Åland — kartsilhuett av skärgården med flagga",
+        "en": "Åland — map silhouette of the archipelago with flag"
+      },
+      "files": {
+        "svg": "pictograms/aland.svg",
+        "png_500": "pictograms/aland.png"
+      },
+      "tags": [
+        "norden",
+        "land",
+        "åland",
+        "finland",
+        "ö"
+      ],
+      "license": "CC BY-NC-SA 3.0"
     }
   ],
   "categories": [

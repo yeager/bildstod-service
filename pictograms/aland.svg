@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Åland — country/archipelago map + small flag, ARASAAC style -->
+  
+  <!-- Åland archipelago silhouette (main island + smaller islands) -->
+  <g fill="#9E9E9E" stroke="#000" stroke-width="2.5" stroke-linejoin="round">
+    <!-- Fasta Åland (main island) -->
+    <path d="M140 180 Q135 160 145 140 Q160 120 180 115 Q200 112 220 118 
+             Q240 125 255 140 Q268 155 275 175 Q280 195 278 220 
+             Q275 245 265 265 Q255 280 240 290 Q225 298 210 300 
+             Q195 302 180 295 Q165 285 155 270 Q145 252 142 235 
+             Q138 215 140 195 Z"/>
+    <!-- Eckerö (west) -->
+    <path d="M105 195 Q100 180 108 170 Q118 165 125 172 
+             Q130 182 128 195 Q125 210 118 215 Q110 212 105 195 Z"/>
+    <!-- Lumparland (east) -->
+    <path d="M290 240 Q295 225 305 222 Q315 228 318 242 
+             Q315 258 308 265 Q298 262 290 240 Z"/>
+    <!-- Vårdö (northeast) -->
+    <path d="M295 175 Q300 162 312 160 Q322 165 325 178 
+             Q322 192 312 198 Q302 195 295 175 Z"/>
+    <!-- Kumlinge (east) -->
+    <path d="M340 195 Q345 182 355 180 Q365 185 368 198 
+             Q365 212 355 218 Q345 215 340 195 Z"/>
+    <!-- Brändö (far east) -->
+    <path d="M380 165 Q385 152 395 150 Q405 155 408 168 
+             Q405 182 395 188 Q385 185 380 165 Z"/>
+    <!-- Kökar (southeast) -->
+    <path d="M350 280 Q355 268 365 265 Q375 270 378 282 
+             Q375 295 365 300 Q355 298 350 280 Z"/>
+    <!-- Sottunga -->
+    <ellipse cx="325" cy="255" rx="12" ry="15"/>
+    <!-- Föglö -->
+    <path d="M310 290 Q315 278 325 275 Q335 280 338 292 
+             Q335 305 325 308 Q315 305 310 290 Z"/>
+    <!-- Small islands scattered -->
+    <ellipse cx="155" cy="150" rx="8" ry="10"/>
+    <ellipse cx="260" cy="310" rx="6" ry="8"/>
+    <ellipse cx="345" cy="145" rx="7" ry="9"/>
+    <ellipse cx="395" cy="210" rx="5" ry="7"/>
+    <ellipse cx="175" cy="310" rx="6" ry="8"/>
+    <ellipse cx="240" cy="105" rx="5" ry="6"/>
+  </g>
+  
+  <!-- Small Åland flag in corner -->
+  <g transform="translate(350, 30)">
+    <rect x="0" y="0" width="110" height="80" rx="3" fill="#0053A5" stroke="#000" stroke-width="2"/>
+    <!-- Yellow cross -->
+    <rect x="26" y="0" width="24" height="80" fill="#FFCE00"/>
+    <rect x="0" y="28" width="110" height="24" fill="#FFCE00"/>
+    <!-- Red cross -->
+    <rect x="31" y="0" width="14" height="80" fill="#DA291C"/>
+    <rect x="0" y="33" width="110" height="14" fill="#DA291C"/>
+    <rect x="0" y="0" width="110" height="80" rx="3" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>
