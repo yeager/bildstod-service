@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="0" y="400" width="500" height="100" fill="#66AA00"/>
-  <polygon points="100,400 200,200 300,400" fill="#999999" stroke="#000" stroke-width="3"/>
-  <polygon points="200,400 300,150 400,400" fill="#999999" stroke="#000" stroke-width="3"/>
-  <polygon points="300,400 400,180 500,400" fill="#999999" stroke="#000" stroke-width="3"/>
-  <polygon points="200,200 250,120 300,200" fill="white" stroke="none"/>
-  <polygon points="300,150 350,100 400,150" fill="white" stroke="none"/>
-  <circle cx="100" cy="100" r="40" fill="#FFD700" stroke="none"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 830.205 285.159 L 1181.46 285.076 C 1274.51 284.988 1263.28 313.174 1290.19 391.267 L 1692.59 1572.79 C 1726.09 1671.11 1715.81 1702.72 1607.84 1702.69 L 1221.25 1702.65 L 473.929 1702.65 C 442.573 1702.61 389.416 1709.5 364.384 1691.44 C 315.988 1656.53 347.481 1599.19 362.139 1555.42 L 720.931 501.802 C 736.397 455.524 750.534 408.597 767.228 362.751 C 781.552 323.415 781.181 291.43 830.205 285.159 z M 491.9 1572.98 L 1161.5 1572.98 L 1556.16 1572.98 C 1548.48 1543.52 1531.27 1501.92 1520.93 1471.25 L 1245.43 663.919 C 1217.44 581.038 1188.08 496.248 1161.5 413.047 L 982.313 413.027 C 955.491 413.029 912.98 414.573 887.714 413.047 C 876.406 437.207 863.686 485.629 854.393 513.231 L 529.122 1462.78 C 517.28 1497.98 504.716 1538.29 491.9 1572.98 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "3kYmmWk1Yv5xtIFzPYQpOjbdppDUfee4TsdldlNfCcdzTIFkXZO8jqatYG20tDTaM7P2Hq3+5sMIPhmzPjmKDw==", "signing_algo": "Ed25519", "generation_timestamp": 1772996466, "identifier": "42c7fe1c-cac8-4b5e-b19b-eb1e716f2448"}</recraft-signature></metadata></svg>

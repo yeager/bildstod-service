@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="50" y="150" width="400" height="250" fill="white" stroke="#000" stroke-width="3"/>
-  <rect x="50" y="300" width="400" height="100" fill="#0099DD" stroke="#000" stroke-width="3"/>
-  <circle cx="150" cy="200" r="15" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
-  <ellipse cx="150" cy="230" rx="20" ry="10" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
-  <path d="M 200 320 Q 250 310 300 320 Q 250 330 200 320" stroke="#white" stroke-width="3" fill="none"/>
-  <path d="M 150 340 Q 200 330 250 340 Q 200 350 150 340" stroke="white" stroke-width="3" fill="none"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 393.967 280.846 C 401.939 280.013 435.854 280.822 445.407 280.841 L 1566.1 280.832 C 1635.32 280.79 1706.11 269.763 1743.26 344.882 C 1760.28 379.299 1757.09 394.429 1757.02 431.631 L 1757.11 1592.47 C 1756.4 1673.26 1760.53 1749.28 1652.31 1766.1 C 1625.51 1767.05 1592.57 1766.11 1565.31 1766.11 L 457.805 1766.12 C 335.548 1766.49 289.821 1737.94 290.134 1606.27 L 290.155 482.906 C 290.091 395.486 276.435 299.863 393.967 280.846 z M 1003 413.522 L 1003 911.282 L 1578.5 911.282 L 1625.01 911.282 L 1625.01 413.522 L 1048.99 413.522 L 1003 413.522 z M 1003 1136 L 1003 1634.16 L 1610.11 1634.16 C 1614.93 1634.14 1620.24 1634.01 1625.01 1634.16 L 1625.01 1136 C 1603.85 1135.34 1580.01 1135.99 1558.53 1136 L 1018.37 1136 C 1013.76 1136.02 1007.47 1136.21 1003 1136 z M 432.166 413.522 C 419.392 414.321 426.071 458.632 426.072 472.618 L 425.984 803.656 C 425.984 839.118 425.467 875.912 425.993 911.282 L 772.697 911.282 L 777.624 911.22 C 780.467 908.044 779.577 876.47 779.571 870.231 L 779.514 413.522 C 665.119 412.027 546.882 413.528 432.166 413.522 z M 425.993 1634.16 L 779.514 1634.16 L 780.768 1633.21 C 778.822 1605.62 779.461 1576.61 779.465 1548.82 L 779.496 1231.61 C 779.491 1200.54 778.845 1166.92 779.514 1136 L 425.993 1136 L 425.993 1634.16 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "RI/E9apFgVpwPwaesUcubzPk+cxY58VN/IGX6XP+TQNL/AVovixV+jL92ACM0irSga6bAGzXg02vs8zN2vmyCQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772996664, "identifier": "73ef7ecc-c55e-4009-9fdd-02a89b1dec89"}</recraft-signature></metadata></svg>

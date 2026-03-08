@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="0" y="300" width="500" height="200" fill="#0099DD"/>
-  <circle cx="150" cy="200" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3"/>
-  <rect x="135" y="225" width="30" height="60" fill="#CC0000" stroke="#000" stroke-width="3"/>
-  <line x1="180" y1="240" x2="350" y2="200" stroke="#8B5E2A" stroke-width="4"/>
-  <circle cx="340" cy="320" r="8" fill="#999999"/>
-  <path d="M 320 310 Q 340 305 360 310 L 360 320 Q 340 325 320 320 Z" fill="#FFD700" stroke="#000" stroke-width="2"/>
-  <line x1="350" y1="200" x2="340" y2="320" stroke="#000" stroke-width="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 788.75 476.572 L 1703.81 476.594 C 1715.57 476.63 1729.56 477.203 1741 476.572 L 1741.02 1456.48 C 1741.01 1493.39 1738.15 1531.5 1741 1568.28 L 1255.62 1568.28 L 413.231 1568.28 C 379.447 1568.28 341.303 1569.24 307.992 1568.28 L 307.895 519.105 C 307.774 504.358 306.762 491.312 307.992 476.572 L 788.75 476.572 z M 871.001 539.075 C 870.222 584.17 871.003 631.685 871.005 676.996 L 871.001 950.829 L 1620.5 950.829 C 1637.37 950.796 1660.66 950.005 1676.99 950.829 L 1676.99 539.075 L 927.998 539.075 L 871.001 539.075 z M 871.001 1097.25 L 871.001 1508 L 1638.5 1508 L 1676.99 1508 L 1676.99 1097.25 L 908.497 1097.25 C 896.836 1097.3 882.455 1097.73 871.001 1097.25 z M 369.079 1097.25 L 369.079 1508 L 727.008 1508 L 726.982 1141.72 C 726.979 1128.05 726.402 1110.51 727.008 1097.25 L 369.079 1097.25 z M 440.873 539.075 L 369.079 539.075 L 369.079 950.829 L 656.25 950.829 C 676.635 950.778 707.553 949.68 727.008 950.829 C 726.013 934.552 726.864 916.7 726.963 900.22 L 727.008 539.075 L 440.873 539.075 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "TFc//iuGCYAzpmYRKxKC2t8t0RE9MUZJZnfRZBBFk1/XwVrJtme1lPOhfhAeBVdg92hKoCveUGMZl216C7HoCQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772996865, "identifier": "8715c71e-3a50-47fd-8a19-d98858c8a8ac"}</recraft-signature></metadata></svg>

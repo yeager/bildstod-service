@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- White background -->
-  <rect width="500" height="500" fill="white"/>
-  
-  <!-- Plate -->
-  <ellipse cx="250" cy="370" rx="180" ry="35" fill="white" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Cabbage rolls -->
-  <ellipse cx="200" cy="300" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
-  <ellipse cx="300" cy="300" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
-  <ellipse cx="250" cy="330" rx="35" ry="20" fill="#66AA00" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Cabbage leaf texture lines -->
-  <path d="M 175 295 Q 200 285 225 295" stroke="#000" stroke-width="2" fill="none"/>
-  <path d="M 275 295 Q 300 285 325 295" stroke="#000" stroke-width="2" fill="none"/>
-  <path d="M 225 325 Q 250 315 275 325" stroke="#000" stroke-width="2" fill="none"/>
-  
-  <!-- Cabbage vein patterns -->
-  <line x1="190" y1="295" x2="210" y2="305" stroke="#4A7A00" stroke-width="1.5"/>
-  <line x1="290" y1="295" x2="310" y2="305" stroke="#4A7A00" stroke-width="1.5"/>
-  <line x1="240" y1="325" x2="260" y2="335" stroke="#4A7A00" stroke-width="1.5"/>
-  
-  <!-- Brown sauce/gravy -->
-  <ellipse cx="250" cy="340" rx="120" ry="15" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
-  
-  <!-- Steam lines -->
-  <path d="M 200 280 Q 205 270 195 260" stroke="#999999" stroke-width="2" fill="none"/>
-  <path d="M 300 280 Q 295 270 305 260" stroke="#999999" stroke-width="2" fill="none"/>
-  <path d="M 250 310 Q 245 300 255 290" stroke="#999999" stroke-width="2" fill="none"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 257.559 309.956 L 1790.63 309.956 L 1790.65 1681.46 C 1790.68 1686.6 1791.89 1711.71 1790.63 1713.96 L 257.559 1713.96 L 257.559 309.956 z M 825.347 1618 L 1690.25 1618 L 1694.07 1617.83 C 1695.44 1615.19 1694.6 1192.34 1694.6 1153 L 825.347 1153 L 825.347 1618 z M 825.347 864.004 L 1664.51 864.02 C 1669.85 864.037 1692.01 865.447 1694.6 864.004 L 1694.6 406.997 L 825.347 406.997 L 825.365 713.906 C 825.367 763.461 824.716 814.553 825.347 864.004 z M 352.769 1618 L 729.025 1618 C 729.806 1600.98 729.123 1580.07 729.073 1562.71 L 729.025 1153 L 352.769 1153 L 352.769 1618 z M 914.941 956.651 L 352.769 956.651 C 352.574 988.969 351.978 1024.86 352.769 1057 L 1134.5 1057 L 1694.6 1057 L 1694.6 956.651 L 914.941 956.651 z M 352.769 406.997 L 352.769 864.004 L 729.025 864.004 C 730.319 859.889 729.028 782.867 729.028 771.374 L 729.025 406.997 C 673.165 406.335 615.898 406.998 559.894 406.992 L 352.769 406.997 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "OPDV/WlI4GU9dLgIKq+8b8qS6MKVoJV6ayn3HG1Zg8GUfvRxMT0KpFvyT4+9QYiGEaS/tS3bbt9XDJXc2ppBBw==", "signing_algo": "Ed25519", "generation_timestamp": 1772996031, "identifier": "d6e8c09c-2455-40c8-a888-60128b0f8b91"}</recraft-signature></metadata></svg>

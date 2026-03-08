@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- White background -->
-  <rect width="500" height="500" fill="white"/>
-  
-  <!-- Plate -->
-  <ellipse cx="250" cy="380" rx="160" ry="30" fill="white" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Ostkaka slice (cheese cake) -->
-  <path d="M 250 200 L 350 320 L 150 320 Z" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Texture lines showing cottage cheese consistency -->
-  <path d="M 200 250 Q 250 240 300 250" stroke="#E6C200" stroke-width="2" fill="none"/>
-  <path d="M 210 280 Q 250 270 290 280" stroke="#E6C200" stroke-width="2" fill="none"/>
-  <path d="M 180 310 Q 250 300 320 310" stroke="#E6C200" stroke-width="2" fill="none"/>
-  
-  <!-- Small curds texture -->
-  <circle cx="220" cy="260" r="2" fill="white" stroke="#000" stroke-width="1"/>
-  <circle cx="280" cy="265" r="2" fill="white" stroke="#000" stroke-width="1"/>
-  <circle cx="240" cy="290" r="2" fill="white" stroke="#000" stroke-width="1"/>
-  <circle cx="260" cy="295" r="2" fill="white" stroke="#000" stroke-width="1"/>
-  
-  <!-- Jam (often served with ostkaka) -->
-  <ellipse cx="320" cy="300" rx="15" ry="8" fill="#CC0000" stroke="#000" stroke-width="2"/>
-  
-  <!-- Cream -->
-  <ellipse cx="180" cy="300" rx="12" ry="6" fill="white" stroke="#000" stroke-width="2"/>
-  
-  <!-- Golden brown top -->
-  <path d="M 220 210 Q 250 205 280 210" stroke="#8B5E2A" stroke-width="2.5" fill="none"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 1307.77 391.232 C 1335.98 387.981 1372.04 405.794 1397.25 418.194 C 1576.15 506.185 1736.72 661.68 1785.22 860.269 C 1797.7 911.397 1797.69 960.083 1797.66 1012.27 L 1797.67 1509.68 C 1797.76 1552.98 1807.86 1601.1 1771.34 1630.71 C 1736.78 1658.74 1703.19 1638.98 1666.37 1634.67 L 845.905 1537.71 C 808.784 1532.92 770.893 1529.35 733.641 1524.96 L 361.879 1480.58 C 244.612 1466.49 247.907 1452.72 248.023 1330.62 L 248.063 1015.08 C 247.839 905.925 232.2 906.095 337.657 854.463 L 1174.31 451.035 C 1211.45 433.092 1268.08 400.157 1307.77 391.232 z M 382.007 1346.77 C 406.295 1351.45 449.608 1353.95 475.981 1357.11 L 1641.35 1494.18 C 1645.8 1494.74 1660.66 1497.45 1664.03 1495.74 C 1664.62 1456.49 1664.03 1415.81 1664.03 1376.41 L 1664.03 1135.99 C 1664.03 1094.78 1662.64 1044.69 1664.03 1004.24 L 382.007 1004.24 L 382.015 1228.05 C 382.042 1267 382.909 1308.04 382.007 1346.77 z M 613.858 871.49 C 651.134 872.032 689.532 871.481 726.929 871.479 L 953.25 871.49 L 1647.95 871.49 C 1613.38 744.175 1489.29 627.638 1379.31 564.008 C 1369.62 558.403 1320.73 530.814 1313.21 532.037 C 1288.03 542.147 1265.94 553.235 1241.51 564.977 L 781.485 788.553 C 725.989 815.771 669.761 845.452 613.858 871.49 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 684.734 1111.28 C 733.506 1107.59 776.064 1144.07 779.884 1192.83 C 783.704 1241.59 747.346 1284.25 698.594 1288.21 C 649.651 1292.18 606.788 1255.64 602.953 1206.69 C 599.118 1157.74 635.769 1114.97 684.734 1111.28 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1384.55 1115.43 C 1431.84 1110.54 1474.16 1144.87 1479.12 1192.15 C 1484.08 1239.43 1449.81 1281.8 1402.53 1286.82 C 1355.16 1291.86 1312.69 1257.51 1307.72 1210.13 C 1302.75 1162.75 1337.17 1120.33 1384.55 1115.43 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "OeLo71Johzj9anr5AalayVZp5KYxNk3Jt9DjgH18wAOUugRPT0q+T3KZAm5TORxDceJOgqelRmhaGDd/6TK+CQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772995659, "identifier": "661c098b-efb6-4fa7-882d-37b43e5f6ca1"}</recraft-signature></metadata></svg>

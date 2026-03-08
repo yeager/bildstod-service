@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <!-- Book -->
-  <rect x="150" y="200" width="200" height="150" fill="white" stroke="#000" stroke-width="3"/>
-  <line x1="250" y1="200" x2="250" y2="350" stroke="#000" stroke-width="2"/>
-  <!-- Pages -->
-  <line x1="170" y1="220" x2="230" y2="220" stroke="#000" stroke-width="1"/>
-  <line x1="170" y1="240" x2="220" y2="240" stroke="#000" stroke-width="1"/>
-  <line x1="170" y1="260" x2="230" y2="260" stroke="#000" stroke-width="1"/>
-  <line x1="270" y1="220" x2="330" y2="220" stroke="#000" stroke-width="1"/>
-  <line x1="270" y1="240" x2="320" y2="240" stroke="#000" stroke-width="1"/>
-  <!-- Pencil -->
-  <rect x="380" y="200" width="8" height="80" fill="#FFD700" stroke="#000" stroke-width="2"/>
-  <polygon points="380,200 388,200 384,190" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
-  <rect x="382" y="280" width="4" height="15" fill="#FF66CC"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 315.726 419.005 C 354.377 417.074 430.375 482.221 464.238 505.564 L 1089.14 943.896 C 1167.19 999.26 1188.52 1030.55 1102.04 1091.43 L 782.497 1312.79 C 735.796 1346.17 685.466 1379.38 637.966 1411.83 L 399.209 1577.34 C 381.742 1589.34 364.357 1602.53 346.62 1613.81 C 311.228 1636.31 259.302 1610.01 255.345 1568.97 C 253.769 1552.64 254.966 1529.71 254.973 1512.85 L 255.025 546.096 C 254.911 495.43 244.058 424.009 315.726 419.005 z M 382.49 1431.79 C 394.799 1424.86 408.168 1415.31 420.007 1407.23 L 654.555 1247.06 C 681.826 1228.32 708.91 1208.5 736.566 1190.44 C 811.909 1140.23 907.905 1077.71 978.124 1021.69 L 669.586 802.796 C 574.15 736.375 476.792 671.078 382.49 602.994 C 380.999 623.74 382.474 652.148 382.479 673.928 L 382.514 1363.3 C 382.518 1385.14 383.127 1410.22 382.49 1431.79 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1664.59 419.005 L 1747.51 419.056 C 1759.51 419.127 1781.08 420.175 1792 419.005 C 1791.31 428.145 1791.92 445.557 1791.93 455.449 L 1792 1493.38 C 1774.89 1494.08 1752.66 1493.41 1735.09 1493.4 L 1277.56 1493.38 L 1150.05 1493.38 L 1150.05 1367.92 C 1159.27 1366.93 1188.46 1367.86 1199.37 1367.88 L 1664.59 1367.92 L 1664.59 419.005 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "s/W87ETtKsebWMyJRUR47PR4ASa7EyeLL/7Nhg2djCiywP+kbhUGZdVVb4fJ3h9QUg6ruZECeu7K0eub7MzcCw==", "signing_algo": "Ed25519", "generation_timestamp": 1772998019, "identifier": "4c3b1980-762c-413f-ac6d-2c6fb61f0d61"}</recraft-signature></metadata></svg>

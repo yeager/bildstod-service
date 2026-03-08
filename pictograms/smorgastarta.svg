@@ -1,17 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <!-- Plate -->
-  <ellipse cx="250" cy="350" rx="180" ry="35" fill="white" stroke="#000" stroke-width="3"/>
-  <!-- Cake layers -->
-  <rect x="120" y="250" width="260" height="40" fill="#FFD700" stroke="#000" stroke-width="3"/>
-  <rect x="120" y="210" width="260" height="40" fill="#FFD700" stroke="#000" stroke-width="3"/>
-  <!-- Topping layer (cream/mayo) -->
-  <rect x="120" y="200" width="260" height="10" fill="white" stroke="#000" stroke-width="2"/>
-  <!-- Garnish -->
-  <circle cx="180" cy="195" r="8" fill="#CC0000"/> <!-- tomato -->
-  <circle cx="220" cy="195" r="8" fill="#66AA00"/> <!-- cucumber -->
-  <circle cx="260" cy="195" r="8" fill="#FF8800"/> <!-- carrot -->
-  <circle cx="300" cy="195" r="8" fill="#FF66CC"/> <!-- shrimp -->
-  <circle cx="320" cy="195" r="8" fill="#FFD700"/> <!-- egg -->
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 1012.5 398.371 C 1052.7 392.368 1242.45 480.437 1287.83 498.069 L 1813.23 714.4 C 1859.73 733.063 1877.29 780.347 1877.68 827.491 L 1877.73 1410.17 C 1877.77 1470.93 1880.8 1530.27 1833.7 1576.83 C 1782.99 1626.97 1734.41 1623.06 1669.07 1623.07 L 1036.75 1623.04 L 381.42 1623.06 C 320.335 1623.15 280.961 1628.3 229.218 1587.11 C 179.896 1547.85 172.27 1500 172.389 1442.64 L 172.475 856.06 C 172.229 724.073 218.466 719.072 327.908 673.923 L 940.755 423.431 C 961.55 414.826 991.052 400.398 1012.5 398.371 z M 1742.44 1497.12 C 1765.2 1475.2 1752.57 1354.56 1753.96 1316.14 C 1739.7 1317.01 1719.6 1316.21 1704.87 1316.17 L 293.993 1316.14 L 293.937 1418.46 C 293.941 1503.07 294.327 1503.62 386.933 1503.5 L 1611.13 1503.49 C 1638.75 1503.51 1721.2 1508.83 1742.44 1497.12 z M 293.993 982.674 C 306.271 985.366 347.052 987.795 360.991 988.932 L 1681.18 1091.78 C 1692.11 1092.7 1752.84 1102.2 1753.96 1093.25 L 1753.96 860.336 L 293.993 860.336 C 293.367 875.202 293.936 890.552 293.976 905.506 L 293.993 982.674 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "mUyGqKq3EscN+ciqaQmJnx8LdqIB/EBEd4lt2XOR+iiTnrLbsr7x/WDc9KjnFT22LHcqE5ZH/vSnAuJOsYpcBg==", "signing_algo": "Ed25519", "generation_timestamp": 1772995687, "identifier": "27c663c5-6ae5-4201-8c86-1c0ab881d6e8"}</recraft-signature></metadata></svg>

@@ -1,30 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- White background -->
-  <rect width="500" height="500" fill="white"/>
-  
-  <!-- Face -->
-  <circle cx="250" cy="250" r="80" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Angry eyes -->
-  <circle cx="230" cy="230" r="4" fill="#000"/>
-  <circle cx="270" cy="230" r="4" fill="#000"/>
-  
-  <!-- Clenched teeth frown -->
-  <rect x="220" y="275" width="60" height="8" fill="white" stroke="#000" stroke-width="2"/>
-  <line x1="230" y1="275" x2="230" y2="283" stroke="#000" stroke-width="1"/>
-  <line x1="240" y1="275" x2="240" y2="283" stroke="#000" stroke-width="1"/>
-  <line x1="250" y1="275" x2="250" y2="283" stroke="#000" stroke-width="1"/>
-  <line x1="260" y1="275" x2="260" y2="283" stroke="#000" stroke-width="1"/>
-  <line x1="270" y1="275" x2="270" y2="283" stroke="#000" stroke-width="1"/>
-  
-  <!-- Angry eyebrows -->
-  <path d="M 210 215 L 240 225" stroke="#000" stroke-width="3"/>
-  <path d="M 290 215 L 260 225" stroke="#000" stroke-width="3"/>
-  
-  <!-- Frustration lines around head -->
-  <path d="M 150 200 L 140 190" stroke="#CC0000" stroke-width="3"/>
-  <path d="M 350 200 L 360 190" stroke="#CC0000" stroke-width="3"/>
-  <path d="M 180 150 L 170 140" stroke="#CC0000" stroke-width="3"/>
-  <path d="M 320 150 L 330 140" stroke="#CC0000" stroke-width="3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 1002.57 233.689 C 1437.11 221.701 1799.13 564.168 1811.26 998.701 C 1823.39 1433.23 1481.04 1795.36 1046.51 1807.64 C 611.78 1819.92 249.444 1477.38 237.308 1042.64 C 225.171 607.906 567.832 245.682 1002.57 233.689 z M 1689.37 1022.03 C 1690.49 653.999 1392.49 355.038 1024.45 354.989 C 656.417 354.94 358.329 653.823 359.358 1021.86 C 374.295 1023.07 404.701 1021.93 420.716 1021.93 L 1609.57 1021.95 C 1633.06 1021.98 1666.96 1023.29 1689.37 1022.03 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 801.814 751.26 C 831.992 748.769 858.831 771.07 865.488 799.994 C 874.47 837.812 844.714 859.853 820.882 883.639 C 794.436 910.034 767.628 948.741 731.771 956.241 C 680.039 962.695 646.779 904.392 674.926 862.745 C 684.904 847.982 702.909 832.79 715.667 819.579 C 744.226 790.006 760.959 759.097 801.814 751.26 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1235.82 751.26 C 1271.19 747.633 1291.24 775.228 1313.09 798.554 C 1343.46 830.978 1399.39 863.072 1378.83 914.896 C 1369.35 938.809 1352.61 946.876 1331.12 956.241 C 1289.79 954.955 1278.33 933.378 1251.31 907.219 C 1231.41 887.758 1187.37 850.925 1182.19 823.969 C 1174.77 785.35 1199.55 758.836 1235.82 751.26 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 359.358 1021.86 C 374.295 1023.07 404.701 1021.93 420.716 1021.93 L 1609.57 1021.95 C 1633.06 1021.98 1666.96 1023.29 1689.37 1022.03 C 1688.25 1388.54 1390.79 1685.05 1024.28 1685.01 C 657.761 1684.96 360.382 1388.37 359.358 1021.86 z" fill="rgb(252,215,94)" transform="translate(0,0)"></path>
+<path d="M 997.506 1166.96 C 1067.84 1163.74 1247.15 1196.49 1294.13 1254.6 C 1336.08 1305.77 1283.29 1379.77 1221.99 1346.17 C 1158.97 1311.63 1121.19 1297.18 1048.25 1288.87 C 977.089 1286.6 921.786 1295.11 857.179 1328.09 C 838.915 1335.91 824.723 1351.36 804.499 1353.92 C 770.659 1358.2 739.871 1330.55 736.509 1297.56 C 727.49 1209.06 937.985 1172.76 997.506 1166.96 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "XyhVGG/PJ7VBhaI8RySuirWDk+IZYxBotbV3lpVBmYJtZSILhaVTeyfWX9oWyalfaJRckc9aA+2qfyfQFlgHCA==", "signing_algo": "Ed25519", "generation_timestamp": 1773000646, "identifier": "ad8be572-0104-4aed-a34b-925a40142f9a"}</recraft-signature></metadata></svg>

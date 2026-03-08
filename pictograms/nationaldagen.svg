@@ -1,56 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Flag pole -->
-  <rect x="100" y="100" width="8" height="300" fill="#999999" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Swedish flag -->
-  <rect x="108" y="100" width="240" height="160" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Yellow cross vertical -->
-  <rect x="180" y="100" width="24" height="160" fill="#FFD700"/>
-  
-  <!-- Yellow cross horizontal -->
-  <rect x="108" y="170" width="240" height="24" fill="#FFD700"/>
-  
-  <!-- Crown (symbol of Sweden) -->
-  <path d="M200 50 L250 50 L260 80 L240 80 L240 70 L230 70 L230 80 L220 80 L220 70 L210 70 L210 80 L190 80 Z" 
-        fill="#FFD700" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Crown jewels -->
-  <circle cx="210" cy="60" r="3" fill="#CC0000"/>
-  <circle cx="225" cy="60" r="3" fill="#CC0000"/>
-  <circle cx="240" cy="60" r="3" fill="#CC0000"/>
-  
-  <!-- People celebrating -->
-  <!-- Person 1 (adult) -->
-  <circle cx="380" cy="200" r="25" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  <circle cx="372" cy="192" r="4" fill="#000"/>
-  <circle cx="388" cy="192" r="4" fill="#000"/>
-  <path d="M365 210 Q380 220 395 210" fill="none" stroke="#000" stroke-width="2"/>
-  <rect x="370" y="225" width="20" height="50" fill="#0099DD" stroke="#000" stroke-width="3.5"/>
-  <circle cx="350" cy="285" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  <circle cx="410" cy="285" r="8" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Person 2 (child) -->
-  <circle cx="420" cy="270" r="20" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  <circle cx="415" cy="265" r="3" fill="#000"/>
-  <circle cx="425" cy="265" r="3" fill="#000"/>
-  <path d="M410 275 Q420 285 430 275" fill="none" stroke="#000" stroke-width="2"/>
-  <rect x="415" y="290" width="10" height="35" fill="#FFD700" stroke="#000" stroke-width="3.5"/>
-  <circle cx="405" cy="335" r="6" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  <circle cx="435" cy="335" r="6" fill="#FFD5B0" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Small Swedish flag in child's hand -->
-  <rect x="430" y="250" width="2" height="20" fill="#8B5E2A"/>
-  <rect x="432" y="250" width="15" height="10" fill="#0099DD"/>
-  <rect x="435" y="250" width="2" height="10" fill="#FFD700"/>
-  <rect x="432" y="253" width="15" height="2" fill="#FFD700"/>
-  
-  <!-- Festive bunting -->
-  <path d="M50 150 L450 150" stroke="#000" stroke-width="3"/>
-  <path d="M80 150 L90 170 L100 150" fill="#0099DD"/>
-  <path d="M120 150 L130 170 L140 150" fill="#FFD700"/>
-  <path d="M160 150 L170 170 L180 150" fill="#0099DD"/>
-  <path d="M200 150 L210 170 L220 150" fill="#FFD700"/>
-  <path d="M240 150 L250 170 L260 150" fill="#0099DD"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 858.475 305.001 C 888.915 305.981 925.165 305.012 956.107 305.011 L 1743.49 305.001 L 1743.49 603.046 C 1743.49 651.834 1742.62 702.939 1743.49 751.471 L 858.475 751.471 L 858.495 353.861 C 858.513 338.22 859.236 320.263 858.475 305.001 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 858.475 1297.01 C 884.285 1298.46 927.304 1297.04 954.08 1297.02 L 1743.49 1297.01 L 1743.49 1593.03 C 1743.48 1642.17 1742.83 1692.89 1743.49 1741.88 L 955.253 1741.88 C 924.149 1741.88 889.169 1740.96 858.475 1741.88 L 858.475 1297.01 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 858.475 887.512 L 1743.49 887.512 C 1744.68 918.669 1743.51 957.092 1743.5 989.096 L 1743.49 1160 L 858.475 1160 C 857.425 1070.75 857.91 976.878 858.475 887.512 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 306.577 305.001 L 722.49 305.001 C 723.554 353.001 722.505 405.702 722.502 454.085 L 722.49 751.471 L 306.577 751.471 L 306.582 353.568 C 306.597 337.165 307.357 321.419 306.577 305.001 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 322.001 1297.01 L 722.49 1297.01 C 721.504 1308.3 722.403 1330.41 722.43 1342.7 L 722.49 1741.88 L 709.25 1741.88 L 306.577 1741.88 C 305.884 1716.02 306.57 1687.44 306.576 1661.35 L 306.574 1365.5 C 306.566 1343.59 305.808 1318.52 306.577 1297.01 L 322.001 1297.01 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 426.004 887.512 L 624.078 887.517 C 655.419 887.514 691.484 886.607 722.49 887.512 L 722.49 1160 L 604.5 1160 L 306.577 1160 L 306.577 887.512 L 426.004 887.512 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "MG8QV8bUPBUffOQBssK7LGFzE2ixdUg3VT9r70vgpca5g/tctGP8s0y/AnZboeojOn03l1FMfztwpXaOjrPnDQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772996178, "identifier": "b11442e5-beaf-423b-b4f4-41fb8f9e4266"}</recraft-signature></metadata></svg>

@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="50" y="100" width="400" height="300" fill="white" stroke="#000" stroke-width="3"/>
-  <rect x="50" y="380" width="400" height="20" fill="#8B5E2A"/>
-  <circle cx="250" cy="250" r="80" fill="none" stroke="#CC0000" stroke-width="4"/>
-  <rect x="70" y="120" width="20" height="120" fill="#0099DD" stroke="#000" stroke-width="2"/>
-  <rect x="410" y="120" width="20" height="120" fill="#0099DD" stroke="#000" stroke-width="2"/>
-  <circle cx="180" cy="200" r="10" fill="#FF8800"/>
-  <rect x="300" y="300" width="80" height="15" fill="#66AA00" stroke="#000" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 457.981 300.979 C 462.91 300.51 469.99 300.888 475.108 300.884 L 1500.3 300.933 C 1576.57 300.933 1661.94 318.089 1662 416.986 L 1662.06 1706.99 C 1662.05 1741.7 1666.74 1773.35 1639.83 1800.45 C 1606.08 1834.44 1552.99 1834.97 1519.07 1800.72 C 1490.53 1771.91 1495.08 1737.66 1495.07 1699.99 L 1495.09 464.49 L 988.75 464.49 L 669.236 464.5 C 618.155 464.498 562.113 463.307 511.388 464.49 L 511.388 1367.76 L 1191 1367.75 C 1217.45 1367.75 1286.26 1364.54 1308.97 1373.89 C 1385.88 1405.59 1381.89 1517.58 1296.84 1535.71 C 1285.38 1538.16 1268.89 1537.06 1256.86 1537.04 L 527.49 1536.96 C 445.535 1537.14 362.429 1524.48 346.346 1422.43 C 343.816 1406.37 344.877 1386.31 344.917 1369.7 L 344.937 477.415 C 344.747 388.601 351.446 317.06 457.981 300.979 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "N+aFJ27dl6npMJTiRgZ8r+hldPDB0Y6CSqGEe/bHDraC8t3e5lDN24hzo6QKD3ICqVhhciXXkRRV/YRJ3HedAQ==", "signing_algo": "Ed25519", "generation_timestamp": 1772996655, "identifier": "114ed8b9-76a8-49b1-8e1a-d9b89032bf04"}</recraft-signature></metadata></svg>

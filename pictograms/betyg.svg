@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="150" y="150" width="200" height="250" fill="white" stroke="#000" stroke-width="3"/>
-  <rect x="150" y="150" width="200" height="40" fill="#0099DD"/>
-  <text x="250" y="175" fill="white" text-anchor="middle" font-size="20">BETYG</text>
-  <!-- Grade A -->
-  <text x="250" y="250" text-anchor="middle" font-size="60" fill="#66AA00">A</text>
-  <line x1="170" y1="300" x2="330" y2="300" stroke="#000" stroke-width="1"/>
-  <line x1="170" y1="320" x2="280" y2="320" stroke="#000" stroke-width="1"/>
-  <line x1="170" y1="340" x2="300" y2="340" stroke="#000" stroke-width="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 603.407 225.982 C 611.39 225.078 627.93 225.872 636.712 225.903 L 1389.65 225.961 C 1440.9 225.795 1482.29 223.363 1530.47 246.101 C 1656.18 305.429 1663.58 401.497 1663.51 520.916 L 1663.37 1728.88 C 1663.74 1761.27 1642.78 1790.9 1612.09 1801.52 C 1578.56 1813.12 1555.68 1799.31 1526.08 1785.05 L 1310.35 1679.65 C 1284.31 1667.64 1258.85 1654.64 1233.07 1642.12 L 1063.11 1558.95 C 1050.67 1552.76 1036.13 1544.93 1023.1 1540.84 C 989.567 1558.12 956.328 1572.87 922.705 1589.36 L 492.671 1796.69 C 453.844 1815.36 395.186 1787.97 387.183 1745.13 C 381.934 1717.03 384.816 1674.86 384.824 1644.55 L 384.81 484.666 C 384.82 464.146 383.85 440.428 387.176 420.335 C 404.754 314.161 494.571 229.326 603.407 225.982 z M 537.997 1606.44 C 561.847 1593.64 590.872 1581.12 615.799 1569.1 L 929.972 1417.66 C 991.961 1387.78 1005.12 1365.21 1070.96 1395.32 L 1117.55 1416.95 C 1178.76 1445.89 1239.98 1476.97 1301.08 1506.38 L 1430.59 1568.25 C 1452.49 1578.91 1488.5 1597.57 1510.89 1606.44 L 1510.94 499.019 C 1510.99 439.304 1506 378.525 1428.68 378.146 L 620.376 378.043 C 541.347 384.827 537.673 431.801 537.921 493.495 L 537.997 1606.44 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "tfz6SzfrrZDsjDP/NiQ7CYCmXka9R973EUnMQgRyYex1V5mVoy9aKwXIOTJoldFKv6zA7kN3AXSHc5kLiFNaDA==", "signing_algo": "Ed25519", "generation_timestamp": 1772998039, "identifier": "e77ec20a-f952-4dc6-90ca-8b99b2f6749f"}</recraft-signature></metadata></svg>

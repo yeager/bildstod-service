@@ -1,23 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Plate -->
-  <ellipse cx="250" cy="380" rx="150" ry="20" fill="#FFFFFF" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Lussekatt S-shape -->
-  <path d="M180 200 Q220 160 260 180 Q300 200 320 160 Q340 120 380 140" 
-        fill="none" stroke="#FFD700" stroke-width="25" stroke-linecap="round"/>
-  <path d="M180 200 Q220 160 260 180 Q300 200 320 160 Q340 120 380 140" 
-        fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
-  
-  <!-- Second curl going down -->
-  <path d="M180 200 Q140 240 120 280 Q100 320 140 340 Q180 360 200 320 Q220 280 180 300" 
-        fill="none" stroke="#FFD700" stroke-width="25" stroke-linecap="round"/>
-  <path d="M180 200 Q140 240 120 280 Q100 320 140 340 Q180 360 200 320 Q220 280 180 300" 
-        fill="none" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
-  
-  <!-- Raisins -->
-  <circle cx="160" cy="180" r="6" fill="#000"/>
-  <circle cx="200" cy="320" r="6" fill="#000"/>
-  <circle cx="340" cy="140" r="6" fill="#000"/>
-  <circle cx="380" cy="160" r="6" fill="#000"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 857.125 627 C 873.512 625.998 901.207 626.963 918.295 626.982 L 1041.28 626.977 C 1200.91 626.969 1311.32 623.208 1464.11 696.833 C 1614 769.063 1753.89 900.593 1768.08 1075.25 C 1792.78 1379.22 1403.49 1383.33 1190.93 1398.94 C 964.76 1398.43 528.028 1422.92 358.129 1279.45 C 223.701 1165.93 286.479 963.754 384.451 847.83 C 513.29 695.384 667.735 642.899 857.125 627 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 871.296 675.001 L 1175.01 675.095 C 1407.16 676.829 1719.17 844.15 1717.87 1106.48 C 1716.88 1307.63 1470.57 1320.19 1321.4 1341.13 C 1285.23 1345.84 1206.9 1351.57 1173.82 1350.25 C 1147.2 1352.95 1125.28 1353.16 1098.61 1353.17 L 1014.86 1353.18 C 838.792 1353.15 512.952 1348 387.667 1240.97 C 272.43 1142.52 348.218 965.149 429.958 870.487 C 545.42 736.772 699.795 687.482 871.296 675.001 z" fill="rgb(254,176,34)" transform="translate(0,0)"></path>
+<path d="M 1105.94 729.183 C 1160.37 725.22 1199.93 790.746 1145.9 799.73 C 1096.04 800.604 1049.47 742.53 1105.94 729.183 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 966.704 868.31 C 1018.52 865.7 1058.04 921.319 1004.12 937.303 C 949.713 939.411 908.554 875.895 966.704 868.31 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1190.93 937.303 C 1238.79 936.453 1283.74 998.528 1229.97 1009.94 C 1178.27 1011.1 1136.46 947.108 1190.93 937.303 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1343.78 784.249 C 1396.74 777.597 1400.35 836.481 1331.99 852.809 C 1275.26 859.478 1283.36 796.899 1343.78 784.249 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 591.977 843.169 C 642.393 839.357 685.321 901.491 629.49 913.631 C 583.583 914.378 533.075 857.336 591.977 843.169 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 797.975 971.203 C 856.026 964.759 845.322 1023.08 787.837 1042.36 C 738.632 1052.61 732.579 989.632 797.975 971.203 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 832.113 762.272 C 885.764 756.187 891.791 810.392 825.263 827.669 C 769.49 837.542 768.91 773.913 832.113 762.272 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<path d="M 1478.4 900.272 C 1497.77 897.317 1510.1 905.885 1515.51 923.966 C 1510.37 951.742 1487.94 961.104 1463.33 966.29 C 1406.21 971.838 1414.56 911.026 1478.4 900.272 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "fn+BX5ICxt7F0QeCv6HgSchIz46B9blyhG2hbeBc5eVjOrydBA95QedlFKH5QgleBf3ZK3r8NA58ExEGWJ/+Dw==", "signing_algo": "Ed25519", "generation_timestamp": 1772995705, "identifier": "1710ed0e-b0ee-4ec2-9dc0-8a405b675e61"}</recraft-signature></metadata></svg>

@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- White background -->
-  <rect width="500" height="500" fill="white"/>
-  
-  <!-- Clock face -->
-  <circle cx="250" cy="250" r="100" fill="white" stroke="#000" stroke-width="3.5"/>
-  
-  <!-- Clock numbers -->
-  <circle cx="250" cy="170" r="3" fill="#000"/>  <!-- 12 -->
-  <circle cx="330" cy="250" r="3" fill="#000"/>  <!-- 3 -->
-  <circle cx="250" cy="330" r="3" fill="#000"/>  <!-- 6 -->
-  <circle cx="170" cy="250" r="3" fill="#000"/>  <!-- 9 -->
-  
-  <!-- Clock hands showing very close to target time -->
-  <line x1="250" y1="250" x2="315" y2="255" stroke="#000" stroke-width="5"/>  <!-- Hour hand -->
-  <line x1="250" y1="250" x2="270" y2="180" stroke="#000" stroke-width="3"/>  <!-- Minute hand -->
-  
-  <!-- Center dot -->
-  <circle cx="250" cy="250" r="6" fill="#000"/>
-  
-  <!-- Multiple arrows showing imminent time -->
-  <path d="M 360 230 L 390 230 L 385 225 M 390 230 L 385 235" stroke="#CC0000" stroke-width="4" fill="none"/>
-  <path d="M 360 250 L 390 250 L 385 245 M 390 250 L 385 255" stroke="#CC0000" stroke-width="4" fill="none"/>
-  <path d="M 360 270 L 390 270 L 385 265 M 390 270 L 385 275" stroke="#CC0000" stroke-width="4" fill="none"/>
-  
-  <!-- Speed lines -->
-  <line x1="365" y1="220" x2="375" y2="220" stroke="#CC0000" stroke-width="2"/>
-  <line x1="365" y1="280" x2="375" y2="280" stroke="#CC0000" stroke-width="2"/>
-  <line x1="400" y1="240" x2="410" y2="240" stroke="#CC0000" stroke-width="2"/>
-  <line x1="400" y1="260" x2="410" y2="260" stroke="#CC0000" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 289.362 1377 L 289.332 609.235 C 289.311 488.64 293.8 418.347 434.946 418.57 L 1637.36 418.643 C 1735.94 419.35 1757.45 486.394 1757.43 571.841 L 1757.43 1631.09 C 1760.22 1713.87 1635.27 1715.55 1632.07 1636.64 C 1630.88 1607.07 1632.01 1575.5 1632.02 1545.76 L 1632.03 633.197 C 1632.03 605.087 1632.88 572.588 1632.01 544.936 C 1585.94 545.633 1537.94 544.939 1491.73 544.938 L 416.031 544.936 L 416.031 1377 C 410.141 1377.9 385.848 1377.1 378.05 1377.09 L 289.362 1377 z" fill="rgb(39,38,38)" transform="translate(0,0)"></path>
+<path d="M 416.031 1377 C 452.523 1375.57 501.015 1376.99 538.38 1376.99 L 1544.64 1377 C 1545.34 1418.07 1544.67 1460.96 1544.64 1502.15 L 395.951 1502.56 C 317.95 1502.25 288.769 1445.87 289.362 1377 L 378.05 1377.09 C 385.848 1377.1 410.141 1377.9 416.031 1377 z" fill="rgb(103,144,206)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "xmfd2SmWK6drMn6BkWOS6kYdlgWaYwUzrvAMZNbldIDSWi8JBOii7UiV2iwnOby4C5kRt70iKF5HNt9IwDkaCQ==", "signing_algo": "Ed25519", "generation_timestamp": 1773000270, "identifier": "4f7fd8e6-c959-4ffd-8224-a1fb7ce07bcb"}</recraft-signature></metadata></svg>

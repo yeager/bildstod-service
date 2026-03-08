@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="500" height="500" fill="white"/>
-  <rect x="50" y="150" width="400" height="250" fill="white" stroke="#000" stroke-width="3"/>
-  <rect x="50" y="250" width="400" height="150" fill="#0099DD"/>
-  <circle cx="150" cy="200" r="15" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
-  <ellipse cx="150" cy="230" rx="20" ry="10" fill="#FFD5B0" stroke="#000" stroke-width="2"/>
-  <rect x="300" y="180" width="60" height="15" fill="#8B5E2A" stroke="#000" stroke-width="2"/>
-  <path d="M 200 280 Q 250 270 300 280" stroke="white" stroke-width="3" fill="none"/>
-  <rect x="200" y="100" width="100" height="50" fill="#CC0000"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="512" preserveAspectRatio="none" style="display: block;" version="1.1" viewBox="0 0 2048 2048" width="512">
+<path d="M 255.031 297.995 L 1791 297.995 L 1790.97 1589.33 C 1790.98 1641.02 1792.29 1697.87 1791 1749 L 255.031 1749 L 255.031 297.995 z M 373.083 1631.97 L 967.227 1631.97 L 968.784 1631.37 C 970.169 1596.99 967.224 1554.75 967.242 1518.9 L 967.227 1211.39 L 379.124 1211.39 C 375.568 1211.69 375.257 1211.07 373.203 1212.99 C 372.112 1259.82 373.095 1309.55 373.103 1356.67 L 373.083 1631.97 z M 1081.95 1631.97 L 1477.53 1631.98 C 1541.77 1631.98 1611.26 1633.33 1674.94 1631.97 L 1674.94 1211.39 L 1278.86 1211.38 C 1215.15 1211.37 1144.94 1209.87 1081.95 1211.39 L 1081.93 1491.65 C 1081.93 1536.06 1080.6 1588.25 1081.95 1631.97 z M 373.083 412.469 L 373.083 831 C 393.889 831.603 416.701 831.015 437.729 831.009 L 950.5 831 L 967.227 831 L 967.227 412.469 L 389.294 412.469 L 373.083 412.469 z M 588.996 950.933 C 518.628 950.919 443.005 949.423 373.083 950.933 L 373.131 1046.86 C 373.152 1060.15 373.815 1080.05 373.083 1092.87 L 1460.25 1092.87 L 1674.94 1092.87 L 1674.94 950.933 L 588.996 950.933 z M 1674.94 412.469 L 1090.75 412.469 C 1075.02 413.288 1081.89 434.06 1081.89 451.198 L 1081.98 728.603 C 1081.98 759.134 1083.28 801.149 1081.95 831 L 1599.51 830.99 C 1620.67 830.986 1643.85 830.406 1664.75 831 C 1668.84 830.962 1670.42 831.638 1673.47 829.915 C 1676.17 823.035 1674.96 716.119 1674.97 701.42 L 1674.94 412.469 z" fill="rgb(0,0,0)" transform="translate(0,0)"></path>
+<metadata><recraft-signature>{"signed_by": "recraft", "signature_b64": "YAlIExsi5lURxOMe7d2n2LINeZvkc/WmCacDndjAfwdpjhsazZN/bBqG/b8uPIG7Nt2eZdJTd64Yk0CIMQQgBg==", "signing_algo": "Ed25519", "generation_timestamp": 1772996673, "identifier": "86a3c3ca-aefa-4a14-b315-d8d5b0a0a1ee"}</recraft-signature></metadata></svg>
